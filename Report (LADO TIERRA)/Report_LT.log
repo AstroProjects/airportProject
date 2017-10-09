@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.17)  9 OCT 2017 17:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.17)  9 OCT 2017 18:16
 entering extended mode
 **./Report_LT.tex
 (Report_LT.tex
@@ -2056,7 +2056,10 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 54.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [4] (sections/1_Prognosis.tex
 Chapter 1.
-) (sections/2_Distribucion_terminal.tex
+(sections/1_PROGNOSIS/aviationContext.tex)
+(sections/1_PROGNOSIS/referenceAircraft.tex)
+(sections/1_PROGNOSIS/forecastComputation.tex))
+(sections/2_Distribucion_terminal.tex
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 1.
@@ -2304,8 +2307,8 @@ Package rerunfilecheck Info: File `Report_LT.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
  ) 
 Here is how much of TeX's memory you used:
- 30077 strings out of 493333
- 554986 string characters out of 3139194
+ 30088 strings out of 493333
+ 555333 string characters out of 3139194
  641877 words of memory out of 3000000
  33042 multiletter control sequences out of 15000+200000
  54291 words of font info for 51 fonts, out of 3000000 for 9000
