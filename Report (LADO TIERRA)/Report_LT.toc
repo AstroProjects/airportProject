@@ -2,9 +2,10 @@
 \contentsline {chapter}{List of Figures}{iv}{section*.2}
 \contentsline {chapter}{\numberline {1}Prognosis}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Aviation context in Indonesia}{1}{section.1.1}
+\contentsline {paragraph}{}{1}{section*.3}
 \contentsline {subsection}{\numberline {1.1.1}Airport location}{1}{subsection.1.1.1}
 \contentsline {subsection}{\numberline {1.1.2}Current traffic}{1}{subsection.1.1.2}
-\contentsline {subsection}{\numberline {1.1.3}Ocupation factor}{1}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.3}Occupation factor}{1}{subsection.1.1.3}
 \contentsline {section}{\numberline {1.2}Reference aircraft}{1}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}Aircraft type}{1}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Conclusions}{1}{subsection.1.2.2}
