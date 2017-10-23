@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.17)  23 OCT 2017 18:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.17)  23 OCT 2017 18:58
 entering extended mode
 **./Report_LT.tex
 (Report_LT.tex
@@ -2057,87 +2057,61 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 54.
  [4] (sections/1_Prognosis.tex
 Chapter 1.
 (sections/1_PROGNOSIS/aviationContext.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--9
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-
- []
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 14.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 22.
-
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 22.
+less on input line 14.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 22.
+less on input line 14.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 22.
+less on input line 14.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 22.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 14.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.22 
+l.14 
       [1
 
 ]
-<./images/PROGNOSIS/airport_location.png, id=349, 1079.83424pt x 334.24875pt>
+<./images/PROGNOSIS/airport_location.png, id=352, 1079.83424pt x 334.24875pt>
 File: ./images/PROGNOSIS/airport_location.png Graphic file (type png)
 
 <use ./images/PROGNOSIS/airport_location.png>
 Package pdftex.def Info: ./images/PROGNOSIS/airport_location.png used on input 
-line 27.
+line 17.
 (pdftex.def)             Requested size: 426.79135pt x 132.10585pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
+<./images/PROGNOSIS/international-routes.jpg, id=355, 328.8285pt x 182.6022pt>
+File: ./images/PROGNOSIS/international-routes.jpg Graphic file (type jpg)
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-
- []
-
-) (sections/1_PROGNOSIS/referenceAircraft.tex
+<use ./images/PROGNOSIS/international-routes.jpg>
+Package pdftex.def Info: ./images/PROGNOSIS/international-routes.jpg used on in
+put line 32.
+(pdftex.def)             Requested size: 426.79135pt x 237.01224pt.
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 3.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 36.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.3 	\subsection{Aircraft type}
-                                [2 <./images/PROGNOSIS/airport_location.png>])
+l.36 	\subsection{Occupation factor}
+                                     [2 <./images/PROGNOSIS/airport_location.pn
+g>]) (sections/1_PROGNOSIS/referenceAircraft.tex)
 (sections/1_PROGNOSIS/forecastComputation.tex))
 (sections/2_Distribucion_terminal.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
@@ -2145,7 +2119,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
-[3]
+[3 <./images/PROGNOSIS/international-routes.jpg>]
 Chapter 2.
 ) (sections/3_Tipologia_Estructural.tex
 
@@ -2360,10 +2334,10 @@ Package rerunfilecheck Info: File `Report_LT.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
  ) 
 Here is how much of TeX's memory you used:
- 30117 strings out of 493333
- 555817 string characters out of 3139194
- 641965 words of memory out of 3000000
- 33063 multiletter control sequences out of 15000+200000
+ 30124 strings out of 493333
+ 556072 string characters out of 3139194
+ 642041 words of memory out of 3000000
+ 33068 multiletter control sequences out of 15000+200000
  57068 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,16n,77p,10489b,770s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2371,9 +2345,9 @@ Here is how much of TeX's memory you used:
 iKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmss9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lms
 sbx10.pfb>
-Output written on Report_LT.pdf (17 pages, 2116228 bytes).
+Output written on Report_LT.pdf (17 pages, 2815597 bytes).
 PDF statistics:
- 426 PDF objects out of 1000 (max. 8388607)
- 81 named destinations out of 1000 (max. 500000)
- 518 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 432 PDF objects out of 1000 (max. 8388607)
+ 82 named destinations out of 1000 (max. 500000)
+ 529 words of extra memory for PDF output out of 10000 (max. 10000000)
 
