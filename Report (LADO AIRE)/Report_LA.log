@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.17)  23 OCT 2017 17:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.17)  27 NOV 2017 17:12
 entering extended mode
 **./Report_LA.tex
 (Report_LA.tex
@@ -1944,14 +1944,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 29.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (doc_config/cover.tex
-<./doc_config/images/logo.png, id=539, 348.70274pt x 496.254pt>
+<./doc_config/images/logo.png, id=511, 348.70274pt x 496.254pt>
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
 (pdftex.def)             Requested size: 85.35696pt x 121.4735pt.
 
-<./doc_config/images/UPC_ESEIAAT.jpg, id=540, 728.7225pt x 176.66pt>
+<./doc_config/images/UPC_ESEIAAT.jpg, id=512, 728.7225pt x 176.66pt>
 File: ./doc_config/images/UPC_ESEIAAT.jpg Graphic file (type jpg)
 
 <use ./doc_config/images/UPC_ESEIAAT.jpg>
@@ -2164,14 +2164,6 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
  [4
 
 ]
-Overfull \vbox (168.22296pt too high) has occurred while \output is active []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [5]
 Chapter 4.
 ) (sections/5Aprondesign.tex
 
@@ -2194,7 +2186,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [6
+ [5
 
 ]
 Chapter 5.
@@ -2219,7 +2211,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [7
+ [6
 
 ]
 Chapter 6.
@@ -2244,7 +2236,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [8
+ [7
 
 ]
 Overfull \vbox (367.59709pt too high) has occurred while \output is active []
@@ -2254,7 +2246,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [9]
+ [8]
 Chapter 7.
 ) (sections/8Signs.tex
 
@@ -2277,7 +2269,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [10
+ [9
 
 ]
 Overfull \vbox (231.11003pt too high) has occurred while \output is active []
@@ -2287,7 +2279,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [11]
+ [10]
 Chapter 8.
 ) (sections/9Highvoltageelectricalsystem.tex
 
@@ -2310,7 +2302,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [12
+ [11
 
 ]
 Chapter 9.
@@ -2335,7 +2327,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [13
+ [12
 
 ]
 Chapter 10.
@@ -2365,7 +2357,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [14
+ [13
 
 ]
 Overfull \vbox (23.37752pt too high) has occurred while \output is active []
@@ -2375,7 +2367,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [15]
+ [14]
 Chapter 11.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
@@ -2403,7 +2395,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [16
+ [15
 
 ]
 Chapter 12.
@@ -2432,7 +2424,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 91.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [17
+ [16
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
@@ -2441,23 +2433,23 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `Report_LA.out' has not changed.
-(rerunfilecheck)             Checksum: CE03754B66C023FE0DF987BC13D1D3E4;10182.
+(rerunfilecheck)             Checksum: 28444ABA071E24B1598A885A4D895889;9535.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 30241 strings out of 493333
- 557408 string characters out of 3139194
+ 30226 strings out of 493333
+ 557173 string characters out of 3139194
  642878 words of memory out of 3000000
- 33115 multiletter control sequences out of 15000+200000
+ 33108 multiletter control sequences out of 15000+200000
  54291 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,16n,54p,10489b,770s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmssbx10.pfb>
-Output written on Report_LA.pdf (25 pages, 203140 bytes).
+Output written on Report_LA.pdf (24 pages, 197740 bytes).
 PDF statistics:
- 824 PDF objects out of 1000 (max. 8388607)
- 158 named destinations out of 1000 (max. 500000)
- 1083 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 782 PDF objects out of 1000 (max. 8388607)
+ 150 named destinations out of 1000 (max. 500000)
+ 1027 words of extra memory for PDF output out of 10000 (max. 10000000)
 
