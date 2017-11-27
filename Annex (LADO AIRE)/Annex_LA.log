@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.17)  27 NOV 2017 18:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.17)  27 NOV 2017 17:56
 entering extended mode
-**./Report_LT.tex
-(Report_LT.tex
+**./Annex_LA.tex
+(Annex_LA.tex
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 (doc_config/doc_config.tex
@@ -1753,12 +1753,8 @@ Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)) (Report_LT.aux
-
-LaTeX Warning: Label `hourDom' multiply defined.
-
-)
-\openout1 = `Report_LT.aux'.
+)) (Annex_LA.aux)
+\openout1 = `Annex_LA.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
@@ -1776,7 +1772,8 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 29.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 29.
@@ -1852,9 +1849,9 @@ LaTeX Info: Redefining \ref on input line 29.
 LaTeX Info: Redefining \pageref on input line 29.
 LaTeX Info: Redefining \nameref on input line 29.
 
-(Report_LT.out) (Report_LT.out)
+(Annex_LA.out) (Annex_LA.out)
 \@outlinefile=\write3
-\openout3 = `Report_LT.out'.
+\openout3 = `Annex_LA.out'.
 
 
 *geometry* driver: auto-detecting
@@ -1947,14 +1944,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 29.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (doc_config/cover.tex
-<./doc_config/images/logo.png, id=251, 348.70274pt x 496.254pt>
+<./doc_config/images/logo.png, id=511, 348.70274pt x 496.254pt>
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
 (pdftex.def)             Requested size: 85.35696pt x 121.4735pt.
 
-<./doc_config/images/UPC_ESEIAAT.jpg, id=252, 728.7225pt x 176.66pt>
+<./doc_config/images/UPC_ESEIAAT.jpg, id=512, 728.7225pt x 176.66pt>
 File: ./doc_config/images/UPC_ESEIAAT.jpg Graphic file (type jpg)
 
 <use ./doc_config/images/UPC_ESEIAAT.jpg>
@@ -1977,39 +1974,50 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <.
 /doc_config/images/logo.png> <./doc_config/images/UPC_ESEIAAT.jpg>] [2]
-(Report_LT.toc
+(Annex_LA.toc
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 34.
+less on input line 31.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 34.
+less on input line 31.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 34.
+less on input line 31.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 34.
+less on input line 31.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 34.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 31.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [1])
+ [1]
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 70.
+(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
+
+[2]
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 109.
+(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
+ [3])
 \tf@toc=\write4
-\openout4 = `Report_LT.toc'.
+\openout4 = `Annex_LA.toc'.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 41.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
-[2] (Report_LT.lot)
+[4] (Annex_LA.lot)
 \tf@lot=\write5
-\openout5 = `Report_LT.lot'.
+\openout5 = `Annex_LA.lot'.
 
 
 
@@ -2032,9 +2040,9 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 46.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [3] (Report_LT.lof)
+ [5] (Annex_LA.lof)
 \tf@lof=\write6
-\openout6 = `Report_LT.lof'.
+\openout6 = `Annex_LA.lof'.
 
 
 
@@ -2057,166 +2065,157 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 54.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [4] (sections/1_Prognosis.tex
+ [6] (sections/1Location.tex
 Chapter 1.
-(sections/1_PROGNOSIS/aviationContext.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+|[]\T1/lmss/bx/n/24.88 Airport lo-ca-tion and
+ []
+
+) (sections/2Runwaydesign.tex
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 14.
+less on input line 1.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 14.
+less on input line 1.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 14.
+less on input line 1.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 14.
+less on input line 1.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 14.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.14 
-      [1
+l.1 \chapter
+            {Runway design} [1
 
 ]
-<./images/PROGNOSIS/airport_location.png, id=366, 1079.83424pt x 334.24875pt>
-File: ./images/PROGNOSIS/airport_location.png Graphic file (type png)
+Chapter 2.
+) (sections/3Taxiwaydesign.tex
 
-<use ./images/PROGNOSIS/airport_location.png>
-Package pdftex.def Info: ./images/PROGNOSIS/airport_location.png used on input 
-line 17.
-(pdftex.def)             Requested size: 426.79135pt x 132.10585pt.
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 1.
 
 
-pdfTeX warning: pdflatex.exe (file ./images/PROGNOSIS/paxYears.pdf): PDF inclus
-ion: found PDF version <1.7>, but at most version <1.5> allowed
-<./images/PROGNOSIS/paxYears.pdf, id=370, 597.55246pt x 845.07724pt>
-File: ./images/PROGNOSIS/paxYears.pdf Graphic file (type pdf)
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 1.
 
-<use ./images/PROGNOSIS/paxYears.pdf>
-Package pdftex.def Info: ./images/PROGNOSIS/paxYears.pdf used on input line 34.
 
-(pdftex.def)             Requested size: 426.79135pt x 243.53621pt.
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 1.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 1.
+
 File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 38.
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.38 
-      [2 <./images/PROGNOSIS/airport_location.png>]
-<./images/PROGNOSIS/hourDom.png, id=378, 320.8788pt x 182.1204pt>
-File: ./images/PROGNOSIS/hourDom.png Graphic file (type png)
+l.1 \chapter
+            {Taxiway design} [2
 
-<use ./images/PROGNOSIS/hourDom.png>
-Package pdftex.def Info: ./images/PROGNOSIS/hourDom.png used on input line 42.
-(pdftex.def)             Requested size: 341.43437pt x 191.1387pt.
-File: ./images/PROGNOSIS/hourDom.png Graphic file (type png)
- <use ./images/PROGNOSIS/hourDom.png>
-Package pdftex.def Info: ./images/PROGNOSIS/hourDom.png used on input line 48.
-(pdftex.def)             Requested size: 341.43437pt x 191.1387pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
+]
+Overfull \vbox (85.61613pt too high) has occurred while \output is active []
 
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 52.
-(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [3 <./images/PROGNOSIS/paxYears.pdf> <./images/PROGNOSIS/hourDom.png>]
-<./images/PROGNOSIS/international-routes.jpg, id=398, 328.8285pt x 182.6022pt>
-File: ./images/PROGNOSIS/international-routes.jpg Graphic file (type jpg)
-
-<use ./images/PROGNOSIS/international-routes.jpg>
-Package pdftex.def Info: ./images/PROGNOSIS/international-routes.jpg used on in
-put line 56.
-(pdftex.def)             Requested size: 426.79135pt x 237.01224pt.
-)
-(sections/1_PROGNOSIS/referenceAircraft.tex)
-(sections/1_PROGNOSIS/forecastComputation.tex))
-(sections/2_Distribucion_terminal.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
-
-[4 <./images/PROGNOSIS/international-routes.jpg>]
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [5]
-Chapter 2.
+ [3]
+Chapter 3.
+) (sections/4Holdingpositions.tex
 
-Package caption Warning: \label without proper reference on input line 16.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table:FAAdomestic' on page 6 undefined on input line 
-13.
-
-
-Package caption Warning: \label without proper reference on input line 50.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table:FAAinternational' on page 6 undefined on input 
-line 46.
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 1.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 86.
-
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 86.
+less on input line 1.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 86.
+less on input line 1.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 86.
+less on input line 1.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 86.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
+(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
+ [4
+
+]
+Chapter 4.
+) (sections/5Aprondesign.tex
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 1.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 1.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 1.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 1.
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
+(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
+ [5
+
+]
+Chapter 5.
+) (sections/6Markings.tex
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 1.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 1.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 1.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 1.
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [6
 
 ]
-
-Package caption Warning: \label without proper reference on input line 92.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table:FAAtotal' on page 7 undefined on input line 90.
-
-
-
-Overfull \hbox (30.80186pt too wide) in paragraph at lines 94--115
- [][] 
- []
-
-) (sections/3_Tipologia_Estructural.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
-
-[7]
-Chapter 3.
-) (sections/4_Pavimentos_Interiores.tex
+Chapter 6.
+) (sections/7Lights.tex
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 1.
@@ -2237,11 +2236,19 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [8
+ [7
 
 ]
-Chapter 4.
-) (sections/5_Fachada.tex
+Overfull \vbox (367.59709pt too high) has occurred while \output is active []
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
+(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
+ [8]
+Chapter 7.
+) (sections/8Signs.tex
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 1.
@@ -2265,33 +2272,16 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
  [9
 
 ]
-Chapter 5.
-) (sections/6_Cubierta.tex
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 1.
-
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 1.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 1.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 1.
+Overfull \vbox (231.11003pt too high) has occurred while \output is active []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
+
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [10
-
-]
-Chapter 6.
-) (sections/7_Cerramientos_Interiores.tex
+ [10]
+Chapter 8.
+) (sections/9Highvoltageelectricalsystem.tex
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 1.
@@ -2315,8 +2305,8 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
  [11
 
 ]
-Chapter 7.
-) (sections/8_Normativa_Anti_Incendios.tex
+Chapter 9.
+) (sections/10Medvoltageelectricalsystem.tex
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 1.
@@ -2340,8 +2330,13 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
  [12
 
 ]
-Chapter 8.
-) (Report_LT.bbl
+Chapter 10.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+|[]\T1/lmss/bx/n/24.88 Medium volt-age elec-tri-cal
+ []
+
+) (sections/11Aeronauticallimitationsurfaces.tex
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 1.
@@ -2365,7 +2360,45 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
  [13
 
 ]
-Chapter 9.
+Overfull \vbox (23.37752pt too high) has occurred while \output is active []
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
+(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
+ [14]
+Chapter 11.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+|[]\T1/lmss/bx/n/24.88 Aeronautical lim-i-ta-tion
+ []
+
+) (Annex_LA.bbl
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 1.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 1.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 1.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 1.
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
+(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
+ [15
+
+]
+Chapter 12.
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
@@ -2373,60 +2406,50 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 AED: lastpage setting LastPage
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 88.
+less on input line 91.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 88.
+less on input line 91.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 88.
+less on input line 91.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 88.
+less on input line 91.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 88.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 91.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [14
+ [16
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
- (Report_LT.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
-Package rerunfilecheck Info: File `Report_LT.out' has not changed.
-(rerunfilecheck)             Checksum: B102F1A386E6497624E1145BC284C3AE;4280.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
+ (Annex_LA.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
+Package rerunfilecheck Info: File `Annex_LA.out' has not changed.
+(rerunfilecheck)             Checksum: 28444ABA071E24B1598A885A4D895889;9535.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 30150 strings out of 493333
- 556600 string characters out of 3139194
- 645553 words of memory out of 3000000
- 33082 multiletter control sequences out of 15000+200000
- 57068 words of font info for 52 fonts, out of 3000000 for 9000
+ 30226 strings out of 493333
+ 557151 string characters out of 3139194
+ 642881 words of memory out of 3000000
+ 33108 multiletter control sequences out of 15000+200000
+ 54291 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,16n,77p,10489b,770s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/M
-iKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/lm/lmss9.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/lm/lmssbx10.pfb>
-Output written on Report_LT.pdf (20 pages, 3079108 bytes).
+ 39i,16n,54p,10488b,770s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/lm/lmssbx10.pfb>
+Output written on Annex_LA.pdf (24 pages, 197740 bytes).
 PDF statistics:
- 494 PDF objects out of 1000 (max. 8388607)
- 92 named destinations out of 1000 (max. 500000)
- 557 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 782 PDF objects out of 1000 (max. 8388607)
+ 150 named destinations out of 1000 (max. 500000)
+ 1027 words of extra memory for PDF output out of 10000 (max. 10000000)
 
