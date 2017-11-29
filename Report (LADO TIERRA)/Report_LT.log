@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.28)  29 NOV 2017 09:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.28)  29 NOV 2017 21:22
 entering extended mode
 **./Report_LT.tex
 (Report_LT.tex
@@ -2146,30 +2146,37 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 3. on
  input line 3.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 3.
  [4 <./images/PROGNOSIS/international-routes.jpg>]
-LaTeX Font Info:    Try loading font information for TS1+lmss on input line 9.
+LaTeX Font Info:    Try loading font information for TS1+lmss on input line 11.
+
  ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ts1lmss.fd"
 File: ts1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)))
-(sections/2_Distribucion_terminal.tex
+)
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 25. o
+n input line 25.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 25.
+
+[5]
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 83. o
+n input line 83.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 83.
+ [6])) (sections/2_Distribucion_terminal.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
- [5]
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
- input line 1.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
- [6]
+ [7]
 Chapter 2.
 
 Package caption Warning: \label without proper reference on input line 16.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:FAAdomestic' on page 7 undefined on input line 
+LaTeX Warning: Reference `table:FAAdomestic' on page 8 undefined on input line 
 13.
 
 
@@ -2177,7 +2184,7 @@ Package caption Warning: \label without proper reference on input line 50.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:FAAinternational' on page 7 undefined on input 
+LaTeX Warning: Reference `table:FAAinternational' on page 8 undefined on input 
 line 46.
 
 
@@ -2201,7 +2208,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 86. o
 n input line 86.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 86.
-[7
+[8
 
 ]
 
@@ -2209,7 +2216,7 @@ Package caption Warning: \label without proper reference on input line 92.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:FAAtotal' on page 8 undefined on input line 90.
+LaTeX Warning: Reference `table:FAAtotal' on page 9 undefined on input line 90.
 
 
 
@@ -2223,7 +2230,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
- [8]
+ [9]
 Chapter 3.
 ) (sections/4_Pavimentos_Interiores.tex
 
@@ -2247,7 +2254,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[9
+[10
 
 ]
 Chapter 4.
@@ -2273,7 +2280,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[10
+[11
 
 ]
 Chapter 5.
@@ -2299,7 +2306,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[11
+[12
 
 ]
 Chapter 6.
@@ -2325,7 +2332,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[12
+[13
 
 ]
 Chapter 7.
@@ -2351,7 +2358,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[13
+[14
 
 ]
 Chapter 8.
@@ -2377,7 +2384,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[14
+[15
 
 ]
 Chapter 9.
@@ -2407,7 +2414,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 88. o
 n input line 88.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 88.
-[15
+[16
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
@@ -2415,9 +2422,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
  (Report_LT.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
-Package rerunfilecheck Info: File `Report_LT.out' has not changed.
-(rerunfilecheck)             Checksum: F64579F580F56C58D9131CB2006DD1FA;4356.
 
+
+Package rerunfilecheck Warning: File `Report_LT.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Report_LT.out':
+(rerunfilecheck)             Before: F64579F580F56C58D9131CB2006DD1FA;4356
+(rerunfilecheck)             After:  69F9C53ECB31FE19C411461D02392CB8;4352.
 
 LaTeX Warning: There were undefined references.
 
@@ -2427,23 +2440,30 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
  ) 
 Here is how much of TeX's memory you used:
- 30246 strings out of 493312
- 564956 string characters out of 3138886
+ 30248 strings out of 493312
+ 564977 string characters out of 3138886
  643204 words of memory out of 3000000
  33196 multiletter control sequences out of 15000+200000
  584070 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,16n,77p,10489b,772s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,16n,77p,10489b,834s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/M
-iKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/
-dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/lm/lmss9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
-ssbx10.pfb>
-Output written on Report_LT.pdf (21 pages, 3083985 bytes).
+iKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/e
+nc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ma
+thex.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program
+ Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/l
+m/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi6.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/lm/lmss9.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm
+/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy6.pfb>
+Output written on Report_LT.pdf (22 pages, 3126378 bytes).
 PDF statistics:
- 508 PDF objects out of 1000 (max. 8388607)
- 95 named destinations out of 1000 (max. 500000)
+ 545 PDF objects out of 1000 (max. 8388607)
+ 97 named destinations out of 1000 (max. 500000)
  565 words of extra memory for PDF output out of 10000 (max. 10000000)
 

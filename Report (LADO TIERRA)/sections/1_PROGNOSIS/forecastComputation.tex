@@ -1,13 +1,18 @@
 \section{Forecast computation}
-In order to do a realistic study for the new Bekasi-East airport traffic, it is previously established the Soekarno-Hatta International Airport (CGK) as the reference airport for the for the future operations prevision. According to one of the IATA main recommended methods for the elaboration of traffic previsions, data from historical series of CGK traffic has been used so as to be able to extrapolate the study horizons of the airport to be designed.
+In order to do a realistic study for the new Bekasi-East airport traffic, it is previously established the Soekarno-Hatta International Airport (CGK) as the reference airport for future operations prevision. According to one of the IATA main recommended methods for the elaboration of traffic previsions, data from historical series of CGK traffic has been used so as to be able to extrapolate the study horizons of the airport to be designed.
 
-In order to do this, it is necessary to calculate the variation tendency 
+In order to do this, it is necessary to calculate the annual variation tendency of the different traffic parameters from historical data of the last years. Data mentioned is extracted from the "Directorate General of Civil Aviation" (DGCA) and "FlightRadar24" web pages.
+
+With this information, the next step is to calculate the values of horizon scenario, which has been fixed in 14 years with respect to the airport inauguration (it is expected to be finished in 2021). The horizon scenario will be fixed then in 2035.  
 
 Before starting the study of passenger and operation demands, some important aspects will be taken into account:
 
 \begin{itemize}
 	\item The airport to be projected will absorb nearly the 40\% of CGK’s current traffic, which corresponds to the percentage of delayed flights due to congestion.
-	\item The growth tendencies, concretely the Compound Annual Growth Rate (CAGR), has been calculated using the data corresponding to the five more recent years.
+	\item The growth tendencies, concretely the Compound Annual Growth Rate (CAGR), has been calculated using the data corresponding to the five more recent years. The expression used to calculate the values is the following one:
+	\begin{equation}
+	CAGR=\left(\frac{V_{fin}}{V_{ini}}\right)^{\frac{1}{t_{fin}-t_{ini}}}-1
+	\end{equation}
 	\item The prediction of passengers and operations have been calculated using three possible scenario.
 	\begin{itemize}
 		\item Neutral scenario: The growth is constant along time
@@ -42,12 +47,56 @@ In addition, both the airlines as well as the percentage of operations absorbed 
 	\end{table}
 
 	\subsection{Passenger prediction}
+In this section it will be calculated the number of annual passenger both domestic and international in the horizon scenario in 2035.
+ 
+Taking into account the historical passenger data collected from CGK airport, one can obtain:
+%TABLA
 
+The CAGR's calculated from  data in the table above:
+ \begin{itemize}
+ 	\item CAGR for Neutral Scenario
+ 	%TABLA
+ 	
+ 	\item CAGR for Optimistic and Pessimistic Scenario (applied from 2025)
+%TABLA
+ \end{itemize}
 	
-	
-	
-	
-	
+Using the growth taxes computed previously, it is obtained the following results in horizon scenario. It is important to remark that in the 5 last years period some fluctuations occurred in the passenger demand.
+%TABLA
+
+Plotting the results in a graphical form:
+%GRAFICOS
 	
 	\subsection{Operations prediction}
-	\subsection{Flights on standard day}
+In this section it will be calculated the number of annual operations both domestic and international in the horizon scenario in 2035.
+	
+Taking into account the historical operations data collected from CGK airport, one can obtain:
+%TABLA
+	
+The CAGR's calculated from  data in the table above:
+	\begin{itemize}
+		\item CAGR for Neutral Scenario
+		%TABLA
+		
+		\item CAGR for Optimistic and Pessimistic Scenario (applied from 2025)
+		%TABLA
+	\end{itemize}
+	
+Using the growth taxes computed previously, it is obtained the following results in horizon scenario. It is important to remark that in the 5 last years period some fluctuations occurred in the operations demand, as well as it occurred for the passengers. This fact seems intuitive since it is a very straight relation between number of passengers and operations.
+	%TABLA
+	
+Plotting the results in a graphical form:
+	% GRAFICOS
+	
+	\subsection{Flights on busy day}
+IATA defines the busy day as the second busiest day in an average week during the peak month. An average weekly pattern of passenger traffic is calculated for that month. Peaks associated with special events such as religious festivals, trade fairs and conventions, and sport events, are excluded.
+
+Having 2015 busy month values of passenger and operations for CGK airport and the total year values, the percentage of peak above mean can be calculated. Supposing this percentage above mean is conserved along time, it is easy to extrapolate the number of passenger and operations in busy day for the new Bekasi-East Airport. The following results are obtained:
+
+%TABLA
+
+With the number of maximum hourly operations and an utilisation factor of 77\% for both domestic and international flights, the number of maximum passenger per hour in the airport is calculated.
+
+%TABLA
+	
+	

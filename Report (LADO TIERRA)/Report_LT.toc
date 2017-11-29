@@ -14,53 +14,53 @@
 \contentsline {section}{\numberline {1.3}Forecast computation}{5}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}Passenger prediction}{6}{subsection.1.3.1}
 \contentsline {subsection}{\numberline {1.3.2}Operations prediction}{6}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}Flights on standard day}{6}{subsection.1.3.3}
-\contentsline {chapter}{\numberline {2}Terminal building distribution}{7}{chapter.2}
-\contentsline {section}{\numberline {2.1}Basic dimensions of the terminal building}{7}{section.2.1}
-\contentsline {section}{\numberline {2.2}Surface distribution}{7}{section.2.2}
-\contentsline {chapter}{\numberline {3}Structural typology description}{9}{chapter.3}
-\contentsline {section}{\numberline {3.1}Foundation}{9}{section.3.1}
-\contentsline {section}{\numberline {3.2}Vertical elements}{9}{section.3.2}
-\contentsline {section}{\numberline {3.3}Forge}{9}{section.3.3}
-\contentsline {chapter}{\numberline {4}Indoor paving}{10}{chapter.4}
-\contentsline {section}{\numberline {4.1}Typology}{10}{section.4.1}
-\contentsline {section}{\numberline {4.2}Floor covering}{10}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Structural base}{10}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Intermediate layers without buttress function}{10}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Leveling layer}{10}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Grip layer}{10}{subsection.4.2.4}
-\contentsline {section}{\numberline {4.3}Design}{10}{section.4.3}
-\contentsline {section}{\numberline {4.4}Superficial layer}{10}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Common areas paving}{10}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Stairways}{10}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Restroom paving}{10}{subsection.4.4.3}
-\contentsline {subsection}{\numberline {4.4.4}Offices paving}{10}{subsection.4.4.4}
-\contentsline {subsection}{\numberline {4.4.5}Automatic baggage handling system paving}{10}{subsection.4.4.5}
-\contentsline {chapter}{\numberline {5}Facade}{11}{chapter.5}
-\contentsline {section}{\numberline {5.1}Front and back facade}{11}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Requirements and adopted solution}{11}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Glass}{11}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Spider system with steel pillars}{11}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}Steel and concrete mixed columns}{11}{subsection.5.1.4}
-\contentsline {section}{\numberline {5.2}Lateral facade}{11}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Facade (prefabricated concrete)}{11}{subsection.5.2.1}
-\contentsline {section}{\numberline {5.3}Other elements}{11}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Main door and other sliding doors}{11}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Access bridges}{11}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Emergency doors}{11}{subsection.5.3.3}
-\contentsline {subsection}{\numberline {5.3.4}Automatic baggage handling system doors}{11}{subsection.5.3.4}
-\contentsline {chapter}{\numberline {6}Building cover}{12}{chapter.6}
-\contentsline {section}{\numberline {6.1}Adopted solution}{12}{section.6.1}
-\contentsline {section}{\numberline {6.2}Shape and inclination of the building cover}{12}{section.6.2}
-\contentsline {section}{\numberline {6.3}Used materials}{12}{section.6.3}
-\contentsline {section}{\numberline {6.4}Sewer system}{12}{section.6.4}
-\contentsline {chapter}{\numberline {7}Indoor closures}{13}{chapter.7}
-\contentsline {section}{\numberline {7.1}Walls}{13}{section.7.1}
-\contentsline {section}{\numberline {7.2}Doors}{13}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Baggage claim hall doors}{13}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Office access and automatic baggage handling system access doors}{13}{subsection.7.2.2}
-\contentsline {chapter}{\numberline {8}Fire prevention regulations}{14}{chapter.8}
-\contentsline {section}{\numberline {8.1}Fire prevention regulations and chosen materials}{14}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Building elements}{14}{subsection.8.1.1}
-\contentsline {subsection}{\numberline {8.1.2}Materials}{14}{subsection.8.1.2}
-\contentsline {chapter}{\numberline {9}Bibliography}{15}{chapter.9}
+\contentsline {subsection}{\numberline {1.3.3}Flights on busy day}{7}{subsection.1.3.3}
+\contentsline {chapter}{\numberline {2}Terminal building distribution}{8}{chapter.2}
+\contentsline {section}{\numberline {2.1}Basic dimensions of the terminal building}{8}{section.2.1}
+\contentsline {section}{\numberline {2.2}Surface distribution}{8}{section.2.2}
+\contentsline {chapter}{\numberline {3}Structural typology description}{10}{chapter.3}
+\contentsline {section}{\numberline {3.1}Foundation}{10}{section.3.1}
+\contentsline {section}{\numberline {3.2}Vertical elements}{10}{section.3.2}
+\contentsline {section}{\numberline {3.3}Forge}{10}{section.3.3}
+\contentsline {chapter}{\numberline {4}Indoor paving}{11}{chapter.4}
+\contentsline {section}{\numberline {4.1}Typology}{11}{section.4.1}
+\contentsline {section}{\numberline {4.2}Floor covering}{11}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Structural base}{11}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Intermediate layers without buttress function}{11}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Leveling layer}{11}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Grip layer}{11}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Design}{11}{section.4.3}
+\contentsline {section}{\numberline {4.4}Superficial layer}{11}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Common areas paving}{11}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Stairways}{11}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Restroom paving}{11}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Offices paving}{11}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}Automatic baggage handling system paving}{11}{subsection.4.4.5}
+\contentsline {chapter}{\numberline {5}Facade}{12}{chapter.5}
+\contentsline {section}{\numberline {5.1}Front and back facade}{12}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Requirements and adopted solution}{12}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Glass}{12}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Spider system with steel pillars}{12}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Steel and concrete mixed columns}{12}{subsection.5.1.4}
+\contentsline {section}{\numberline {5.2}Lateral facade}{12}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Facade (prefabricated concrete)}{12}{subsection.5.2.1}
+\contentsline {section}{\numberline {5.3}Other elements}{12}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Main door and other sliding doors}{12}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Access bridges}{12}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Emergency doors}{12}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Automatic baggage handling system doors}{12}{subsection.5.3.4}
+\contentsline {chapter}{\numberline {6}Building cover}{13}{chapter.6}
+\contentsline {section}{\numberline {6.1}Adopted solution}{13}{section.6.1}
+\contentsline {section}{\numberline {6.2}Shape and inclination of the building cover}{13}{section.6.2}
+\contentsline {section}{\numberline {6.3}Used materials}{13}{section.6.3}
+\contentsline {section}{\numberline {6.4}Sewer system}{13}{section.6.4}
+\contentsline {chapter}{\numberline {7}Indoor closures}{14}{chapter.7}
+\contentsline {section}{\numberline {7.1}Walls}{14}{section.7.1}
+\contentsline {section}{\numberline {7.2}Doors}{14}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Baggage claim hall doors}{14}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Office access and automatic baggage handling system access doors}{14}{subsection.7.2.2}
+\contentsline {chapter}{\numberline {8}Fire prevention regulations}{15}{chapter.8}
+\contentsline {section}{\numberline {8.1}Fire prevention regulations and chosen materials}{15}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Building elements}{15}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}Materials}{15}{subsection.8.1.2}
+\contentsline {chapter}{\numberline {9}Bibliography}{16}{chapter.9}
