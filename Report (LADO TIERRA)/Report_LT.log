@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.28)  1 DEC 2017 19:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.28)  3 DEC 2017 20:35
 entering extended mode
 **./Report_LT.tex
 (Report_LT.tex
@@ -2323,6 +2323,12 @@ Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
 [14
 
 ]
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
+ input line 1.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
+ [15]
 Chapter 4.
 ) (sections/5_Fachada.tex
 
@@ -2346,7 +2352,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[15
+[16
 
 ]
 Chapter 5.
@@ -2372,7 +2378,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[16
+[17
 
 ]
 Chapter 6.
@@ -2398,7 +2404,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[17
+[18
 
 ]
 Chapter 7.
@@ -2424,7 +2430,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[18
+[19
 
 ]
 Chapter 8.
@@ -2450,7 +2456,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[19
+[20
 
 ]
 Chapter 9.
@@ -2480,7 +2486,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 88. o
 n input line 88.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 88.
-[20
+[21
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
@@ -2500,10 +2506,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
  ) 
 Here is how much of TeX's memory you used:
- 30301 strings out of 493312
- 566571 string characters out of 3138886
+ 30303 strings out of 493312
+ 566590 string characters out of 3138886
  645539 words of memory out of 3000000
- 33226 multiletter control sequences out of 15000+200000
+ 33227 multiletter control sequences out of 15000+200000
  584070 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,16n,77p,10489b,772s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2521,9 +2527,9 @@ public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb>
 /MiKTeX 2.9/fonts/type1/public/lm/lmss9.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm
 /lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy6.pfb>
-Output written on Report_LT.pdf (26 pages, 3520861 bytes).
+Output written on Report_LT.pdf (27 pages, 3523177 bytes).
 PDF statistics:
- 608 PDF objects out of 1000 (max. 8388607)
- 115 named destinations out of 1000 (max. 500000)
+ 612 PDF objects out of 1000 (max. 8388607)
+ 116 named destinations out of 1000 (max. 500000)
  609 words of extra memory for PDF output out of 10000 (max. 10000000)
 
