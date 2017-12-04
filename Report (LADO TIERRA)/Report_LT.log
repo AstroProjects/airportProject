@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.28)  4 DEC 2017 16:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.28)  4 DEC 2017 21:33
 entering extended mode
 **./Report_LT.tex
 (Report_LT.tex
@@ -2338,37 +2338,42 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
  [16]
 Chapter 3.
-) (sections/4_Pavimentos_Interiores.tex
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 1.
+less on input line 14.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 1.
+less on input line 14.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 1.
+less on input line 14.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 1.
+less on input line 14.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
- input line 1.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 14. o
+n input line 14.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 14.
 [17
 
 ]
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 33. o
+n input line 33.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 33.
+ [18]) (sections/4_Pavimentos_Interiores.tex
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
- [18]
+ [19]
 Chapter 4.
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
@@ -2391,7 +2396,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 26. o
 n input line 26.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 26.
-[19
+[20
 
 ]
 File: ./doc_config/images/logo.png Graphic file (type png)
@@ -2399,14 +2404,14 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 52. o
 n input line 52.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 52.
- [20]
+ [21]
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 77. o
 n input line 77.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 77.
- [21]
-<./images/SueloGeneral.jpg, id=575, 824.07875pt x 412.54124pt>
+ [22]
+<./images/SueloGeneral.jpg, id=580, 824.07875pt x 412.54124pt>
 File: ./images/SueloGeneral.jpg Graphic file (type jpg)
 <use ./images/SueloGeneral.jpg>
 Package pdftex.def Info: ./images/SueloGeneral.jpg  used on input line 91. on i
@@ -2418,22 +2423,22 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 95. o
 n input line 95.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 95.
- [22 <./images/SueloGeneral.jpg>]
-<./images/SueloSecundario.jpg, id=581, 834.11626pt x 352.31625pt>
+ [23 <./images/SueloGeneral.jpg>]
+<./images/SueloSecundario.jpg, id=586, 834.11626pt x 352.31625pt>
 File: ./images/SueloSecundario.jpg Graphic file (type jpg)
 <use ./images/SueloSecundario.jpg>
 Package pdftex.def Info: ./images/SueloSecundario.jpg  used on input line 98. o
 n input line 98.
 Package pdftex.def Info: Requested size: 426.79134pt x 180.27025pt on input lin
 e 98.
-<./images/Color.png, id=582, 303.1325pt x 302.12875pt>
+<./images/Color.png, id=587, 303.1325pt x 302.12875pt>
 File: ./images/Color.png Graphic file (type png)
 <use ./images/Color.png>
 Package pdftex.def Info: ./images/Color.png  used on input line 133. on input l
 ine 133.
 Package pdftex.def Info: Requested size: 28.45274pt x 28.35677pt on input line 
 133.
-<./images/Resultado.png, id=583, 596.2275pt x 446.66875pt>
+<./images/Resultado.png, id=588, 596.2275pt x 446.66875pt>
 File: ./images/Resultado.png Graphic file (type png)
 <use ./images/Resultado.png>
 Package pdftex.def Info: ./images/Resultado.png  used on input line 140. on inp
@@ -2446,15 +2451,15 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 143.
 on input line 143.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 143.
 
- [23 <./images/SueloSecundario.jpg> <./images/Color.png>]
-<./images/Color2.png, id=590, 301.125pt x 301.125pt>
+ [24 <./images/SueloSecundario.jpg> <./images/Color.png>]
+<./images/Color2.png, id=595, 301.125pt x 301.125pt>
 File: ./images/Color2.png Graphic file (type png)
 <use ./images/Color2.png>
 Package pdftex.def Info: ./images/Color2.png  used on input line 151. on input 
 line 151.
 Package pdftex.def Info: Requested size: 28.45274pt x 28.45094pt on input line 
 151.
-<./images/Resultado2.jpg, id=591, 1027.84pt x 761.84625pt>
+<./images/Resultado2.jpg, id=596, 1027.84pt x 761.84625pt>
 File: ./images/Resultado2.jpg Graphic file (type jpg)
 <use ./images/Resultado2.jpg>
 Package pdftex.def Info: ./images/Resultado2.jpg  used on input line 158. on in
@@ -2467,15 +2472,15 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 163.
 on input line 163.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 163.
 
- [24 <./images/Resultado.png> <./images/Color2.png>]
-<./images/Color3.png, id=598, 298.11375pt x 299.1175pt>
+ [25 <./images/Resultado.png> <./images/Color2.png>]
+<./images/Color3.png, id=604, 298.11375pt x 299.1175pt>
 File: ./images/Color3.png Graphic file (type png)
 <use ./images/Color3.png>
 Package pdftex.def Info: ./images/Color3.png  used on input line 167. on input 
 line 167.
 Package pdftex.def Info: Requested size: 28.45274pt x 28.54425pt on input line 
 167.
-<./images/Resultado3.png, id=599, 965.6075pt x 737.75626pt>
+<./images/Resultado3.png, id=605, 965.6075pt x 737.75626pt>
 File: ./images/Resultado3.png Graphic file (type png)
 <use ./images/Resultado3.png>
 Package pdftex.def Info: ./images/Resultado3.png  used on input line 175. on in
@@ -2489,15 +2494,15 @@ on input line 181.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 181.
 
 
-[25 <./images/Resultado2.jpg> <./images/Color3.png> <./images/Resultado3.png>]
-<./images/Color4.png, id=607, 83.31125pt x 83.31125pt>
+[26 <./images/Resultado2.jpg> <./images/Color3.png> <./images/Resultado3.png>]
+<./images/Color4.png, id=612, 83.31125pt x 83.31125pt>
 File: ./images/Color4.png Graphic file (type png)
 <use ./images/Color4.png>
 Package pdftex.def Info: ./images/Color4.png  used on input line 187. on input 
 line 187.
 Package pdftex.def Info: Requested size: 28.45274pt x 28.45256pt on input line 
 187.
-<./images/Resultado4.png, id=608, 453.695pt x 339.2675pt>
+<./images/Resultado4.png, id=613, 453.695pt x 339.2675pt>
 File: ./images/Resultado4.png Graphic file (type png)
 <use ./images/Resultado4.png>
 Package pdftex.def Info: ./images/Resultado4.png  used on input line 194. on in
@@ -2511,8 +2516,8 @@ on input line 224.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 224.
 
 
-[26 <./images/Color4.png> <./images/Resultado4.png>]
-<./images/Resultado5.jpg, id=615, 652.4375pt x 434.62375pt>
+[27 <./images/Color4.png> <./images/Resultado4.png>]
+<./images/Resultado5.jpg, id=620, 652.4375pt x 434.62375pt>
 File: ./images/Resultado5.jpg Graphic file (type jpg)
 <use ./images/Resultado5.jpg>
 Package pdftex.def Info: ./images/Resultado5.jpg  used on input line 234. on in
@@ -2526,7 +2531,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
 
-[27 <./images/Resultado5.jpg>]
+[28 <./images/Resultado5.jpg>]
 Chapter 5.
 ) (sections/6_Cubierta.tex
 
@@ -2550,7 +2555,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[28
+[29
 
 ]
 Chapter 6.
@@ -2576,7 +2581,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[29
+[30
 
 ]
 Chapter 7.
@@ -2602,7 +2607,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[30
+[31
 
 ]
 Chapter 8.
@@ -2628,7 +2633,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[31
+[32
 
 ]
 Chapter 9.
@@ -2658,7 +2663,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 88. o
 n input line 88.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 88.
-[32
+[33
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
@@ -2667,7 +2672,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
 Package rerunfilecheck Info: File `Report_LT.out' has not changed.
-(rerunfilecheck)             Checksum: 216D695F8DE729703CEFCE2350CF48ED;4366.
+(rerunfilecheck)             Checksum: C0CFC1406177FC2C49E78212A25BDCBE;4365.
 
 
 LaTeX Warning: There were undefined references.
@@ -2675,8 +2680,8 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
  ) 
 Here is how much of TeX's memory you used:
- 30415 strings out of 493312
- 568598 string characters out of 3138886
+ 30417 strings out of 493312
+ 568619 string characters out of 3138886
  646417 words of memory out of 3000000
  33290 multiletter control sequences out of 15000+200000
  595148 words of font info for 65 fonts, out of 3000000 for 9000
@@ -2696,9 +2701,9 @@ public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb>
 /MiKTeX 2.9/fonts/type1/public/lm/lmss9.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm
 /lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy6.pfb>
-Output written on Report_LT.pdf (38 pages, 5970470 bytes).
+Output written on Report_LT.pdf (39 pages, 5976386 bytes).
 PDF statistics:
- 721 PDF objects out of 1000 (max. 8388607)
- 149 named destinations out of 1000 (max. 500000)
+ 727 PDF objects out of 1000 (max. 8388607)
+ 151 named destinations out of 1000 (max. 500000)
  667 words of extra memory for PDF output out of 10000 (max. 10000000)
 
