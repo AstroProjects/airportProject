@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.17)  4 DEC 2017 16:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.17)  4 DEC 2017 16:59
 entering extended mode
 **./Report_LT.tex
 (Report_LT.tex
@@ -1977,23 +1977,23 @@ Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <.
 (Report_LT.toc
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 35.
+less on input line 36.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 35.
+less on input line 36.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 35.
+less on input line 36.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 35.
+less on input line 36.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 35.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 36.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [1])
 \tf@toc=\write4
@@ -2085,56 +2085,83 @@ l.12 \clearpage
                 [1
 
 ]
-<./images/PROGNOSIS/airport_location.png, id=427, 1079.83424pt x 334.24875pt>
+<./images/PROGNOSIS/airport_location.png, id=432, 1079.83424pt x 334.24875pt>
 File: ./images/PROGNOSIS/airport_location.png Graphic file (type png)
 
 <use ./images/PROGNOSIS/airport_location.png>
 Package pdftex.def Info: ./images/PROGNOSIS/airport_location.png used on input 
 line 21.
 (pdftex.def)             Requested size: 426.79135pt x 132.10585pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./images/PROGNOSIS/paxYears.pdf): PDF inclus
-ion: found PDF version <1.7>, but at most version <1.5> allowed
-<./images/PROGNOSIS/paxYears.pdf, id=431, 597.55246pt x 845.07724pt>
-File: ./images/PROGNOSIS/paxYears.pdf Graphic file (type pdf)
-
-<use ./images/PROGNOSIS/paxYears.pdf>
-Package pdftex.def Info: ./images/PROGNOSIS/paxYears.pdf used on input line 38.
-
-(pdftex.def)             Requested size: 426.79135pt x 243.53621pt.
 File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 42.
+
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 36.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 
-      [2
+l.36 T
+      he little passenger decrement  over the 2014 and 2015 was due some ser...
+[2
 
  <./images/PROGNOSIS/airport_location.png>]
-<./images/PROGNOSIS/hourDom.png, id=440, 320.8788pt x 182.1204pt>
+
+pdfTeX warning: pdflatex.exe (file ./images/PROGNOSIS/paxYears.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<./images/PROGNOSIS/paxYears.pdf, id=443, 597.55246pt x 845.07724pt>
+File: ./images/PROGNOSIS/paxYears.pdf Graphic file (type pdf)
+
+<use ./images/PROGNOSIS/paxYears.pdf>
+Package pdftex.def Info: ./images/PROGNOSIS/paxYears.pdf used on input line 40.
+
+(pdftex.def)             Requested size: 426.79135pt x 243.53621pt.
+
+<./images/PROGNOSIS/arrivalsMonthly.png, id=447, 701.62125pt x 442.65375pt>
+File: ./images/PROGNOSIS/arrivalsMonthly.png Graphic file (type png)
+
+<use ./images/PROGNOSIS/arrivalsMonthly.png>
+Package pdftex.def Info: ./images/PROGNOSIS/arrivalsMonthly.png used on input l
+ine 49.
+(pdftex.def)             Requested size: 426.79135pt x 269.26865pt.
+File: ./doc_config/images/logo.png Graphic file (type png)
+
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 53.
+(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
+ [3 <./images/PROGNOSIS/paxYears.pdf>]
+<./images/PROGNOSIS/hourDom.png, id=466, 320.8788pt x 182.1204pt>
 File: ./images/PROGNOSIS/hourDom.png Graphic file (type png)
 
 <use ./images/PROGNOSIS/hourDom.png>
-Package pdftex.def Info: ./images/PROGNOSIS/hourDom.png used on input line 46.
+Package pdftex.def Info: ./images/PROGNOSIS/hourDom.png used on input line 57.
+(pdftex.def)             Requested size: 341.43437pt x 191.1387pt.
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 62.
+(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
+
+[4 <./images/PROGNOSIS/arrivalsMonthly.png> <./images/PROGNOSIS/hourDom.png>]
+<./images/PROGNOSIS/hourInt.png, id=477, 320.8788pt x 182.1204pt>
+File: ./images/PROGNOSIS/hourInt.png Graphic file (type png)
+
+<use ./images/PROGNOSIS/hourInt.png>
+Package pdftex.def Info: ./images/PROGNOSIS/hourInt.png used on input line 65.
 (pdftex.def)             Requested size: 341.43437pt x 191.1387pt.
 
-Overfull \hbox (167.48615pt too wide) in paragraph at lines 59--62
+Overfull \hbox (167.48615pt too wide) in paragraph at lines 78--81
  [][] \T1/lmss/m/n/10.95 Oc-cu-pa-tion fac-tor will be 77% https://www.iata.org
 /whatwedo/workgroups/Documents/MCTF/AMC-Exec-Comment-FY14.pdf
  []
 
-) (sections/1_PROGNOSIS/referenceAircraft.tex
+) (sections/1_PROGNOSIS/referenceAircraft.tex)
+(sections/1_PROGNOSIS/forecastComputation.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 3.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [3 <./images/PROGNOSIS/paxYears.pdf> <./images/PROGNOSIS/hourDom.png>]) (secti
-ons/1_PROGNOSIS/forecastComputation.tex
+ [5 <./images/PROGNOSIS/hourInt.png>]
 LaTeX Font Info:    Try loading font information for TS1+lmss on input line 11.
 
 
@@ -2144,10 +2171,10 @@ File: ts1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 20.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 73.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [4]
-<./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev.jpg, id=476, 840.89156pt x 554.
+ [6]
+<./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev.jpg, id=503, 840.89156pt x 554.
 82281pt>
 File: ./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev.jpg Graphic file (type jpg
 )
@@ -2160,8 +2187,8 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 121.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [5]
-<./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev_NEUOPTPES.jpg, id=482, 840.1387
+ [7]
+<./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev_NEUOPTPES.jpg, id=510, 840.1387
 5pt x 554.07pt>
 File: ./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev_NEUOPTPES.jpg Graphic file
  (type jpg)
@@ -2173,15 +2200,11 @@ ES.jpg used on input line 124.
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 128.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 132.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [6 <./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev.jpg>]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 194.
-(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [7 <./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev_NEUOPTPES.jpg>]
-<./images/PROGNOSIS/TrafficForecast/BE_OPS_Prev.jpg, id=495, 839.38594pt x 554.
+ [8 <./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev.jpg> <./images/PROGNOSIS/Tr
+afficForecast/BE_PAX_Prev_NEUOPTPES.jpg>]
+<./images/PROGNOSIS/TrafficForecast/BE_OPS_Prev.jpg, id=518, 839.38594pt x 554.
 82281pt>
 File: ./images/PROGNOSIS/TrafficForecast/BE_OPS_Prev.jpg Graphic file (type jpg
 )
@@ -2189,8 +2212,13 @@ File: ./images/PROGNOSIS/TrafficForecast/BE_OPS_Prev.jpg Graphic file (type jpg
 Package pdftex.def Info: ./images/PROGNOSIS/TrafficForecast/BE_OPS_Prev.jpg use
 d on input line 197.
 (pdftex.def)             Requested size: 426.79135pt x 282.10083pt.
+File: ./doc_config/images/logo.png Graphic file (type png)
 
-<./images/PROGNOSIS/TrafficForecast/BE_OPS_Prev_NEUOPTPES.jpg, id=497, 839.3859
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 201.
+(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
+ [9]
+<./images/PROGNOSIS/TrafficForecast/BE_OPS_Prev_NEUOPTPES.jpg, id=524, 839.3859
 4pt x 554.82281pt>
 File: ./images/PROGNOSIS/TrafficForecast/BE_OPS_Prev_NEUOPTPES.jpg Graphic file
  (type jpg)
@@ -2202,28 +2230,29 @@ ES.jpg used on input line 204.
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 208.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 225.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [8 <./images/PROGNOSIS/TrafficForecast/BE_OPS_Prev.jpg>]
+ [10 <./images/PROGNOSIS/TrafficForecast/BE_OPS_Prev.jpg> <./images/PROGNOSIS/T
+rafficForecast/BE_OPS_Prev_NEUOPTPES.jpg>]))
+(sections/2_Distribucion_terminal.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 296.
-(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [9 <./images/PROGNOSIS/TrafficForecast/BE_OPS_Prev_NEUOPTPES.jpg>])) (sections
-/2_Distribucion_terminal.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [10]
+
+[11]
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
+(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
+ [12]
 Chapter 2.
 
 Package caption Warning: \label without proper reference on input line 11.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:FAAdomestic' on page 11 undefined on input line
+LaTeX Warning: Reference `table:FAAdomestic' on page 13 undefined on input line
  8.
 
 
@@ -2231,7 +2260,7 @@ Package caption Warning: \label without proper reference on input line 45.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:FAAinternational' on page 11 undefined on input
+LaTeX Warning: Reference `table:FAAinternational' on page 13 undefined on input
  line 41.
 
 
@@ -2254,7 +2283,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 84.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [11
+ [13
 
 ]
 
@@ -2262,7 +2291,7 @@ Package caption Warning: \label without proper reference on input line 87.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:FAAtotal' on page 12 undefined on input line 85
+LaTeX Warning: Reference `table:FAAtotal' on page 14 undefined on input line 85
 .
 
 
@@ -2274,8 +2303,8 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 136.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [12]
-<./images/graf1.png, id=525, 501.875pt x 364.36125pt>
+ [14]
+<./images/graf1.png, id=553, 501.875pt x 364.36125pt>
 File: ./images/graf1.png Graphic file (type png)
  <use ./images/graf1.png>
 Package pdftex.def Info: ./images/graf1.png used on input line 139.
@@ -2285,21 +2314,21 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 160.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [13 <./images/graf1.png>]
-<./images/IATA1.png, id=534, 632.3625pt x 153.57375pt>
+ [15 <./images/graf1.png>]
+<./images/IATA1.png, id=561, 632.3625pt x 153.57375pt>
 File: ./images/IATA1.png Graphic file (type png)
 
 <use ./images/IATA1.png>
 Package pdftex.def Info: ./images/IATA1.png used on input line 172.
 (pdftex.def)             Requested size: 227.62204pt x 55.27946pt.
 
-<./images/IATA2.png, id=535, 621.32124pt x 254.9525pt>
+<./images/IATA2.png, id=562, 621.32124pt x 254.9525pt>
 File: ./images/IATA2.png Graphic file (type png)
 
 <use ./images/IATA2.png>
 Package pdftex.def Info: ./images/IATA2.png used on input line 178.
 (pdftex.def)             Requested size: 227.62204pt x 93.40117pt.
- <./images/IATA3.png, id=536, 590.205pt x 371.3875pt>
+ <./images/IATA3.png, id=563, 590.205pt x 371.3875pt>
 File: ./images/IATA3.png Graphic file (type png)
 
 <use ./images/IATA3.png>
@@ -2309,7 +2338,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 197.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [14 <./images/IATA1.png> <./images/IATA2.png> <./images/IATA3.png>]
+ [16 <./images/IATA1.png> <./images/IATA2.png> <./images/IATA3.png>]
 Underfull \hbox (badness 1418) in paragraph at lines 212--213
 []\T1/lmss/m/n/10.95 The to-tal num-ber of pass-port con-trol po-si-tions will 
 be 18. Since the ra-tio
@@ -2319,13 +2348,13 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 244.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [15]) (sections/3_Tipologia_Estructural.tex
+ [17]) (sections/3_Tipologia_Estructural.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [16]
+ [18]
 Chapter 3.
 ) (sections/4_Pavimentos_Interiores.tex
 
@@ -2348,7 +2377,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [17
+ [19
 
 ]
 File: ./doc_config/images/logo.png Graphic file (type png)
@@ -2356,7 +2385,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
-[18]
+[20]
 Chapter 4.
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
@@ -2378,7 +2407,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 26.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [19
+ [21
 
 ]
 File: ./doc_config/images/logo.png Graphic file (type png)
@@ -2386,13 +2415,13 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 52.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
-[20]
+[22]
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 77.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [21]
-<./images/SueloGeneral.jpg, id=578, 824.07875pt x 412.54124pt>
+ [23]
+<./images/SueloGeneral.jpg, id=605, 824.07875pt x 412.54124pt>
 File: ./images/SueloGeneral.jpg Graphic file (type jpg)
 
 <use ./images/SueloGeneral.jpg>
@@ -2402,22 +2431,22 @@ File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 95.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [22 <./images/SueloGeneral.jpg>]
-<./images/SueloSecundario.jpg, id=584, 834.11626pt x 352.31625pt>
+ [24 <./images/SueloGeneral.jpg>]
+<./images/SueloSecundario.jpg, id=611, 834.11626pt x 352.31625pt>
 File: ./images/SueloSecundario.jpg Graphic file (type jpg)
 
 <use ./images/SueloSecundario.jpg>
 Package pdftex.def Info: ./images/SueloSecundario.jpg used on input line 98.
 (pdftex.def)             Requested size: 426.79134pt x 180.27025pt.
 
-<./images/Color.png, id=585, 303.1325pt x 302.12875pt>
+<./images/Color.png, id=612, 303.1325pt x 302.12875pt>
 File: ./images/Color.png Graphic file (type png)
 
 <use ./images/Color.png>
 Package pdftex.def Info: ./images/Color.png used on input line 133.
 (pdftex.def)             Requested size: 28.45274pt x 28.35677pt.
 
-<./images/Resultado.png, id=586, 596.2275pt x 446.66875pt>
+<./images/Resultado.png, id=613, 596.2275pt x 446.66875pt>
 File: ./images/Resultado.png Graphic file (type png)
 
 <use ./images/Resultado.png>
@@ -2427,14 +2456,14 @@ File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 143.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [23 <./images/SueloSecundario.jpg> <./images/Color.png>]
-<./images/Color2.png, id=593, 301.125pt x 301.125pt>
+ [25 <./images/SueloSecundario.jpg> <./images/Color.png>]
+<./images/Color2.png, id=621, 301.125pt x 301.125pt>
 File: ./images/Color2.png Graphic file (type png)
  <use ./images/Color2.png>
 Package pdftex.def Info: ./images/Color2.png used on input line 151.
 (pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 
-<./images/Resultado2.jpg, id=594, 1027.84pt x 761.84625pt>
+<./images/Resultado2.jpg, id=622, 1027.84pt x 761.84625pt>
 File: ./images/Resultado2.jpg Graphic file (type jpg)
 
 <use ./images/Resultado2.jpg>
@@ -2444,15 +2473,15 @@ File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 163.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [24 <./images/Resultado.png> <./images/Color2.png>]
-<./images/Color3.png, id=601, 298.11375pt x 299.1175pt>
+ [26 <./images/Resultado.png> <./images/Color2.png>]
+<./images/Color3.png, id=629, 298.11375pt x 299.1175pt>
 File: ./images/Color3.png Graphic file (type png)
 
 <use ./images/Color3.png>
 Package pdftex.def Info: ./images/Color3.png used on input line 167.
 (pdftex.def)             Requested size: 28.45274pt x 28.54425pt.
 
-<./images/Resultado3.png, id=602, 965.6075pt x 737.75626pt>
+<./images/Resultado3.png, id=630, 965.6075pt x 737.75626pt>
 File: ./images/Resultado3.png Graphic file (type png)
 
 <use ./images/Resultado3.png>
@@ -2462,16 +2491,16 @@ File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 181.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [25 <./images/Resultado2.jpg> <./images/Color3.png> <./images/Resultado3.png>]
+ [27 <./images/Resultado2.jpg> <./images/Color3.png> <./images/Resultado3.png>]
 
-<./images/Color4.png, id=610, 83.31125pt x 83.31125pt>
+<./images/Color4.png, id=637, 83.31125pt x 83.31125pt>
 File: ./images/Color4.png Graphic file (type png)
 
 <use ./images/Color4.png>
 Package pdftex.def Info: ./images/Color4.png used on input line 187.
 (pdftex.def)             Requested size: 28.45274pt x 28.45256pt.
 
-<./images/Resultado4.png, id=611, 453.695pt x 339.2675pt>
+<./images/Resultado4.png, id=638, 453.695pt x 339.2675pt>
 File: ./images/Resultado4.png Graphic file (type png)
 
 <use ./images/Resultado4.png>
@@ -2481,8 +2510,8 @@ File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 224.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [26 <./images/Color4.png> <./images/Resultado4.png>]
-<./images/Resultado5.jpg, id=618, 652.4375pt x 434.62375pt>
+ [28 <./images/Color4.png> <./images/Resultado4.png>]
+<./images/Resultado5.jpg, id=645, 652.4375pt x 434.62375pt>
 File: ./images/Resultado5.jpg Graphic file (type jpg)
 
 <use ./images/Resultado5.jpg>
@@ -2494,7 +2523,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [27 <./images/Resultado5.jpg>]
+ [29 <./images/Resultado5.jpg>]
 Chapter 5.
 ) (sections/6_Cubierta.tex
 
@@ -2517,7 +2546,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [28
+ [30
 
 ]
 Chapter 6.
@@ -2542,7 +2571,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [29
+ [31
 
 ]
 Chapter 7.
@@ -2567,7 +2596,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [30
+ [32
 
 ]
 Chapter 8.
@@ -2592,7 +2621,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [31
+ [33
 
 ]
 Chapter 9.
@@ -2620,7 +2649,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 88.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [32
+ [34
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
@@ -2637,10 +2666,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
  ) 
 Here is how much of TeX's memory you used:
- 30365 strings out of 493333
- 561092 string characters out of 3139194
- 648890 words of memory out of 3000000
- 33212 multiletter control sequences out of 15000+200000
+ 30382 strings out of 493333
+ 561511 string characters out of 3139194
+ 649107 words of memory out of 3000000
+ 33222 multiletter control sequences out of 15000+200000
  71321 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,16n,77p,10489b,955s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2659,9 +2688,9 @@ public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb>
 type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm
 /lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/
 Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy6.pfb>
-Output written on Report_LT.pdf (38 pages, 5997387 bytes).
+Output written on Report_LT.pdf (40 pages, 6147642 bytes).
 PDF statistics:
- 729 PDF objects out of 1000 (max. 8388607)
- 151 named destinations out of 1000 (max. 500000)
- 667 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 756 PDF objects out of 1000 (max. 8388607)
+ 156 named destinations out of 1000 (max. 500000)
+ 689 words of extra memory for PDF output out of 10000 (max. 10000000)
 
