@@ -6,6 +6,7 @@
 \BOOKMARK [2][-]{subsection.1.1.2}{Current traffic}{section.1.1}% 6
 \BOOKMARK [2][-]{subsection.1.1.3}{Occupation factor}{section.1.1}% 7
 \BOOKMARK [1][-]{section.1.2}{Reference aircraft}{chapter.1}% 8
+<<<<<<< HEAD
 \BOOKMARK [2][-]{subsection.1.2.1}{Aircraft type}{section.1.2}% 9
 \BOOKMARK [2][-]{subsection.1.2.2}{Conclusions}{section.1.2}% 10
 \BOOKMARK [1][-]{section.1.3}{Forecast computation}{chapter.1}% 11
@@ -61,3 +62,61 @@
 \BOOKMARK [2][-]{subsection.8.1.1}{Building elements}{section.8.1}% 61
 \BOOKMARK [2][-]{subsection.8.1.2}{Materials}{section.8.1}% 62
 \BOOKMARK [0][-]{chapter.9}{Bibliography}{}% 63
+=======
+\BOOKMARK [2][-]{subsection.1.2.1}{Aircraft type for 4E reference key airfield}{section.1.2}% 9
+\BOOKMARK [2][-]{subsection.1.2.2}{Aircraft type for 4C reference key airfield}{section.1.2}% 10
+\BOOKMARK [2][-]{subsection.1.2.3}{Conclusions}{section.1.2}% 11
+\BOOKMARK [1][-]{section.1.3}{Forecast computation}{chapter.1}% 12
+\BOOKMARK [2][-]{subsection.1.3.1}{Passenger prediction}{section.1.3}% 13
+\BOOKMARK [2][-]{subsection.1.3.2}{Operations prediction}{section.1.3}% 14
+\BOOKMARK [2][-]{subsection.1.3.3}{Flights on busy day}{section.1.3}% 15
+\BOOKMARK [0][-]{chapter.2}{Terminal building distribution}{}% 16
+\BOOKMARK [1][-]{section.2.1}{Surface distribution}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.2}{Dimensioning of elements}{chapter.2}% 18
+\BOOKMARK [0][-]{chapter.3}{Structural typology description}{}% 19
+\BOOKMARK [1][-]{section.3.1}{Foundation}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.2}{Vertical elements}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.3}{Forge}{chapter.3}% 22
+\BOOKMARK [0][-]{chapter.4}{Indoor flooring}{}% 23
+\BOOKMARK [1][-]{section.4.1}{flooring typology}{chapter.4}% 24
+\BOOKMARK [1][-]{section.4.2}{Floor covering}{chapter.4}% 25
+\BOOKMARK [2][-]{subsection.4.2.1}{Structural base}{section.4.2}% 26
+\BOOKMARK [2][-]{subsection.4.2.2}{No-grip intermediate layers}{section.4.2}% 27
+\BOOKMARK [2][-]{subsection.4.2.3}{Leveling layer}{section.4.2}% 28
+\BOOKMARK [2][-]{subsection.4.2.4}{Grip layer}{section.4.2}% 29
+\BOOKMARK [1][-]{section.4.3}{Design}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.4}{Superficial layer}{chapter.4}% 31
+\BOOKMARK [2][-]{subsection.4.4.1}{Common areas flooring}{section.4.4}% 32
+\BOOKMARK [2][-]{subsection.4.4.2}{Stairways and secondary areas flooring}{section.4.4}% 33
+\BOOKMARK [2][-]{subsection.4.4.3}{Restrooms flooring}{section.4.4}% 34
+\BOOKMARK [2][-]{subsection.4.4.4}{Offices flooring}{section.4.4}% 35
+\BOOKMARK [2][-]{subsection.4.4.5}{Automatic baggage handling system flooring}{section.4.4}% 36
+\BOOKMARK [0][-]{chapter.5}{Facade}{}% 37
+\BOOKMARK [1][-]{section.5.1}{Front and back facade}{chapter.5}% 38
+\BOOKMARK [2][-]{subsection.5.1.1}{Requirements and adopted solution}{section.5.1}% 39
+\BOOKMARK [2][-]{subsection.5.1.2}{Glass}{section.5.1}% 40
+\BOOKMARK [2][-]{subsection.5.1.3}{Spider system with steel pillars}{section.5.1}% 41
+\BOOKMARK [2][-]{subsection.5.1.4}{Steel and concrete mixed columns}{section.5.1}% 42
+\BOOKMARK [1][-]{section.5.2}{Lateral facade}{chapter.5}% 43
+\BOOKMARK [2][-]{subsection.5.2.1}{Facade \(prefabricated concrete\)}{section.5.2}% 44
+\BOOKMARK [1][-]{section.5.3}{Other elements}{chapter.5}% 45
+\BOOKMARK [2][-]{subsection.5.3.1}{Main door and other sliding doors}{section.5.3}% 46
+\BOOKMARK [2][-]{subsection.5.3.2}{Access bridges}{section.5.3}% 47
+\BOOKMARK [2][-]{subsection.5.3.3}{Emergency doors}{section.5.3}% 48
+\BOOKMARK [2][-]{subsection.5.3.4}{Automatic baggage handling system doors}{section.5.3}% 49
+\BOOKMARK [0][-]{chapter.6}{Building cover}{}% 50
+\BOOKMARK [1][-]{section.6.1}{Adopted solution}{chapter.6}% 51
+\BOOKMARK [1][-]{section.6.2}{Shape and inclination of the building cover}{chapter.6}% 52
+\BOOKMARK [1][-]{section.6.3}{Used materials}{chapter.6}% 53
+\BOOKMARK [1][-]{section.6.4}{Sewer system}{chapter.6}% 54
+\BOOKMARK [0][-]{chapter.7}{Indoor closures}{}% 55
+\BOOKMARK [1][-]{section.7.1}{Walls}{chapter.7}% 56
+\BOOKMARK [1][-]{section.7.2}{Doors}{chapter.7}% 57
+\BOOKMARK [2][-]{subsection.7.2.1}{Baggage claim hall doors}{section.7.2}% 58
+\BOOKMARK [2][-]{subsection.7.2.2}{Office access and automatic baggage handling system access doors}{section.7.2}% 59
+\BOOKMARK [0][-]{chapter.8}{Fire prevention regulations}{}% 60
+\BOOKMARK [1][-]{section.8.1}{Fire prevention regulations and chosen materials}{chapter.8}% 61
+\BOOKMARK [2][-]{subsection.8.1.1}{Building elements}{section.8.1}% 62
+\BOOKMARK [2][-]{subsection.8.1.2}{Materials}{section.8.1}% 63
+\BOOKMARK [0][-]{chapter.9}{Bibliography}{}% 64
+>>>>>>> 9581ffe7ea81b6ea4ae8bd3cad11c161377b4b29
