@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.4)  4 DEC 2017 19:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.4)  5 DEC 2017 10:42
 entering extended mode
 **./1Location.tex
 (1Location.tex
@@ -524,6 +524,23 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no : in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--9
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 -
+       Latitude: 6°08'21''
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 Missing character: There is no - in font nullfont!
 Missing character: There is no L in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -540,13 +557,27 @@ Missing character: There is no � in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no ' in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no ; in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no ' in font nullfont!
 Missing character: There is no ' in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 10--11
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 -
+       Longitude: 107°06'40''
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 Missing character: There is no - in font nullfont!
 Missing character: There is no L in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -570,6 +601,23 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no ' in font nullfont!
 Missing character: There is no ' in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 12--13
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 -
+       Altitude: 30meters approximately.
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 Missing character: There is no - in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -602,6 +650,24 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 14--15
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 S
+      ince the area chosen is extremely marshy, the excavations to deeper le...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 Missing character: There is no S in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -792,7 +858,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.16 	\section
+l.19 	\section
               {Meteorology}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -812,7 +878,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no y in font nullfont!
 ! Undefined control sequence.
-l.17 		\subsection
+l.20 		\subsection
                   {Temperature}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -832,7 +898,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
-l.18 		\paragraph
+l.21 		\paragraph
                  {}The reference temperature of airports is important to be ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1654,12 +1720,12 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 1--23
+Overfull \hbox (20.0pt too wide) in paragraph at lines 16--26
 []
  []
 
 ! Undefined control sequence.
-l.24 		\subsection
+l.27 		\subsection
                   {Wind}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1674,7 +1740,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.24 		\subsection{W
+l.27 		\subsection{W
                     ind}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1684,7 +1750,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
 ! Undefined control sequence.
-l.25 		\paragraph
+l.28 		\paragraph
                  {}In order to calculate the influence of the winds the firs...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1888,7 +1954,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 24--26
+Overfull \hbox (20.0pt too wide) in paragraph at lines 27--29
 []
  []
 
@@ -1899,7 +1965,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 		\begin{figure}
+l.30 		\begin{figure}
                      [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1912,7 +1978,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 		\begin{figure}[
+l.30 		\begin{figure}[
                       H]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1921,7 +1987,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.29 			\includegraphics
+l.32 			\includegraphics
                         [clip, trim=0cm 0cm 0cm 0cm, width=1\textwidth]{./im...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1963,7 +2029,7 @@ Missing character: There is no 1 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.29 ..., trim=0cm 0cm 0cm 0cm, width=1\textwidth]
+l.32 ..., trim=0cm 0cm 0cm 0cm, width=1\textwidth]
                                                   {./images/WIND/ROSE}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1972,7 +2038,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.29 ..., trim=0cm 0cm 0cm 0cm, width=1\textwidth]
+l.32 ..., trim=0cm 0cm 0cm 0cm, width=1\textwidth]
                                                   {./images/WIND/ROSE}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -2007,7 +2073,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 			\caption
+l.33 			\caption
                 {Wind Rose Graph} %nom de la figura
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2032,19 +2098,19 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 		\end{figure}
+l.35 		\end{figure}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 27--33
+Overfull \hbox (20.0pt too wide) in paragraph at lines 30--36
 []
  []
 
 ! Undefined control sequence.
-l.34 		\paragraph
+l.37 		\paragraph
                  {}Once this step is done, the next thing to do is to calcul...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2059,7 +2125,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.34 		\paragraph{}O
+l.37 		\paragraph{}O
                     nce this step is done, the next thing to do is to calcul...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2524,7 +2590,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 34--41
+Overfull \hbox (20.0pt too wide) in paragraph at lines 37--44
 []
  []
 
@@ -2535,7 +2601,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.42 		\begin{figure}
+l.45 		\begin{figure}
                      [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2548,7 +2614,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.42 		\begin{figure}[
+l.45 		\begin{figure}[
                       H]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2557,7 +2623,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.44 			\includegraphics
+l.47 			\includegraphics
                         [clip, trim=0cm 0cm 0cm 0cm, width=1\textwidth]{./im...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2599,7 +2665,7 @@ Missing character: There is no 1 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.44 ..., trim=0cm 0cm 0cm 0cm, width=1\textwidth]
+l.47 ..., trim=0cm 0cm 0cm 0cm, width=1\textwidth]
                                                   {./images/WIND/GRAPH}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -2608,7 +2674,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.44 ..., trim=0cm 0cm 0cm 0cm, width=1\textwidth]
+l.47 ..., trim=0cm 0cm 0cm 0cm, width=1\textwidth]
                                                   {./images/WIND/GRAPH}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -2644,7 +2710,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.45 			\caption
+l.48 			\caption
                 {Coefficient of use depending on the orientation} %nom de la...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2698,19 +2764,19 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47 		\end{figure}
+l.50 		\end{figure}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 42--48
+Overfull \hbox (20.0pt too wide) in paragraph at lines 45--51
 []
  []
 
 ! Undefined control sequence.
-l.49 		\paragraph
+l.52 		\paragraph
                  {}As it can be see, the coefficient is higher than 95\% in ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2725,7 +2791,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.49 		\paragraph{}A
+l.52 		\paragraph{}A
                     s it can be see, the coefficient is higher than 95\% in ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
