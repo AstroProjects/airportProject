@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.4)  5 DEC 2017 18:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.4)  6 DEC 2017 18:43
 entering extended mode
 **./Report_LA.tex
 (Report_LA.tex
@@ -1851,6 +1851,18 @@ LaTeX Warning: Label `' multiply defined.
 
 LaTeX Warning: Label `' multiply defined.
 
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
 )
 \openout1 = `Report_LA.aux'.
 
@@ -2064,14 +2076,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 31.
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (doc_config/cover.tex
-<./doc_config/images/logo.png, id=503, 348.70274pt x 496.254pt>
+<./doc_config/images/logo.png, id=507, 348.70274pt x 496.254pt>
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 11. o
 n input line 11.
 Package pdftex.def Info: Requested size: 85.35696pt x 121.4735pt on input line 
 11.
-<./doc_config/images/UPC_ESEIAAT.jpg, id=504, 728.7225pt x 176.66pt>
+<./doc_config/images/UPC_ESEIAAT.jpg, id=508, 728.7225pt x 176.66pt>
 File: ./doc_config/images/UPC_ESEIAAT.jpg Graphic file (type jpg)
 <use ./doc_config/images/UPC_ESEIAAT.jpg>
 Package pdftex.def Info: ./doc_config/images/UPC_ESEIAAT.jpg  used on input lin
@@ -2098,37 +2110,37 @@ Non-PDF special ignored!{C:/Users/Xavier/AppData/Local/MiKTeX/2.9/pdftex/config
 g>] [2] (Report_LA.toc
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 40.
+less on input line 41.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 40.
+less on input line 41.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 40.
+less on input line 41.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 40.
+less on input line 41.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 40. o
-n input line 40.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 40.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 41. o
+n input line 41.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 41.
 [1]
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 79. o
-n input line 79.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 79.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 80. o
+n input line 80.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 80.
  [2]
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 117. 
-on input line 117.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 117.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 118. 
+on input line 118.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 118.
 
  [3])
 \tf@toc=\write4
@@ -2227,7 +2239,7 @@ l.24
         [1
 
 ]
-<./images/WIND/ROSE.png, id=688, 245.41687pt x 144.54pt>
+<./images/WIND/ROSE.png, id=701, 245.41687pt x 144.54pt>
 File: ./images/WIND/ROSE.png Graphic file (type png)
 <use ./images/WIND/ROSE.png>
 Package pdftex.def Info: ./images/WIND/ROSE.png  used on input line 36. on inpu
@@ -2246,7 +2258,7 @@ been already used, duplicate ignored
 l.46 		T
         he diagram of frequencies basically creates a rectangular area that ...
 [2 <./images/WIND/ROSE.png>]
-<./images/WIND/GRAPH.png, id=700, 244.915pt x 144.54pt>
+<./images/WIND/GRAPH.png, id=713, 244.915pt x 144.54pt>
 File: ./images/WIND/GRAPH.png Graphic file (type png)
 <use ./images/WIND/GRAPH.png>
 Package pdftex.def Info: ./images/WIND/GRAPH.png  used on input line 53. on inp
@@ -2285,14 +2297,14 @@ Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 20.
 [4
 
 ]
-<./images/B777/B777MTOW.jpg, id=714, 526.96875pt x 423.38174pt>
+<./images/B777/B777MTOW.jpg, id=727, 526.96875pt x 423.38174pt>
 File: ./images/B777/B777MTOW.jpg Graphic file (type jpg)
 <use ./images/B777/B777MTOW.jpg>
 Package pdftex.def Info: ./images/B777/B777MTOW.jpg  used on input line 23. on 
 input line 23.
 Package pdftex.def Info: Requested size: 426.79135pt x 342.91148pt on input lin
 e 23.
-<./images/B777/payload-takeoffdistance.jpg, id=716, 469.15276pt x 344.487pt>
+<./images/B777/payload-takeoffdistance.jpg, id=729, 469.15276pt x 344.487pt>
 File: ./images/B777/payload-takeoffdistance.jpg Graphic file (type jpg)
 <use ./images/B777/payload-takeoffdistance.jpg>
 Package pdftex.def Info: ./images/B777/payload-takeoffdistance.jpg  used on inp
@@ -2305,7 +2317,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 36. o
 n input line 36.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 36.
  [5 <./images/B777/B777MTOW.jpg>]
-<./images/A330/A330.jpg, id=724, 442.0515pt x 136.1085pt>
+<./images/A330/A330.jpg, id=737, 442.0515pt x 136.1085pt>
 File: ./images/A330/A330.jpg Graphic file (type jpg)
 <use ./images/A330/A330.jpg>
 Package pdftex.def Info: ./images/A330/A330.jpg  used on input line 43. on inpu
@@ -2318,7 +2330,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 49. o
 n input line 49.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 49.
  [6 <./images/B777/payload-takeoffdistance.jpg> <./images/A330/A330.jpg>]
-<./images/B777/Dimensions777.jpg, id=732, 297.5115pt x 423.38174pt>
+<./images/B777/Dimensions777.jpg, id=745, 297.5115pt x 423.38174pt>
 File: ./images/B777/Dimensions777.jpg Graphic file (type jpg)
 <use ./images/B777/Dimensions777.jpg>
 Package pdftex.def Info: ./images/B777/Dimensions777.jpg  used on input line 62
@@ -2331,7 +2343,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 66. o
 n input line 66.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 66.
  [7]
-<./images/Annex14/Referencecode.jpg, id=739, 377.0085pt x 230.0595pt>
+<./images/Annex14/Referencecode.jpg, id=752, 377.0085pt x 230.0595pt>
 File: ./images/Annex14/Referencecode.jpg Graphic file (type jpg)
 <use ./images/Annex14/Referencecode.jpg>
 Package pdftex.def Info: ./images/Annex14/Referencecode.jpg  used on input line
@@ -2344,7 +2356,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 73. o
 n input line 73.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 73.
  [8 <./images/B777/Dimensions777.jpg>]
-<./images/Annex14/RunwayWidth.jpg, id=746, 275.22826pt x 86.12175pt>
+<./images/Annex14/RunwayWidth.jpg, id=759, 275.22826pt x 86.12175pt>
 File: ./images/Annex14/RunwayWidth.jpg Graphic file (type jpg)
 <use ./images/Annex14/RunwayWidth.jpg>
 Package pdftex.def Info: ./images/Annex14/RunwayWidth.jpg  used on input line 8
@@ -2357,14 +2369,85 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 87. o
 n input line 87.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 87.
 
-[9 <./images/Annex14/Referencecode.jpg> <./images/Annex14/RunwayWidth.jpg>])
+[9 <./images/Annex14/Referencecode.jpg> <./images/Annex14/RunwayWidth.jpg>]
+<./images/B737/B737MTOW.jpg, id=769, 261.97874pt x 213.29688pt>
+File: ./images/B737/B737MTOW.jpg Graphic file (type jpg)
+<use ./images/B737/B737MTOW.jpg>
+Package pdftex.def Info: ./images/B737/B737MTOW.jpg  used on input line 105. on
+ input line 105.
+Package pdftex.def Info: Requested size: 426.79135pt x 347.49507pt on input lin
+e 105.
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 109. 
+on input line 109.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 109.
+
+
+[10]
+<./images/B737/takeoff-weight737.jpg, id=776, 455.301pt x 400.49625pt>
+File: ./images/B737/takeoff-weight737.jpg Graphic file (type jpg)
+<use ./images/B737/takeoff-weight737.jpg>
+Package pdftex.def Info: ./images/B737/takeoff-weight737.jpg  used on input lin
+e 114. on input line 114.
+Package pdftex.def Info: Requested size: 426.79135pt x 375.42764pt on input lin
+e 114.
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 118. 
+on input line 118.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 118.
+
+ [11 <./images/B737/B737MTOW.jpg>]
+<./images/A320/A320MTOW.jpg, id=784, 332.74312pt x 119.44624pt>
+File: ./images/A320/A320MTOW.jpg Graphic file (type jpg)
+<use ./images/A320/A320MTOW.jpg>
+Package pdftex.def Info: ./images/A320/A320MTOW.jpg  used on input line 125. on
+ input line 125.
+Package pdftex.def Info: Requested size: 426.79135pt x 153.21689pt on input lin
+e 125.
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 129. 
+on input line 129.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 129.
+
+ [12 <./images/B737/takeoff-weight737.jpg>]
+<./images/B737/737.jpg, id=791, 351.714pt x 487.22025pt>
+File: ./images/B737/737.jpg Graphic file (type jpg)
+<use ./images/B737/737.jpg>
+Package pdftex.def Info: ./images/B737/737.jpg  used on input line 144. on inpu
+t line 144.
+Package pdftex.def Info: Requested size: 426.79135pt x 591.26309pt on input lin
+e 144.
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 148. 
+on input line 148.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 148.
+
+ [13 <./images/A320/A320MTOW.jpg>]
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 150. 
+on input line 150.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 150.
+
+ [14 <./images/B737/737.jpg>]
+File: ./images/Annex14/RunwayWidth.jpg Graphic file (type jpg)
+<use ./images/Annex14/RunwayWidth.jpg>
+Package pdftex.def Info: ./images/Annex14/RunwayWidth.jpg  used on input line 1
+56. on input line 156.
+Package pdftex.def Info: Requested size: 426.79135pt x 133.5504pt on input line
+ 156.
+)
 (sections/3Taxiwaydesign.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
- [10]
+ [15]
 Chapter 3.
 ) (sections/4Holdingpositions.tex
 
@@ -2388,7 +2471,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[11
+[16
 
 ]
 Chapter 4.
@@ -2414,7 +2497,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[12
+[17
 
 ]
 Chapter 5.
@@ -2440,7 +2523,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[13
+[18
 
 ]
 Chapter 6.
@@ -2466,7 +2549,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[14
+[19
 
 ]
 Overfull \vbox (362.76707pt too high) has occurred while \output is active []
@@ -2477,7 +2560,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
 
-[15]
+[20]
 Chapter 7.
 ) (sections/8Signs.tex
 
@@ -2501,7 +2584,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[16
+[21
 
 ]
 Overfull \vbox (226.28001pt too high) has occurred while \output is active []
@@ -2512,7 +2595,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
 
-[17]
+[22]
 Chapter 8.
 ) (sections/9Highvoltageelectricalsystem.tex
 
@@ -2536,7 +2619,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[18
+[23
 
 ]
 Chapter 9.
@@ -2562,7 +2645,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[19
+[24
 
 ]
 Chapter 10.
@@ -2593,7 +2676,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[20
+[25
 
 ]
 Overfull \vbox (17.87752pt too high) has occurred while \output is active []
@@ -2604,7 +2687,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
 
-[21]
+[26]
 Chapter 11.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
@@ -2633,7 +2716,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[22
+[27
 
 ]
 Chapter 12.
@@ -2663,7 +2746,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 92. o
 n input line 92.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 92.
-[23
+[28
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
@@ -2678,55 +2761,37 @@ Package rerunfilecheck Warning: File `Report_LA.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Report_LA.out':
-(rerunfilecheck)             Before: 99C0E16D6B83892934FC74AE913C076A;9420
-(rerunfilecheck)             After:  FDE29375CD18674093335434DF19E0D5;9312.
+(rerunfilecheck)             Before: A98D96B66E3DB35387B129E22905A41F;9544
+(rerunfilecheck)             After:  84338023E5D6263FBE73D94B561F4825;9636.
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
  ) 
 Here is how much of TeX's memory you used:
- 30502 strings out of 493312
- 573114 string characters out of 3129392
- 642765 words of memory out of 3000000
- 33364 multiletter control sequences out of 15000+200000
+ 30535 strings out of 493312
+ 573885 string characters out of 3129392
+ 642762 words of memory out of 3000000
+ 33381 multiletter control sequences out of 15000+200000
  584824 words of font info for 63 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,16n,77p,10489b,770s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{subsection.2.3.5} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.3.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.3.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.3.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.3.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.3} has been referenced but does not exist
-, replaced by a fixed one
-
-{C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy
-.enc}{C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-e
-c.enc}{C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-
-rm.enc}{C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm
--mathit.enc}{C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/
-lm/lm-ts1.enc}<C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/lm/lmmi10.pfb><C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/lm/lmmi8.pfb><C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/public/lm/lmr10.pfb><C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/lm/lmss10.pfb><C:/Users/Xavier/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/lm/lmss9.pfb><C:/Users/Xavier/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Xavier/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Report_LA.pdf (31 pages, 898587 bytes).
+{C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-math
+sy.enc}{C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm
+-ec.enc}{C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/l
+m-rm.enc}{C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/
+lm-mathit.enc}{C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvip
+s/lm/lm-ts1.enc}<C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/lm/lmmi10.pfb><C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/lm/lmmi8.pfb><C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/lm/lmr10.pfb><C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/lm/lmss10.pfb><C:/Users/Xavier/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/lm/lmss9.pfb><C:/Users/Xavier/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Xavier/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
+Output written on Report_LA.pdf (36 pages, 1291148 bytes).
 PDF statistics:
- 887 PDF objects out of 1000 (max. 8388607)
- 177 named destinations out of 1000 (max. 500000)
- 1099 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 937 PDF objects out of 1000 (max. 8388607)
+ 187 named destinations out of 1000 (max. 500000)
+ 1157 words of extra memory for PDF output out of 10000 (max. 10000000)
 
