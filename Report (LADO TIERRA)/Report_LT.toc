@@ -56,17 +56,17 @@
 \contentsline {subsection}{\numberline {5.3.3}Emergency doors}{33}{subsection.5.3.3}
 \contentsline {subsection}{\numberline {5.3.4}Automatic baggage handling system doors}{33}{subsection.5.3.4}
 \contentsline {chapter}{\numberline {6}Building cover}{34}{chapter.6}
-\contentsline {section}{\numberline {6.1}Adopted solution}{34}{section.6.1}
-\contentsline {section}{\numberline {6.2}Shape and inclination of the building cover}{34}{section.6.2}
-\contentsline {section}{\numberline {6.3}Used materials}{34}{section.6.3}
-\contentsline {section}{\numberline {6.4}Sewer system}{34}{section.6.4}
-\contentsline {chapter}{\numberline {7}Indoor closures}{35}{chapter.7}
-\contentsline {section}{\numberline {7.1}Walls}{35}{section.7.1}
-\contentsline {section}{\numberline {7.2}Doors}{35}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Baggage claim hall doors}{35}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Office access and automatic baggage handling system access doors}{35}{subsection.7.2.2}
-\contentsline {chapter}{\numberline {8}Fire prevention regulations}{36}{chapter.8}
-\contentsline {section}{\numberline {8.1}Fire prevention regulations and chosen materials}{36}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Building elements}{36}{subsection.8.1.1}
-\contentsline {subsection}{\numberline {8.1.2}Materials}{36}{subsection.8.1.2}
-\contentsline {chapter}{\numberline {9}Bibliography}{37}{chapter.9}
+\contentsline {section}{\numberline {6.1}Solution adopted}{34}{section.6.1}
+\contentsline {section}{\numberline {6.2}Shape and inclination of the building cover}{35}{section.6.2}
+\contentsline {section}{\numberline {6.3}Used materials}{35}{section.6.3}
+\contentsline {section}{\numberline {6.4}Sewer system}{37}{section.6.4}
+\contentsline {chapter}{\numberline {7}Indoor closures}{38}{chapter.7}
+\contentsline {section}{\numberline {7.1}Walls}{38}{section.7.1}
+\contentsline {section}{\numberline {7.2}Doors}{38}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Baggage claim hall doors}{38}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Office access and automatic baggage handling system access doors}{38}{subsection.7.2.2}
+\contentsline {chapter}{\numberline {8}Fire prevention regulations}{39}{chapter.8}
+\contentsline {section}{\numberline {8.1}Fire prevention regulations and chosen materials}{39}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Building elements}{39}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}Materials}{39}{subsection.8.1.2}
+\contentsline {chapter}{\numberline {9}Bibliography}{40}{chapter.9}
