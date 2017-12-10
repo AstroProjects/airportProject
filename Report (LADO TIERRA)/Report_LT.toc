@@ -59,14 +59,15 @@
 \contentsline {section}{\numberline {6.1}Solution adopted}{34}{section.6.1}
 \contentsline {section}{\numberline {6.2}Shape and inclination of the building cover}{35}{section.6.2}
 \contentsline {section}{\numberline {6.3}Used materials}{35}{section.6.3}
-\contentsline {section}{\numberline {6.4}Sewer system}{37}{section.6.4}
-\contentsline {chapter}{\numberline {7}Indoor closures}{38}{chapter.7}
-\contentsline {section}{\numberline {7.1}Walls}{38}{section.7.1}
-\contentsline {section}{\numberline {7.2}Doors}{38}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Baggage claim hall doors}{38}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Office access and automatic baggage handling system access doors}{38}{subsection.7.2.2}
-\contentsline {chapter}{\numberline {8}Fire prevention regulations}{39}{chapter.8}
-\contentsline {section}{\numberline {8.1}Fire prevention regulations and chosen materials}{39}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Building elements}{39}{subsection.8.1.1}
-\contentsline {subsection}{\numberline {8.1.2}Materials}{39}{subsection.8.1.2}
-\contentsline {chapter}{\numberline {9}Bibliography}{40}{chapter.9}
+\contentsline {section}{\numberline {6.4}Drainage system}{37}{section.6.4}
+\contentsline {section}{\numberline {6.5}False ceiling}{37}{section.6.5}
+\contentsline {chapter}{\numberline {7}Indoor closures}{39}{chapter.7}
+\contentsline {section}{\numberline {7.1}Walls}{39}{section.7.1}
+\contentsline {section}{\numberline {7.2}Doors}{39}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Baggage claim hall doors}{39}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Office access and automatic baggage handling system access doors}{39}{subsection.7.2.2}
+\contentsline {chapter}{\numberline {8}Fire prevention regulations}{40}{chapter.8}
+\contentsline {section}{\numberline {8.1}Fire prevention regulations and chosen materials}{40}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Building elements}{40}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}Materials}{40}{subsection.8.1.2}
+\contentsline {chapter}{\numberline {9}Bibliography}{41}{chapter.9}
