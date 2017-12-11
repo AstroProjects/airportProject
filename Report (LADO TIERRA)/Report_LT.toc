@@ -1,5 +1,5 @@
-\contentsline {chapter}{List of Tables}{iii}{section*.1}
-\contentsline {chapter}{List of Figures}{iv}{section*.2}
+\contentsline {chapter}{List of Tables}{iv}{section*.1}
+\contentsline {chapter}{List of Figures}{v}{section*.2}
 \contentsline {chapter}{\numberline {1}Prognosis}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Aviation context in Indonesia}{1}{section.1.1}
 \contentsline {paragraph}{}{1}{section*.3}
@@ -69,8 +69,14 @@
 \contentsline {section}{\numberline {7.3}Passport controls}{42}{section.7.3}
 \contentsline {section}{\numberline {7.4}Toilets}{43}{section.7.4}
 \contentsline {section}{\numberline {7.5}Elevators}{44}{section.7.5}
-\contentsline {chapter}{\numberline {8}Fire prevention regulations}{46}{chapter.8}
-\contentsline {section}{\numberline {8.1}Fire prevention regulations and chosen materials}{46}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Building elements}{46}{subsection.8.1.1}
-\contentsline {subsection}{\numberline {8.1.2}Materials}{46}{subsection.8.1.2}
-\contentsline {chapter}{\numberline {9}Bibliography}{47}{chapter.9}
+\contentsline {chapter}{\numberline {8}Fire prevention}{46}{chapter.8}
+\contentsline {paragraph}{}{46}{section*.73}
+\contentsline {section}{\numberline {8.1}Fire prevention regulations }{46}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Level of protection}{46}{subsection.8.1.1}
+\contentsline {paragraph}{}{46}{section*.74}
+\contentsline {subsection}{\numberline {8.1.2}Extinguishing agents}{47}{subsection.8.1.2}
+\contentsline {paragraph}{}{47}{section*.76}
+\contentsline {section}{\numberline {8.2}Chosen materials}{48}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Building elements}{48}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Materials}{48}{subsection.8.2.2}
+\contentsline {chapter}{\numberline {9}Bibliography}{49}{chapter.9}
