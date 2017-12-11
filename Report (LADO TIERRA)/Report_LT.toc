@@ -86,16 +86,6 @@
 \contentsline {subsection}{\numberline {8.1.9}Personnel}{63}{subsection.8.1.9}
 \contentsline {paragraph}{}{63}{section*.94}
 \contentsline {section}{\numberline {8.2}Chosen materials}{63}{section.8.2}
-<<<<<<< HEAD
 \contentsline {subsection}{\numberline {8.2.1}Building elements}{64}{subsection.8.2.1}
 \contentsline {subsection}{\numberline {8.2.2}Materials}{64}{subsection.8.2.2}
 \contentsline {chapter}{\numberline {9}Bibliography}{65}{chapter.9}
-=======
-\contentsline {subsection}{\numberline {8.2.1}Building elements}{63}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Materials}{63}{subsection.8.2.2}
-\contentsline {chapter}{\numberline {9}Bibliography}{64}{chapter.9}
-<<<<<<< HEAD
-=======
->>>>>>> eb5f5205ea74ace1a27e5fda56d85ca76aff447a
->>>>>>> 8beaa8fbdb0347a47ecc94c6414671f5b804c6d9
->>>>>>> 1f9e839a8747fbe9435e45e0460f03153e9d1539
