@@ -14,61 +14,63 @@
 \contentsline {paragraph}{}{5}{section*.13}
 \contentsline {subsection}{\numberline {1.2.1}Aircraft type for 4E reference key airfield}{6}{subsection.1.2.1}
 \contentsline {paragraph}{}{6}{section*.15}
-\contentsline {subsection}{\numberline {1.2.2}Aircraft type for 4C reference key airfield}{6}{subsection.1.2.2}
-\contentsline {paragraph}{}{6}{section*.16}
-\contentsline {subsection}{\numberline {1.2.3}Conclusions}{6}{subsection.1.2.3}
-\contentsline {section}{\numberline {1.3}Forecast computation}{6}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Passenger prediction}{7}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Operations prediction}{10}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}Flights on busy day}{12}{subsection.1.3.3}
-\contentsline {chapter}{\numberline {2}Terminal building distribution}{14}{chapter.2}
-\contentsline {section}{\numberline {2.1}Surface distribution}{14}{section.2.1}
-\contentsline {section}{\numberline {2.2}Dimensioning of elements}{16}{section.2.2}
-\contentsline {chapter}{\numberline {3}Structural typology description}{20}{chapter.3}
-\contentsline {section}{\numberline {3.1}Foundation}{20}{section.3.1}
-\contentsline {section}{\numberline {3.2}Vertical elements}{21}{section.3.2}
-\contentsline {section}{\numberline {3.3}Slab}{22}{section.3.3}
-\contentsline {chapter}{\numberline {4}Indoor flooring}{24}{chapter.4}
-\contentsline {section}{\numberline {4.1}flooring typology}{24}{section.4.1}
-\contentsline {section}{\numberline {4.2}Floor covering}{26}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Structural base}{26}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}No-grip intermediate layers}{26}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Leveling layer}{27}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Grip layer}{27}{subsection.4.2.4}
-\contentsline {section}{\numberline {4.3}Design}{27}{section.4.3}
-\contentsline {section}{\numberline {4.4}Superficial layer}{28}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Common areas flooring}{28}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Stairways and secondary areas flooring}{29}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Restrooms flooring}{30}{subsection.4.4.3}
-\contentsline {subsection}{\numberline {4.4.4}Offices flooring}{31}{subsection.4.4.4}
-\contentsline {subsection}{\numberline {4.4.5}Automatic baggage handling system flooring}{32}{subsection.4.4.5}
-\contentsline {chapter}{\numberline {5}Facade}{33}{chapter.5}
-\contentsline {section}{\numberline {5.1}Front and back facade}{33}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Requirements and adopted solution}{33}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Glass}{33}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Spider system with steel pillars}{33}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}Steel and concrete mixed columns}{33}{subsection.5.1.4}
-\contentsline {section}{\numberline {5.2}Lateral facade}{33}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Facade (prefabricated concrete)}{33}{subsection.5.2.1}
-\contentsline {section}{\numberline {5.3}Other elements}{33}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Main door and other sliding doors}{33}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Access bridges}{33}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Emergency doors}{33}{subsection.5.3.3}
-\contentsline {subsection}{\numberline {5.3.4}Automatic baggage handling system doors}{33}{subsection.5.3.4}
-\contentsline {chapter}{\numberline {6}Building cover}{34}{chapter.6}
-\contentsline {section}{\numberline {6.1}Solution adopted}{34}{section.6.1}
-\contentsline {section}{\numberline {6.2}Shape and inclination of the building cover}{35}{section.6.2}
-\contentsline {section}{\numberline {6.3}Used materials}{35}{section.6.3}
-\contentsline {section}{\numberline {6.4}Drainage system}{37}{section.6.4}
-\contentsline {section}{\numberline {6.5}False ceiling}{37}{section.6.5}
-\contentsline {chapter}{\numberline {7}Indoor closures}{39}{chapter.7}
-\contentsline {section}{\numberline {7.1}Hallways}{39}{section.7.1}
-\contentsline {section}{\numberline {7.2}Offices}{39}{section.7.2}
-\contentsline {section}{\numberline {7.3}Passport controls}{40}{section.7.3}
-\contentsline {section}{\numberline {7.4}Toilets}{41}{section.7.4}
-\contentsline {section}{\numberline {7.5}Elevators}{42}{section.7.5}
-\contentsline {chapter}{\numberline {8}Fire prevention regulations}{44}{chapter.8}
-\contentsline {section}{\numberline {8.1}Fire prevention regulations and chosen materials}{44}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Building elements}{44}{subsection.8.1.1}
-\contentsline {subsection}{\numberline {8.1.2}Materials}{44}{subsection.8.1.2}
-\contentsline {chapter}{\numberline {9}Bibliography}{45}{chapter.9}
+\contentsline {subsection}{\numberline {1.2.2}Aircraft type for 4C reference key airfield}{8}{subsection.1.2.2}
+\contentsline {paragraph}{}{8}{section*.20}
+\contentsline {subsection}{\numberline {1.2.3}Conclusions}{8}{subsection.1.2.3}
+\contentsline {paragraph}{}{8}{section*.23}
+\contentsline {paragraph}{}{9}{section*.24}
+\contentsline {section}{\numberline {1.3}Forecast computation}{9}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Passenger prediction}{10}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Operations prediction}{12}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Flights on busy day}{14}{subsection.1.3.3}
+\contentsline {chapter}{\numberline {2}Terminal building distribution}{16}{chapter.2}
+\contentsline {section}{\numberline {2.1}Surface distribution}{16}{section.2.1}
+\contentsline {section}{\numberline {2.2}Dimensioning of elements}{18}{section.2.2}
+\contentsline {chapter}{\numberline {3}Structural typology description}{22}{chapter.3}
+\contentsline {section}{\numberline {3.1}Foundation}{22}{section.3.1}
+\contentsline {section}{\numberline {3.2}Vertical elements}{23}{section.3.2}
+\contentsline {section}{\numberline {3.3}Slab}{24}{section.3.3}
+\contentsline {chapter}{\numberline {4}Indoor flooring}{26}{chapter.4}
+\contentsline {section}{\numberline {4.1}flooring typology}{26}{section.4.1}
+\contentsline {section}{\numberline {4.2}Floor covering}{28}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Structural base}{28}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}No-grip intermediate layers}{28}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Leveling layer}{29}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Grip layer}{29}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Design}{29}{section.4.3}
+\contentsline {section}{\numberline {4.4}Superficial layer}{30}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Common areas flooring}{30}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Stairways and secondary areas flooring}{31}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Restrooms flooring}{32}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Offices flooring}{33}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}Automatic baggage handling system flooring}{34}{subsection.4.4.5}
+\contentsline {chapter}{\numberline {5}Facade}{35}{chapter.5}
+\contentsline {section}{\numberline {5.1}Front and back facade}{35}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Requirements and adopted solution}{35}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Glass}{35}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Spider system with steel pillars}{35}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Steel and concrete mixed columns}{35}{subsection.5.1.4}
+\contentsline {section}{\numberline {5.2}Lateral facade}{35}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Facade (prefabricated concrete)}{35}{subsection.5.2.1}
+\contentsline {section}{\numberline {5.3}Other elements}{35}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Main door and other sliding doors}{35}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Access bridges}{35}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Emergency doors}{35}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Automatic baggage handling system doors}{35}{subsection.5.3.4}
+\contentsline {chapter}{\numberline {6}Building cover}{36}{chapter.6}
+\contentsline {section}{\numberline {6.1}Solution adopted}{36}{section.6.1}
+\contentsline {section}{\numberline {6.2}Shape and inclination of the building cover}{37}{section.6.2}
+\contentsline {section}{\numberline {6.3}Used materials}{37}{section.6.3}
+\contentsline {section}{\numberline {6.4}Drainage system}{39}{section.6.4}
+\contentsline {section}{\numberline {6.5}False ceiling}{39}{section.6.5}
+\contentsline {chapter}{\numberline {7}Indoor closures}{41}{chapter.7}
+\contentsline {section}{\numberline {7.1}Hallways}{41}{section.7.1}
+\contentsline {section}{\numberline {7.2}Offices}{41}{section.7.2}
+\contentsline {section}{\numberline {7.3}Passport controls}{42}{section.7.3}
+\contentsline {section}{\numberline {7.4}Toilets}{43}{section.7.4}
+\contentsline {section}{\numberline {7.5}Elevators}{44}{section.7.5}
+\contentsline {chapter}{\numberline {8}Fire prevention regulations}{46}{chapter.8}
+\contentsline {section}{\numberline {8.1}Fire prevention regulations and chosen materials}{46}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Building elements}{46}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}Materials}{46}{subsection.8.1.2}
+\contentsline {chapter}{\numberline {9}Bibliography}{47}{chapter.9}
