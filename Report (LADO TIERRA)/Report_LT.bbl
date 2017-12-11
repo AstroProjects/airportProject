@@ -1,4 +1,50 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{CERAMICASARCIS}
+{CERAMICAS ARCIS}.
+\newblock {Ceramicas Arcis Blocks Technical Data}.
+
+\bibitem{Chromtech}
+Chromtech.
+\newblock {Chromtech 1.0 by Floor Gres Data}.
+
+\bibitem{DORMA}
+DORMA.
+\newblock {DORMA TV100 - Emergency Doors Data}.
+
+\bibitem{Edwards1994}
+Caroline~M.H. Edwards, Martin~A. Menzies, Matthew~F. Thirlwall, Julie~D.
+  Morris, William~P. Leeman, and Russ~S. Harmon.
+\newblock {The transition to potassic alkaline volcanism in island arcs: The
+  ringgit - beser complex, east java, Indonesia}.
+\newblock {\em Journal of Petrology}, 35(6):1557--1595, 1994.
+
+\bibitem{EIROSS.A.}
+{EIROS S.A.}
+\newblock {EIROS - Prefabricated concrete provider}.
+
+\bibitem{EUROPERFIL}
+EUROPERFIL.
+\newblock {Europerfil "Eurobase 106 CS" Technical Data}.
+
+\bibitem{FAA1988}
+FAA.
+\newblock {Advisory Circular 150/5360-13:Planning and Design Guidelines for
+  Airport Terminal Facilities}.
+\newblock pages 1--148, 1988.
+
+\bibitem{Faure2001}
+Gunter Faure.
+\newblock {\em {Origin of Igneous Rocks: The Isotopic Evidence}}.
+\newblock 2001.
+
+\bibitem{GEZE}
+GmbH GEZE.
+\newblock {GEZE TSA 325 NT - Revolving Door Specs}.
+
+\bibitem{GLASSCON}
+GLASSCON.
+\newblock {GLASSCON - Spider System Fittings Provider (Steel Pillars)}.
 
 \bibitem{IATA_August}
 IATA.
@@ -8,11 +54,20 @@ IATA.
 IATA.
 \newblock {IATA - Strong Passenger Demand, Record Load Factor in February}.
 
+\bibitem{IATA2004}
+IATA.
+\newblock {\em {Airport Development Reference Manual 2004}}.
+\newblock Number January. 9th editio edition, 2004.
+
 \bibitem{IATA_PLF}
 IATA.
 \newblock {Airline Maintenance Cost: Executive Commentary}.
 \newblock {\em URL: http://www. iata. org/whatwedo/ {\ldots}}, (January):1--16,
   2011.
+
+\bibitem{IATAtocho}
+IATA.
+\newblock {Air Passenger Market Analysis}, 2015.
 
 \bibitem{InternationalCivilAviationOrganisation2014}
 {International Civil Aviation Organisation}.
@@ -20,10 +75,74 @@ IATA.
   9137/An/898}.
 \newblock page 230, 2014.
 
+\bibitem{KNAUF}
+KNAUF.
+\newblock {Knauf Acustik Technical Data}.
+
+\bibitem{MittalSteelCompany}
+{Mittal Steel Company}.
+\newblock {Mittal Steel Company - Steel provider for mixed columns}.
+
+\bibitem{Morris2010}
+C~Hair Michael~R Morris, North Central, Texas Council, Allen~D Biehler,
+  Pennsylvania Dot, Larry~L Brown, Mississippi Dot, Randell~H Iwasaki, and
+  California Dot.
+\newblock {\em {Airport Passenger Terminal Planning and Design, Volume 1:
+  Guidebook}}, volume~1.
+\newblock 2010.
+
+\bibitem{ONDACERS.L.}
+{ONDACER S.L.}
+\newblock {Eternity White Tiles Technical Data}.
+
+\bibitem{Panaria}
+Panaria.
+\newblock {Panaria "Basalike" Tile Data}.
+
+\bibitem{PLADUR®}
+PLADUR{\textregistered}.
+\newblock {PLADUR{\textregistered} Products Technical Data}.
+
+\bibitem{Porcelanosa}
+Porcelanosa.
+\newblock {Porcelanosa "Portland Caliza" Tile Data}.
+
+\bibitem{PROTECNICSGLOBAL}
+{PROTECNICS GLOBAL}.
+\newblock {BUSINESS COMBI Offices Technical Data}.
+
+\bibitem{PTHumeConcrete}
+{PT Hume Concrete}.
+\newblock {PT Hume Concrete Indonesia - Concrete provider for mixed columns}.
+
+\bibitem{Schindler}
+Schindler.
+\newblock {Shindler 5500 Technical}.
+
+\bibitem{SognandoCasa}
+SognandoCasa.
+\newblock {SognandoCasa Tile Provider for Flooring}.
+
 \bibitem{Standards2016}
 International Standards, Recommended Practices, International~Civil Aviation,
   and Aerodrome Design.
 \newblock {Aerodromes}.
 \newblock I(July), 2016.
+
+\bibitem{Stormtite}
+Stormtite.
+\newblock {Stormtite AP Model 627 - Roll-up door for ABHS (SATE)}.
+
+\bibitem{SunGuard}
+SunGuard.
+\newblock {SunGuard SNX60 - Glass data}.
+
+\bibitem{URSAGLASSWOOL}
+{URSA GLASSWOOL}.
+\newblock {URSA GLASSWOOL Technical Sheets}.
+
+\bibitem{VITROMART®}
+VITROMART{\textregistered}.
+\newblock {Blindex{\textregistered} Glass Technical Data}.
 
 \end{thebibliography}
