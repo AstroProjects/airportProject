@@ -2,24 +2,20 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: Report_LT.aux
 The style file: IEEEtran.bst
 Database file #1: IEEEabrv.bib
 Database file #2: PROYECTO_AEROPUERTOS.bib
-Repeated entry---line 112 of file PROYECTO_AEROPUERTOS.bib
- : @misc{VITROMART
- :                ,
-I'm skipping whatever remains of this entry
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 Warning--empty journal in IATA_PLF
 Warning--empty journal in Standards2016
 Warning--empty journal in InternationalCivilAviationOrganisation2014
-Warning--missing publisher in IATA2004
+Warning--missing publisher in Morris2010
+Warning--empty journal in FAA1988
 Warning--empty journal in SognandoCasa
 Warning--empty year in SognandoCasa
 Warning--empty journal in GLASSCON
 Warning--empty year in GLASSCON
-Warning--missing publisher in Morris2010
-Warning--empty journal in FAA1988
 Warning--missing publisher in Faure2001
+Warning--missing publisher in IATA2004
 
 Done.
-(There was 1 error message)
+(There were 11 warnings)
