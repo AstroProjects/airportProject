@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.28)  11 DEC 2017 15:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.28)  11 DEC 2017 16:04
 entering extended mode
 **./Report_LT.tex
 (Report_LT.tex
@@ -1744,39 +1744,39 @@ LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 )) (Report_LT.aux)
 \openout1 = `Report_LT.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 30.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 29.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 30.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 29.
+(lastpage)             ! on input line 30.
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `default' on line 29.
+. Activating mapping `default' on line 30.
 .................................................
 
 (C:\Users\Miguelito\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
@@ -1824,7 +1824,7 @@ Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box94
-Package hyperref Info: Link coloring OFF on input line 29.
+Package hyperref Info: Link coloring OFF on input line 30.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1833,9 +1833,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count379
 )
-LaTeX Info: Redefining \ref on input line 29.
-LaTeX Info: Redefining \pageref on input line 29.
-LaTeX Info: Redefining \nameref on input line 29.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
 
 (Report_LT.out) (Report_LT.out)
 \@outlinefile=\write3
@@ -1877,56 +1877,56 @@ LaTeX Info: Redefining \nameref on input line 29.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \c__siunitx_mathsf_int=\count380
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 29.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 30.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 29.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 30.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 29.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 30.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 29.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 30.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 29.
+(Font)              <10.95> on input line 30.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 29.
+(Font)              <8> on input line 30.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 29.
-LaTeX Font Info:    Try loading font information for U+msa on input line 29.
+(Font)              <6> on input line 30.
+LaTeX Font Info:    Try loading font information for U+msa on input line 30.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 29.
+LaTeX Font Info:    Try loading font information for U+msb on input line 30.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 29.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 30.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 29.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 30.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmss.fd"
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 \c__siunitx_mathtt_int=\count381
-LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 29.
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 30.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmtt.fd"
@@ -1991,9 +1991,9 @@ Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 41.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 41. o
-n input line 41.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 41.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 42. o
+n input line 42.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 42.
  [2] (Report_LT.lot)
 \tf@lot=\write5
 \openout5 = `Report_LT.lot'.
@@ -2001,25 +2001,25 @@ Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 41.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 46.
+less on input line 47.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 46.
+less on input line 47.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 46.
+less on input line 47.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 46.
+less on input line 47.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 46. o
-n input line 46.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 46.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 47. o
+n input line 47.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 47.
 [3] (Report_LT.lof
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
@@ -2058,9 +2058,9 @@ LaTeX Font Info:    Font shape `TS1/lmss/m/it' in size <10.95> not available
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 54. o
-n input line 54.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 54.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 55. o
+n input line 55.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 55.
  [5]
 (sections/1_Prognosis.tex
 Chapter 1.
@@ -2246,7 +2246,14 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 20. o
 n input line 20.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 20.
  [9]
-<./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev.jpg, id=632, 840.89156pt x 554.
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 109. 
+on input line 109.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 109.
+
+ [10]
+<./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev.jpg, id=636, 840.89156pt x 554.
 82281pt>
 File: ./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev.jpg Graphic file (type jpg
 )
@@ -2255,13 +2262,6 @@ Package pdftex.def Info: ./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev.jpg  us
 ed on input line 117. on input line 117.
 Package pdftex.def Info: Requested size: 426.79135pt x 281.60135pt on input lin
 e 117.
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 121. 
-on input line 121.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 121.
-
- [10]
 <./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev_NEUOPTPES.jpg, id=638, 840.1387
 5pt x 554.07pt>
 File: ./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev_NEUOPTPES.jpg Graphic file
@@ -2280,9 +2280,9 @@ Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 128.
  [11 <./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev.jpg>]
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 194. 
-on input line 194.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 194.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 173. 
+on input line 173.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 173.
 
  [12 <./images/PROGNOSIS/TrafficForecast/BE_PAX_Prev_NEUOPTPES.jpg>]
 <./images/PROGNOSIS/TrafficForecast/BE_OPS_Prev.jpg, id=651, 839.38594pt x 554.
@@ -2312,9 +2312,9 @@ Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 208.
  [13 <./images/PROGNOSIS/TrafficForecast/BE_OPS_Prev.jpg>]
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 296. 
-on input line 296.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 296.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 251. 
+on input line 251.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 251.
 
  [14 <./images/PROGNOSIS/TrafficForecast/BE_OPS_Prev_NEUOPTPES.jpg>]))
 (sections/2_Distribucion_terminal.tex
@@ -2343,25 +2343,25 @@ LaTeX Warning: Reference `table:FAAinternational' on page 16 undefined on input
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 84.
+less on input line 82.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 84.
+less on input line 82.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 84.
+less on input line 82.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 84.
+less on input line 82.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 84. o
-n input line 84.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 84.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 82. o
+n input line 82.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 82.
 [16
 
 ]
@@ -2380,9 +2380,9 @@ Overfull \hbox (30.80186pt too wide) in paragraph at lines 89--110
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 136. 
-on input line 136.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 136.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 135. 
+on input line 135.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 135.
 
 [17]
 <./images/graf1.png, id=681, 501.875pt x 364.36125pt>
@@ -2579,9 +2579,9 @@ Package pdftex.def Info: Requested size: 284.52756pt x 213.15811pt on input lin
 e 140.
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 143. 
-on input line 143.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 143.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 142. 
+on input line 142.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 142.
 
  [30 <./images/SueloSecundario.jpg> <./images/Color.png>]
 <./images/Color2.png, id=765, 301.125pt x 301.125pt>
@@ -2600,9 +2600,9 @@ Package pdftex.def Info: Requested size: 284.52756pt x 210.89752pt on input lin
 e 158.
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 163. 
-on input line 163.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 163.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 161. 
+on input line 161.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 161.
 
  [31 <./images/Resultado.png> <./images/Color2.png>]
 <./images/Color3.png, id=773, 298.11375pt x 299.1175pt>
@@ -2621,20 +2621,20 @@ Package pdftex.def Info: Requested size: 227.62204pt x 173.90182pt on input lin
 e 175.
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 181. 
-on input line 181.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 181.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 178. 
+on input line 178.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 178.
 
 
-[32 <./images/Resultado2.jpg> <./images/Color3.png> <./images/Resultado3.png>]
-<./images/Color4.png, id=781, 83.31125pt x 83.31125pt>
+[32 <./images/Resultado2.jpg> <./images/Color3.png>]
+<./images/Color4.png, id=780, 83.31125pt x 83.31125pt>
 File: ./images/Color4.png Graphic file (type png)
 <use ./images/Color4.png>
 Package pdftex.def Info: ./images/Color4.png  used on input line 187. on input 
 line 187.
 Package pdftex.def Info: Requested size: 28.45274pt x 28.45256pt on input line 
 187.
-<./images/Resultado4.png, id=782, 453.695pt x 339.2675pt>
+<./images/Resultado4.png, id=781, 453.695pt x 339.2675pt>
 File: ./images/Resultado4.png Graphic file (type png)
 <use ./images/Resultado4.png>
 Package pdftex.def Info: ./images/Resultado4.png  used on input line 194. on in
@@ -2643,27 +2643,33 @@ Package pdftex.def Info: Requested size: 284.52756pt x 212.7664pt on input line
  194.
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 224. 
-on input line 224.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 224.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 197. 
+on input line 197.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 197.
 
+ [33 <./images/Resultado3.png> <./images/Color4.png>]
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 231. 
+on input line 231.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 231.
 
-[33 <./images/Color4.png> <./images/Resultado4.png>]
-<./images/Resultado5.jpg, id=789, 652.4375pt x 434.62375pt>
+ [34 <./images/Resultado4.png>]
+<./images/Resultado5.jpg, id=793, 652.4375pt x 434.62375pt>
 File: ./images/Resultado5.jpg Graphic file (type jpg)
 <use ./images/Resultado5.jpg>
 Package pdftex.def Info: ./images/Resultado5.jpg  used on input line 234. on in
 put line 234.
 Package pdftex.def Info: Requested size: 284.52756pt x 189.54391pt on input lin
 e 234.
-) (sections/5_Fachada.tex
+)
+(sections/5_Fachada.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-
-[34 <./images/Resultado5.jpg>]
+ [35 <./images/Resultado5.jpg>]
 Chapter 5.
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
@@ -2686,17 +2692,23 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 20. o
 n input line 20.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 20.
-[35
+[36
 
 ]
-<./images/Facade/facades.jpg, id=798, 853.1875pt x 725.71124pt>
+<./images/Facade/facades.jpg, id=803, 853.1875pt x 725.71124pt>
 File: ./images/Facade/facades.jpg Graphic file (type jpg)
 <use ./images/Facade/facades.jpg>
 Package pdftex.def Info: ./images/Facade/facades.jpg  used on input line 36. on
  input line 36.
 Package pdftex.def Info: Requested size: 312.9803pt x 266.21675pt on input line
  36.
-<./images/Facade/spiders.jpg, id=799, 853.1875pt x 853.1875pt>
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 39. o
+n input line 39.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 39.
+ [37]
+<./images/Facade/spiders.jpg, id=808, 853.1875pt x 853.1875pt>
 File: ./images/Facade/spiders.jpg Graphic file (type jpg)
 <use ./images/Facade/spiders.jpg>
 Package pdftex.def Info: ./images/Facade/spiders.jpg  used on input line 44. on
@@ -2705,51 +2717,44 @@ Package pdftex.def Info: Requested size: 312.9803pt x 312.97958pt on input line
  44.
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 55. o
-n input line 55.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 55.
- [36]
-
-LaTeX Warning: Text page 37 contains only floats.
-
-
-Overfull \vbox (1.49617pt too high) has occurred while \output is active []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 55. o
-n input line 55.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 55.
-
-[37 <./images/Facade/facades.jpg> <./images/Facade/spiders.jpg>]
-<./images/Facade/performances.png, id=809, 847.165pt x 164.615pt>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 47. o
+n input line 47.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 47.
+ [38 <./images/Facade/facades.jpg>]
+<./images/Facade/performances.png, id=813, 847.165pt x 164.615pt>
 File: ./images/Facade/performances.png Graphic file (type png)
 <use ./images/Facade/performances.png>
 Package pdftex.def Info: ./images/Facade/performances.png  used on input line 6
 1. on input line 61.
 Package pdftex.def Info: Requested size: 426.79134pt x 82.93022pt on input line
  61.
-<./images/Facade/snx60.jpg, id=810, 640.3925pt x 426.59375pt>
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 64. o
+n input line 64.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 64.
+ [39 <./images/Facade/spiders.jpg>]
+<./images/Facade/snx60.jpg, id=818, 640.3925pt x 426.59375pt>
 File: ./images/Facade/snx60.jpg Graphic file (type jpg)
 <use ./images/Facade/snx60.jpg>
 Package pdftex.def Info: ./images/Facade/snx60.jpg  used on input line 69. on i
 nput line 69.
 Package pdftex.def Info: Requested size: 369.88582pt x 246.40257pt on input lin
 e 69.
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 77. o
-n input line 77.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 77.
- [38 <./images/Facade/performances.png> <./images/Facade/snx60.jpg>]
-<./images/Facade/steel.png, id=816, 212.795pt x 257.96375pt>
+<./images/Facade/steel.png, id=819, 212.795pt x 257.96375pt>
 File: ./images/Facade/steel.png Graphic file (type png)
 <use ./images/Facade/steel.png>
 Package pdftex.def Info: ./images/Facade/steel.png  used on input line 80. on i
 nput line 80.
 Package pdftex.def Info: Requested size: 170.71652pt x 206.96564pt on input lin
 e 80.
-<./images/Facade/columns.png, id=817, 413.545pt x 262.9825pt>
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 83. o
+n input line 83.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 83.
+[40 <./images/Facade/performances.png> <./images/Facade/snx60.jpg>]
+<./images/Facade/columns.png, id=825, 413.545pt x 262.9825pt>
 File: ./images/Facade/columns.png Graphic file (type png)
 <use ./images/Facade/columns.png>
 Package pdftex.def Info: ./images/Facade/columns.png  used on input line 97. on
@@ -2762,15 +2767,15 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 102.
 on input line 102.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 102.
 
- [39 <./images/Facade/steel.png>]
+ [41 <./images/Facade/steel.png> <./images/Facade/columns.png>]
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 120. 
-on input line 120.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 120.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 122. 
+on input line 122.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 122.
 
- [40 <./images/Facade/columns.png>]
-<./images/Facade/finishing.jpg, id=828, 3329.43875pt x 1044.90375pt>
+ [42]
+<./images/Facade/finishing.jpg, id=837, 3329.43875pt x 1044.90375pt>
 File: ./images/Facade/finishing.jpg Graphic file (type jpg)
 <use ./images/Facade/finishing.jpg>
 Package pdftex.def Info: ./images/Facade/finishing.jpg  used on input line 155.
@@ -2783,15 +2788,15 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 167.
 on input line 167.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 167.
 
- [41]
-<./images/Facade/scheme.png, id=833, 822.07124pt x 494.84875pt>
+ [43 <./images/Facade/finishing.jpg>]
+<./images/Facade/scheme.png, id=842, 822.07124pt x 494.84875pt>
 File: ./images/Facade/scheme.png Graphic file (type png)
 <use ./images/Facade/scheme.png>
 Package pdftex.def Info: ./images/Facade/scheme.png  used on input line 180. on
  input line 180.
 Package pdftex.def Info: Requested size: 369.88582pt x 222.64967pt on input lin
 e 180.
-<./images/Facade/revolving.png, id=834, 816.04875pt x 497.86pt>
+<./images/Facade/revolving.png, id=843, 816.04875pt x 497.86pt>
 File: ./images/Facade/revolving.png Graphic file (type png)
 <use ./images/Facade/revolving.png>
 Package pdftex.def Info: ./images/Facade/revolving.png  used on input line 188.
@@ -2800,12 +2805,12 @@ Package pdftex.def Info: Requested size: 369.88582pt x 225.66063pt on input lin
 e 188.
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 197. 
-on input line 197.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 197.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 191. 
+on input line 191.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 191.
 
- [42 <./images/Facade/finishing.jpg>]
-<./images/Facade/access.jpg, id=840, 1284.8pt x 722.7pt>
+ [44 <./images/Facade/scheme.png>]
+<./images/Facade/access.jpg, id=849, 1284.8pt x 722.7pt>
 File: ./images/Facade/access.jpg Graphic file (type jpg)
 <use ./images/Facade/access.jpg>
 Package pdftex.def Info: ./images/Facade/access.jpg  used on input line 200. on
@@ -2814,12 +2819,12 @@ Package pdftex.def Info: Requested size: 369.88582pt x 208.05583pt on input lin
 e 200.
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 207. 
-on input line 207.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 207.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 203. 
+on input line 203.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 203.
 
- [43 <./images/Facade/scheme.png> <./images/Facade/revolving.png>]
-<./images/Facade/emergencydoor.png, id=847, 332.24126pt x 334.24875pt>
+ [45 <./images/Facade/revolving.png>]
+<./images/Facade/emergencydoor.png, id=855, 332.24126pt x 334.24875pt>
 File: ./images/Facade/emergencydoor.png Graphic file (type png)
 <use ./images/Facade/emergencydoor.png>
 Package pdftex.def Info: ./images/Facade/emergencydoor.png  used on input line 
@@ -2828,26 +2833,31 @@ Package pdftex.def Info: Requested size: 256.0748pt x 257.63753pt on input line
  217.
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 222. 
-on input line 222.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 222.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 220. 
+on input line 220.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 220.
 
-
-[44 <./images/Facade/access.jpg>]
-<./images/Facade/sate.png, id=852, 385.44pt x 253.94875pt>
+ [46 <./images/Facade/access.jpg>]
+<./images/Facade/sate.png, id=860, 385.44pt x 253.94875pt>
 File: ./images/Facade/sate.png Graphic file (type png)
 <use ./images/Facade/sate.png>
 Package pdftex.def Info: ./images/Facade/sate.png  used on input line 227. on i
 nput line 227.
 Package pdftex.def Info: Requested size: 256.0748pt x 168.71492pt on input line
  227.
-) (sections/6_Cubierta.tex
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 230. 
+on input line 230.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 230.
+
+ [47 <./images/Facade/emergencydoor.png>]) (sections/6_Cubierta.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
- [45 <./images/Facade/emergencydoor.png> <./images/Facade/sate.png>]
+ [48 <./images/Facade/sate.png>]
 Chapter 6.
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
@@ -2870,10 +2880,10 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 21. o
 n input line 21.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 21.
-[46
+[49
 
 ]
-<./images/cover/profile.jpg, id=863, 375.65344pt x 246.9225pt>
+<./images/cover/profile.jpg, id=876, 375.65344pt x 246.9225pt>
 File: ./images/cover/profile.jpg Graphic file (type jpg)
 <use ./images/cover/profile.jpg>
 Package pdftex.def Info: ./images/cover/profile.jpg  used on input line 36. on 
@@ -2885,15 +2895,15 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 40. o
 n input line 40.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 40.
- [47]
-<./images/cover/profiledimension.jpg, id=869, 535.2497pt x 162.6075pt>
+ [50]
+<./images/cover/profiledimension.jpg, id=882, 535.2497pt x 162.6075pt>
 File: ./images/cover/profiledimension.jpg Graphic file (type jpg)
 <use ./images/cover/profiledimension.jpg>
 Package pdftex.def Info: ./images/cover/profiledimension.jpg  used on input lin
 e 43. on input line 43.
 Package pdftex.def Info: Requested size: 341.43437pt x 103.731pt on input line 
 43.
-<./images/cover/glasswool.jpg, id=871, 626.34pt x 394.47375pt>
+<./images/cover/glasswool.jpg, id=884, 626.34pt x 394.47375pt>
 File: ./images/cover/glasswool.jpg Graphic file (type jpg)
 <use ./images/cover/glasswool.jpg>
 Package pdftex.def Info: ./images/cover/glasswool.jpg  used on input line 56. o
@@ -2905,8 +2915,8 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 60. o
 n input line 60.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 60.
- [48 <./images/cover/profile.jpg> <./images/cover/profiledimension.jpg>]
-<./images/cover/falseceiling.jpg, id=880, 435.6275pt x 326.21875pt>
+ [51 <./images/cover/profile.jpg> <./images/cover/profiledimension.jpg>]
+<./images/cover/falseceiling.jpg, id=892, 435.6275pt x 326.21875pt>
 File: ./images/cover/falseceiling.jpg Graphic file (type jpg)
 <use ./images/cover/falseceiling.jpg>
 Package pdftex.def Info: ./images/cover/falseceiling.jpg  used on input line 73
@@ -2921,13 +2931,13 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
- [49 <./images/cover/glasswool.jpg>]
+ [52 <./images/cover/glasswool.jpg>]
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[50 <./images/cover/falseceiling.jpg>]
+[53 <./images/cover/falseceiling.jpg>]
 Chapter 7.
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
@@ -2950,17 +2960,17 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 13. o
 n input line 13.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 13.
-[51
+[54
 
 ]
-<./images/indoorclosures/offices.jpg, id=898, 1204.5pt x 677.53125pt>
+<./images/indoorclosures/offices.jpg, id=911, 1204.5pt x 677.53125pt>
 File: ./images/indoorclosures/offices.jpg Graphic file (type jpg)
 <use ./images/indoorclosures/offices.jpg>
 Package pdftex.def Info: ./images/indoorclosures/offices.jpg  used on input lin
 e 16. on input line 16.
 Package pdftex.def Info: Requested size: 341.43437pt x 192.05424pt on input lin
 e 16.
-<./images/indoorclosures/passport.png, id=901, 277.5587pt x 212.09674pt>
+<./images/indoorclosures/passport.png, id=914, 277.5587pt x 212.09674pt>
 File: ./images/indoorclosures/passport.png Graphic file (type png)
 <use ./images/indoorclosures/passport.png>
 Package pdftex.def Info: ./images/indoorclosures/passport.png  used on input li
@@ -2974,15 +2984,15 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 33. o
 n input line 33.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 33.
- [52 <./images/indoorclosures/offices.jpg>]
-<./images/indoorclosures/block.jpg, id=910, 451.6875pt x 370.38374pt>
+ [55 <./images/indoorclosures/offices.jpg>]
+<./images/indoorclosures/block.jpg, id=923, 451.6875pt x 370.38374pt>
 File: ./images/indoorclosures/block.jpg Graphic file (type jpg)
 <use ./images/indoorclosures/block.jpg>
 Package pdftex.def Info: ./images/indoorclosures/block.jpg  used on input line 
 43. on input line 43.
 Package pdftex.def Info: Requested size: 170.71393pt x 139.98431pt on input lin
 e 43.
-<./images/indoorclosures/tiles.jpg, id=912, 192.72pt x 267.1581pt>
+<./images/indoorclosures/tiles.jpg, id=925, 192.72pt x 267.1581pt>
 File: ./images/indoorclosures/tiles.jpg Graphic file (type jpg)
 <use ./images/indoorclosures/tiles.jpg>
 Package pdftex.def Info: ./images/indoorclosures/tiles.jpg  used on input line 
@@ -2994,9 +3004,9 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 54. o
 n input line 54.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 54.
- [53 <./images/indoorclosures/passport.png> <./images/indoorclosures/block.jpg>
+ [56 <./images/indoorclosures/passport.png> <./images/indoorclosures/block.jpg>
 ]
-<./images/indoorclosures/elevatorfigures.jpg, id=923, 489.32813pt x 462.97969pt
+<./images/indoorclosures/elevatorfigures.jpg, id=936, 489.32813pt x 462.97969pt
 >
 File: ./images/indoorclosures/elevatorfigures.jpg Graphic file (type jpg)
 <use ./images/indoorclosures/elevatorfigures.jpg>
@@ -3009,8 +3019,8 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 66. o
 n input line 66.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 66.
- [54 <./images/indoorclosures/tiles.jpg>]
-<./images/indoorclosures/elevator.jpg, id=931, 499.11469pt x 653.44125pt>
+ [57 <./images/indoorclosures/tiles.jpg>]
+<./images/indoorclosures/elevator.jpg, id=943, 499.11469pt x 653.44125pt>
 File: ./images/indoorclosures/elevator.jpg Graphic file (type jpg)
 <use ./images/indoorclosures/elevator.jpg>
 Package pdftex.def Info: ./images/indoorclosures/elevator.jpg  used on input li
@@ -3023,7 +3033,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
- [55 <./images/indoorclosures/elevatorfigures.jpg> <./images/indoorclosures/ele
+ [58 <./images/indoorclosures/elevatorfigures.jpg> <./images/indoorclosures/ele
 vator.jpg>]
 Chapter 8.
 ) (Report_LT.bbl
@@ -3048,7 +3058,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[56
+[59
 
 ]
 Chapter 9.
@@ -3056,46 +3066,46 @@ Chapter 9.
 AED: lastpage setting LastPage
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 88.
+less on input line 89.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 88.
+less on input line 89.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 88.
+less on input line 89.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 88.
+less on input line 89.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 88. o
-n input line 88.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 88.
-[57
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 89. o
+n input line 89.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 89.
+[60
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
  (Report_LT.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
 Package rerunfilecheck Info: File `Report_LT.out' has not changed.
 (rerunfilecheck)             Checksum: 19203AB504AD630D2B59B21126D6EE7F;4533.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 30700 strings out of 493312
- 575597 string characters out of 3138886
+ 30704 strings out of 493312
+ 575627 string characters out of 3138886
  649238 words of memory out of 3000000
- 33459 multiletter control sequences out of 15000+200000
+ 33460 multiletter control sequences out of 15000+200000
  601601 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,16n,77p,10489b,957s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -3115,9 +3125,9 @@ type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm
 /lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsso9.pfb><C:/
 Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/public/lm/lmsy6.pfb>
-Output written on Report_LT.pdf (64 pages, 11536739 bytes).
+Output written on Report_LT.pdf (67 pages, 11539992 bytes).
 PDF statistics:
- 1052 PDF objects out of 1200 (max. 8388607)
- 223 named destinations out of 1000 (max. 500000)
+ 1065 PDF objects out of 1200 (max. 8388607)
+ 226 named destinations out of 1000 (max. 500000)
  982 words of extra memory for PDF output out of 10000 (max. 10000000)
 
