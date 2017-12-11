@@ -70,6 +70,7 @@
 \contentsline {section}{\numberline {7.4}Toilets}{56}{section.7.4}
 \contentsline {section}{\numberline {7.5}Elevators}{57}{section.7.5}
 \contentsline {chapter}{\numberline {8}Fire prevention}{59}{chapter.8}
+<<<<<<< HEAD
 \contentsline {paragraph}{}{59}{section*.86}
 \contentsline {section}{\numberline {8.1}Fire prevention regulations }{59}{section.8.1}
 \contentsline {subsection}{\numberline {8.1.1}Level of protection}{59}{subsection.8.1.1}
@@ -80,3 +81,22 @@
 \contentsline {subsection}{\numberline {8.2.1}Building elements}{61}{subsection.8.2.1}
 \contentsline {subsection}{\numberline {8.2.2}Materials}{61}{subsection.8.2.2}
 \contentsline {chapter}{\numberline {9}Bibliography}{62}{chapter.9}
+=======
+\contentsline {section}{\numberline {8.1}Fire prevention regulations }{59}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Level of protection}{59}{subsection.8.1.1}
+\contentsline {paragraph}{}{59}{section*.86}
+\contentsline {subsection}{\numberline {8.1.2}Extinguishing agents}{60}{subsection.8.1.2}
+\contentsline {paragraph}{}{60}{section*.88}
+\contentsline {subsection}{\numberline {8.1.3}Rescue equipment}{61}{subsection.8.1.3}
+\contentsline {subsection}{\numberline {8.1.4}Response time}{61}{subsection.8.1.4}
+\contentsline {subsection}{\numberline {8.1.5}Emergency access roads}{62}{subsection.8.1.5}
+\contentsline {paragraph}{}{62}{section*.91}
+\contentsline {subsection}{\numberline {8.1.6}Fire stations}{62}{subsection.8.1.6}
+\contentsline {subsection}{\numberline {8.1.7}Number of rescue and firefighting vehicles}{62}{subsection.8.1.7}
+\contentsline {subsection}{\numberline {8.1.8}Personnel}{63}{subsection.8.1.8}
+\contentsline {paragraph}{}{63}{section*.93}
+\contentsline {section}{\numberline {8.2}Chosen materials}{63}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Building elements}{63}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Materials}{63}{subsection.8.2.2}
+\contentsline {chapter}{\numberline {9}Bibliography}{64}{chapter.9}
+>>>>>>> eb5f5205ea74ace1a27e5fda56d85ca76aff447a
