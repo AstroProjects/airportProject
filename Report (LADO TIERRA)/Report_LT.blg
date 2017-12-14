@@ -8,14 +8,18 @@ Database file #2: PROYECTO_AEROPUERTOS.bib
 Warning--empty journal in IATA_PLF
 Warning--empty journal in Standards2016
 Warning--empty journal in InternationalCivilAviationOrganisation2014
-Warning--missing publisher in Morris2010
-Warning--empty journal in FAA1988
-Warning--empty journal in SognandoCasa
-Warning--empty year in SognandoCasa
+Warning--empty journal in evacuation
+Warning--empty year in evacuation
+Warning--empty journal in Sanidad2009
+Warning--missing publisher in IATA2004
 Warning--empty journal in GLASSCON
 Warning--empty year in GLASSCON
+Warning--missing publisher in ICAO2006
+Warning--empty journal in FAA1988
 Warning--missing publisher in Faure2001
-Warning--missing publisher in IATA2004
+Warning--missing publisher in Morris2010
+Warning--empty journal in SognandoCasa
+Warning--empty year in SognandoCasa
 
 Done.
-(There were 11 warnings)
+(There were 15 warnings)

@@ -137,15 +137,9 @@
 \contentsline {section}{\numberline {8.2}Mandatory instruction signs}{43}{section.8.2}
 \contentsline {section}{\numberline {8.3}Information signs}{46}{section.8.3}
 \contentsline {chapter}{\numberline {9}High-voltage electrical system}{49}{chapter.9}
-<<<<<<< HEAD
-\contentsline {paragraph}{}{49}{section*.78}
-\contentsline {section}{\numberline {9.1}Electrical system general design}{49}{section.9.1}
-\contentsline {paragraph}{}{49}{section*.79}
-=======
 \contentsline {paragraph}{}{49}{section*.82}
 \contentsline {section}{\numberline {9.1}Electrical system general design}{49}{section.9.1}
 \contentsline {paragraph}{}{49}{section*.83}
->>>>>>> 3a5517966698f2d65e3ed44fcf2b86ef21dc791a
 \contentsline {section}{\numberline {9.2}Connection sub-stations}{50}{section.9.2}
 \contentsline {section}{\numberline {9.3}Electric powerplant}{50}{section.9.3}
 \contentsline {section}{\numberline {9.4}Electrical transformation center}{50}{section.9.4}
