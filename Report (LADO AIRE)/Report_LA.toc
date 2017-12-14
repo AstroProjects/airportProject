@@ -18,27 +18,28 @@
 \contentsline {subsection}{\numberline {2.2.1}Runway 1}{4}{subsection.2.2.1}
 \contentsline {subsubsection}{\numberline {2.2.1.1}Reference Field Length}{5}{subsubsection.2.2.1.1}
 \contentsline {subsubsection}{\numberline {2.2.1.2}Reference code}{7}{subsubsection.2.2.1.2}
-\contentsline {paragraph}{}{9}{section*.17}
-\contentsline {subsubsection}{\numberline {2.2.1.3}Runway width and shoulders}{9}{subsubsection.2.2.1.3}
-\contentsline {paragraph}{}{9}{section*.18}
-\contentsline {subsubsection}{\numberline {2.2.1.4}Declared distances}{10}{subsubsection.2.2.1.4}
-\contentsline {paragraph}{}{10}{section*.20}
-\contentsline {subsubsection}{\numberline {2.2.1.5}Runway strips}{10}{subsubsection.2.2.1.5}
-\contentsline {subsubsection}{\numberline {2.2.1.6}Runway End Safety Areas (RESA)}{11}{subsubsection.2.2.1.6}
-\contentsline {subsubsection}{\numberline {2.2.1.7}Clearway (CWY)}{11}{subsubsection.2.2.1.7}
-\contentsline {subsubsection}{\numberline {2.2.1.8}Stopway (SWY)}{12}{subsubsection.2.2.1.8}
-\contentsline {subsubsection}{\numberline {2.2.1.9}Pavement}{12}{subsubsection.2.2.1.9}
+\contentsline {paragraph}{}{8}{section*.17}
+\contentsline {subsubsection}{\numberline {2.2.1.3}Runway width and shoulders}{8}{subsubsection.2.2.1.3}
+\contentsline {paragraph}{}{8}{section*.18}
+\contentsline {subsubsection}{\numberline {2.2.1.4}Declared distances}{9}{subsubsection.2.2.1.4}
+\contentsline {paragraph}{}{9}{section*.20}
+\contentsline {subsubsection}{\numberline {2.2.1.5}Runway strips}{9}{subsubsection.2.2.1.5}
+\contentsline {subsubsection}{\numberline {2.2.1.6}Runway End Safety Areas (RESA)}{10}{subsubsection.2.2.1.6}
+\contentsline {subsubsection}{\numberline {2.2.1.7}Clearway (CWY)}{10}{subsubsection.2.2.1.7}
+\contentsline {subsubsection}{\numberline {2.2.1.8}Stopway (SWY)}{11}{subsubsection.2.2.1.8}
+\contentsline {subsubsection}{\numberline {2.2.1.9}Pavement}{11}{subsubsection.2.2.1.9}
 \contentsline {subsection}{\numberline {2.2.2}Runway 2}{12}{subsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.2.1}Reference Field Length}{13}{subsubsection.2.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Reference Field Length}{12}{subsubsection.2.2.2.1}
 \contentsline {subsubsection}{\numberline {2.2.2.2}Reference code}{15}{subsubsection.2.2.2.2}
-\contentsline {paragraph}{}{17}{section*.30}
-\contentsline {subsubsection}{\numberline {2.2.2.3}Runway width and shoulders}{17}{subsubsection.2.2.2.3}
-\contentsline {paragraph}{}{17}{section*.31}
+\contentsline {paragraph}{}{16}{section*.32}
+\contentsline {subsubsection}{\numberline {2.2.2.3}Runway width and shoulders}{16}{subsubsection.2.2.2.3}
+\contentsline {paragraph}{}{16}{section*.33}
 \contentsline {subsubsection}{\numberline {2.2.2.4}Declared distances}{17}{subsubsection.2.2.2.4}
-\contentsline {paragraph}{}{17}{section*.33}
+\contentsline {paragraph}{}{17}{section*.35}
 \contentsline {subsubsection}{\numberline {2.2.2.5}Runway strips}{17}{subsubsection.2.2.2.5}
-\contentsline {subsubsection}{\numberline {2.2.2.6}Runway End Saefty Areas (RESA)}{18}{subsubsection.2.2.2.6}
+\contentsline {subsubsection}{\numberline {2.2.2.6}Runway End Saefty Areas (RESA)}{17}{subsubsection.2.2.2.6}
 \contentsline {subsubsection}{\numberline {2.2.2.7}Clearway (CWY)}{18}{subsubsection.2.2.2.7}
+\contentsline {subsubsection}{\numberline {2.2.2.8}Pavement}{18}{subsubsection.2.2.2.8}
 \contentsline {chapter}{\numberline {3}Taxiway design}{19}{chapter.3}
 \contentsline {section}{\numberline {3.1}Introduction}{19}{section.3.1}
 \contentsline {section}{\numberline {3.2}Taxiway width}{19}{section.3.2}
@@ -59,20 +60,22 @@
 \contentsline {section}{\numberline {4.5}Final design of holding positions}{20}{section.4.5}
 \contentsline {chapter}{\numberline {5}Apron design}{21}{chapter.5}
 \contentsline {section}{\numberline {5.1}Introduction}{21}{section.5.1}
-\contentsline {paragraph}{}{21}{section*.36}
+\contentsline {paragraph}{}{21}{section*.39}
 \contentsline {section}{\numberline {5.2}Apron taxiways}{22}{section.5.2}
-\contentsline {paragraph}{}{22}{section*.38}
+\contentsline {paragraph}{}{22}{section*.41}
 \contentsline {section}{\numberline {5.3}Aircraft stands}{23}{section.5.3}
 \contentsline {subsection}{\numberline {5.3.1}General dimensions of aircraft stands}{23}{subsection.5.3.1}
-\contentsline {paragraph}{}{23}{section*.40}
+\contentsline {paragraph}{}{23}{section*.43}
 \contentsline {subsection}{\numberline {5.3.2}Dimensions for reference aircraft}{24}{subsection.5.3.2}
-\contentsline {paragraph}{}{24}{section*.43}
+\contentsline {paragraph}{}{24}{section*.46}
 \contentsline {subsubsection}{\numberline {5.3.2.1}B777}{24}{subsubsection.5.3.2.1}
 \contentsline {subsubsection}{\numberline {5.3.2.2}B737}{25}{subsubsection.5.3.2.2}
 \contentsline {section}{\numberline {5.4}Service ways in apron}{26}{section.5.4}
-\contentsline {paragraph}{}{26}{section*.48}
+\contentsline {paragraph}{}{26}{section*.51}
 \contentsline {section}{\numberline {5.5}Terminal connections}{28}{section.5.5}
-\contentsline {paragraph}{}{28}{section*.52}
+\contentsline {paragraph}{}{28}{section*.55}
+\contentsline {section}{\numberline {5.6}Pavement}{29}{section.5.6}
+\contentsline {paragraph}{}{29}{section*.58}
 \contentsline {chapter}{\numberline {6}Markings}{30}{chapter.6}
 \contentsline {section}{\numberline {6.1}Runway markings}{31}{section.6.1}
 \contentsline {subsection}{\numberline {6.1.1}Runway centerline markings}{31}{subsection.6.1.1}
@@ -101,22 +104,22 @@
 \contentsline {chapter}{\numberline {7}Lights}{32}{chapter.7}
 \contentsline {section}{\numberline {7.1}Runway lights}{32}{section.7.1}
 \contentsline {subsection}{\numberline {7.1.1}Approach lights}{32}{subsection.7.1.1}
-\contentsline {paragraph}{}{32}{section*.55}
+\contentsline {paragraph}{}{32}{section*.59}
 \contentsline {subsection}{\numberline {7.1.2}Approach slope indication systems}{33}{subsection.7.1.2}
-\contentsline {paragraph}{}{33}{section*.57}
+\contentsline {paragraph}{}{33}{section*.61}
 \contentsline {subsection}{\numberline {7.1.3}Runway threshold identification lights}{36}{subsection.7.1.3}
-\contentsline {paragraph}{}{36}{section*.61}
+\contentsline {paragraph}{}{36}{section*.65}
 \contentsline {subsection}{\numberline {7.1.4}Runway edge lights}{36}{subsection.7.1.4}
-\contentsline {paragraph}{}{36}{section*.62}
+\contentsline {paragraph}{}{36}{section*.66}
 \contentsline {subsection}{\numberline {7.1.5}Runway threshold and wing bar lights}{37}{subsection.7.1.5}
-\contentsline {paragraph}{}{37}{section*.63}
+\contentsline {paragraph}{}{37}{section*.67}
 \contentsline {subsection}{\numberline {7.1.6}Runway end lights}{37}{subsection.7.1.6}
-\contentsline {paragraph}{}{37}{section*.64}
+\contentsline {paragraph}{}{37}{section*.68}
 \contentsline {subsection}{\numberline {7.1.7}Runway centre line lights}{38}{subsection.7.1.7}
-\contentsline {paragraph}{}{38}{section*.66}
+\contentsline {paragraph}{}{38}{section*.70}
 \contentsline {subsection}{\numberline {7.1.8}Touchdown zone lights}{38}{subsection.7.1.8}
 \contentsline {subsection}{\numberline {7.1.9}Rapid exit taxiway indicator lights}{39}{subsection.7.1.9}
-\contentsline {paragraph}{}{39}{section*.67}
+\contentsline {paragraph}{}{39}{section*.71}
 \contentsline {section}{\numberline {7.2}Taxiway lights}{40}{section.7.2}
 \contentsline {subsection}{\numberline {7.2.1}Taxiway lights}{40}{subsection.7.2.1}
 \contentsline {subsection}{\numberline {7.2.2}Taxiway lights for an exit taxiway}{40}{subsection.7.2.2}
@@ -130,13 +133,19 @@
 \contentsline {subsection}{\numberline {7.3.3}Visual guidance system for parking}{41}{subsection.7.3.3}
 \contentsline {chapter}{\numberline {8}Signs}{43}{chapter.8}
 \contentsline {section}{\numberline {8.1}Introduction}{43}{section.8.1}
-\contentsline {paragraph}{}{43}{section*.70}
+\contentsline {paragraph}{}{43}{section*.74}
 \contentsline {section}{\numberline {8.2}Mandatory instruction signs}{43}{section.8.2}
 \contentsline {section}{\numberline {8.3}Information signs}{46}{section.8.3}
 \contentsline {chapter}{\numberline {9}High-voltage electrical system}{49}{chapter.9}
+<<<<<<< HEAD
 \contentsline {paragraph}{}{49}{section*.78}
 \contentsline {section}{\numberline {9.1}Electrical system general design}{49}{section.9.1}
 \contentsline {paragraph}{}{49}{section*.79}
+=======
+\contentsline {paragraph}{}{49}{section*.82}
+\contentsline {section}{\numberline {9.1}Electrical system general design}{49}{section.9.1}
+\contentsline {paragraph}{}{49}{section*.83}
+>>>>>>> 3a5517966698f2d65e3ed44fcf2b86ef21dc791a
 \contentsline {section}{\numberline {9.2}Connection sub-stations}{50}{section.9.2}
 \contentsline {section}{\numberline {9.3}Electric powerplant}{50}{section.9.3}
 \contentsline {section}{\numberline {9.4}Electrical transformation center}{50}{section.9.4}
