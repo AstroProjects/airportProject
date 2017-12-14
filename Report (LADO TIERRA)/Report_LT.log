@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.28)  11 DEC 2017 22:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.28)  14 DEC 2017 19:31
 entering extended mode
 **./Report_LT.tex
 (Report_LT.tex
@@ -2332,22 +2332,6 @@ Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
  [15]
 Chapter 2.
 
-Package caption Warning: \label without proper reference on input line 11.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table:FAAdomestic' on page 16 undefined on input line
- 8.
-
-
-Package caption Warning: \label without proper reference on input line 45.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table:FAAinternational' on page 16 undefined on input
- line 41.
-
-
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 82.
 
@@ -2371,78 +2355,69 @@ Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 82.
 [16
 
 ]
-
-Package caption Warning: \label without proper reference on input line 87.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table:FAAtotal' on page 17 undefined on input line 85
-.
-
-
 Overfull \hbox (30.80186pt too wide) in paragraph at lines 89--110
  [][] 
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 135. 
-on input line 135.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 135.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 136. 
+on input line 136.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 136.
 
 [17]
 <./images/graf1.png, id=757, 501.875pt x 364.36125pt>
 File: ./images/graf1.png Graphic file (type png)
 <use ./images/graf1.png>
-Package pdftex.def Info: ./images/graf1.png  used on input line 139. on input l
-ine 139.
+Package pdftex.def Info: ./images/graf1.png  used on input line 140. on input l
+ine 140.
 Package pdftex.def Info: Requested size: 284.52756pt x 206.57613pt on input lin
-e 139.
+e 140.
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 160. 
-on input line 160.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 160.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 161. 
+on input line 161.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 161.
 
  [18 <./images/graf1.png>]
 <./images/IATA1.png, id=765, 632.3625pt x 153.57375pt>
 File: ./images/IATA1.png Graphic file (type png)
 <use ./images/IATA1.png>
-Package pdftex.def Info: ./images/IATA1.png  used on input line 172. on input l
-ine 172.
+Package pdftex.def Info: ./images/IATA1.png  used on input line 173. on input l
+ine 173.
 Package pdftex.def Info: Requested size: 227.62204pt x 55.27946pt on input line
- 172.
+ 173.
 <./images/IATA2.png, id=766, 621.32124pt x 254.9525pt>
 File: ./images/IATA2.png Graphic file (type png)
 <use ./images/IATA2.png>
-Package pdftex.def Info: ./images/IATA2.png  used on input line 178. on input l
-ine 178.
+Package pdftex.def Info: ./images/IATA2.png  used on input line 179. on input l
+ine 179.
 Package pdftex.def Info: Requested size: 227.62204pt x 93.40117pt on input line
- 178.
+ 179.
 <./images/IATA3.png, id=767, 590.205pt x 371.3875pt>
 File: ./images/IATA3.png Graphic file (type png)
 <use ./images/IATA3.png>
-Package pdftex.def Info: ./images/IATA3.png  used on input line 189. on input l
-ine 189.
+Package pdftex.def Info: ./images/IATA3.png  used on input line 190. on input l
+ine 190.
 Package pdftex.def Info: Requested size: 284.52756pt x 179.04033pt on input lin
-e 189.
+e 190.
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 197. 
-on input line 197.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 197.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 198. 
+on input line 198.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 198.
 
  [19 <./images/IATA1.png> <./images/IATA2.png> <./images/IATA3.png>]
-Underfull \hbox (badness 1418) in paragraph at lines 212--213
+Underfull \hbox (badness 1418) in paragraph at lines 213--214
 []\T1/lmss/m/n/10.95 The to-tal num-ber of pass-port con-trol po-si-tions will 
 be 18. Since the ra-tio
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 244. 
-on input line 244.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 244.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 245. 
+on input line 245.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 245.
 
 [20]) (sections/3_Tipologia_Estructural.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
@@ -3184,151 +3159,147 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--31
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--83
+Underfull \hbox (badness 10000) in paragraph at lines 82--85
 \T1/lmss/m/n/10.95 com / content / za / internet / en / mobility-[]solutions / 
 products / elevators / Schindler5500 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--83
+Underfull \hbox (badness 10000) in paragraph at lines 82--85
 \T1/lmss/m/n/10.95 {_}jcr{_}content / rightPar / downloadlist / downloadList / 
 147{_}1466414332447 .
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 86--89
+Underfull \hbox (badness 5681) in paragraph at lines 92--95
 []\T1/lmss/m/n/10.95 PLADUR, ``PLADUR Prod-ucts Tech-ni-cal Data.'' [On-line].
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 86--89
+Underfull \hbox (badness 2418) in paragraph at lines 92--95
 \T1/lmss/m/n/10.95 Avail-able: []$https : / / www . pladur . com / es-[]es / ar
 quitectos / documentacion-[]tecnica /
  []
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 90.
+less on input line 95.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 90.
+less on input line 95.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 90.
+less on input line 95.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 90.
+less on input line 95.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 90. o
-n input line 90.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 90.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 95. o
+n input line 95.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 95.
 [68
 
 ]
-Underfull \hbox (badness 1577) in paragraph at lines 113--117
-\T1/lmss/m/n/10.95 for Air-port Ter-mi-nal Fa-cil-i-ties,'' pp. 1--148, 1988. [
-On-line].
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--123
-[]\T1/lmss/m/n/10.95 DORMA, ``DORMA TV100 - Emer-gency Doors
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--123
-\T1/lmss/m/n/10.95 Data.'' [On-line]. Avail-able: []$http : / / www . dorma . c
-om / es /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--123
-\T1/lmss/m/n/10.95 es / productos / seguridad / sistemas{_}para{_}salidas{_}de{
-_}emergencia /
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 126--129
-[]\T1/lmss/m/n/10.95 G. GEZE, ``GEZE TSA 325 NT - Re-volv-ing Door Specs.''
- []
-
-
-Underfull \hbox (badness 4266) in paragraph at lines 169--172
-[]\T1/lmss/m/n/10.95 SunGuard, ``Sun-Guard SNX60 - Glass data.'' [On-line].
- []
-
-
-Underfull \hbox (badness 1270) in paragraph at lines 169--172
-\T1/lmss/m/n/10.95 Avail-able: []$http : / / www . sunguardglass . es / cs / gr
-oups / sunguardeurope / documents /
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 172. 
-on input line 172.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 172.
-
-[69]
-Underfull \hbox (badness 10000) in paragraph at lines 175--179
-[]\T1/lmss/m/n/10.95 GLASSCON, ``GLASS-CON - Spi-der Sys-tem Fit-tings
- []
-
-
-Underfull \hbox (badness 4940) in paragraph at lines 175--179
-\T1/lmss/m/n/10.95 Provider (Steel Pil-lars).'' [On-line]. Avail-able: []$https
- : / /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--179
-\T1/lmss/m/n/10.95 www . glasscon . com / products / spider-[]glass-[]suspended
--[]glass-[]ns-[]cable-[]system /
- []
-
-
-Underfull \hbox (badness 1668) in paragraph at lines 182--186
+Underfull \hbox (badness 1668) in paragraph at lines 138--142
 []\T1/lmss/m/n/10.95 EUROPERFIL, ``Eu-rop-er-fil "Eu-robase 106 CS" Tech-ni-cal
  Data.''
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--220
+Underfull \hbox (badness 10000) in paragraph at lines 145--149
+[]\T1/lmss/m/n/10.95 GLASSCON, ``GLASS-CON - Spi-der Sys-tem Fit-tings
+ []
+
+
+Underfull \hbox (badness 4940) in paragraph at lines 145--149
+\T1/lmss/m/n/10.95 Provider (Steel Pil-lars).'' [On-line]. Avail-able: []$https
+ : / /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--149
+\T1/lmss/m/n/10.95 www . glasscon . com / products / spider-[]glass-[]suspended
+-[]glass-[]ns-[]cable-[]system /
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 152--155
+[]\T1/lmss/m/n/10.95 G. GEZE, ``GEZE TSA 325 NT - Re-volv-ing Door Specs.''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--168
 \T1/lmss/m/n/10.95 / / www . iata . org / whatwedo / Documents / economics / pa
 ssenger-[]analysis-[]jun-[]2017 . pdfhttp :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--178
+[]\T1/lmss/m/n/10.95 DORMA, ``DORMA TV100 - Emer-gency Doors
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--178
+\T1/lmss/m/n/10.95 Data.'' [On-line]. Avail-able: []$http : / / www . dorma . c
+om / es /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--178
+\T1/lmss/m/n/10.95 es / productos / seguridad / sistemas{_}para{_}salidas{_}de{
+_}emergencia /
+ []
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 178. 
+on input line 178.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 178.
+
+[69]
+Underfull \hbox (badness 1577) in paragraph at lines 187--191
+\T1/lmss/m/n/10.95 for Air-port Ter-mi-nal Fa-cil-i-ties,'' pp. 1--148, 1988. [
+On-line].
+ []
+
+
+Underfull \hbox (badness 4266) in paragraph at lines 194--197
+[]\T1/lmss/m/n/10.95 SunGuard, ``Sun-Guard SNX60 - Glass data.'' [On-line].
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 194--197
+\T1/lmss/m/n/10.95 Avail-able: []$http : / / www . sunguardglass . es / cs / gr
+oups / sunguardeurope / documents /
  []
 
 ) 
 AED: lastpage setting LastPage
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 93. o
-n input line 93.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 93.
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 90. o
+n input line 90.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 90.
 [70]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
  (Report_LT.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
 Package rerunfilecheck Info: File `Report_LT.out' has not changed.
 (rerunfilecheck)             Checksum: 4E665E03D879C8B073E2858F394EB8C0;5311.
-
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
  ) 
 Here is how much of TeX's memory you used:
- 30867 strings out of 493312
- 578717 string characters out of 3138886
- 649978 words of memory out of 3000000
- 33549 multiletter control sequences out of 15000+200000
+ 30875 strings out of 493312
+ 578845 string characters out of 3138886
+ 650125 words of memory out of 3000000
+ 33553 multiletter control sequences out of 15000+200000
  601601 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,16n,77p,10489b,957s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -3348,9 +3319,9 @@ type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm
 /lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsso9.pfb><C:/
 Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/public/lm/lmsy6.pfb>
-Output written on Report_LT.pdf (78 pages, 12176353 bytes).
+Output written on Report_LT.pdf (78 pages, 12177541 bytes).
 PDF statistics:
- 1316 PDF objects out of 1440 (max. 8388607)
- 291 named destinations out of 1000 (max. 500000)
+ 1321 PDF objects out of 1440 (max. 8388607)
+ 295 named destinations out of 1000 (max. 500000)
  1158 words of extra memory for PDF output out of 10000 (max. 10000000)
 

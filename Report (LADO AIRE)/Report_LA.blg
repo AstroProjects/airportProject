@@ -1,5 +1,13 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Report_LA.aux
-The style file: plain.bst
-I found no \citation commands---while reading file Report_LA.aux
-Database file #1: TFG-Report.bib
-(There was 1 error message)
+The style file: IEEEtran.bst
+Database file #1: IEEEabrv.bib
+Database file #2: PROYECTO_AEROPUERTOS-LADO_AIRE.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--missing publisher in ICAO2006
+Warning--empty journal in Sanidad2009
+Warning--empty journal in Standards2016
+
+Done.
+(There were 3 warnings)

@@ -50,22 +50,62 @@ I.~Standards, R.~Practices, I.~C. Aviation, and A.~Design, ``{Aerodromes},''
 {International Civil Aviation Organisation}, ``{Airport services manual, part
   1: Rescue and fire fighting, 9137/An/898},'' p. 230, 2014.
 
+\bibitem{evacuation}
+I.~P. Evacuation and I.~Industrial, ``{NTP 46: Evacuaci{\'{o}}n de
+  edificios}.''
+
+\bibitem{Sanidad2009}
+M.~D.~E. Sanidad and T.~Social, ``{BOE-A-2009-9043},'' p. Cap{\'{i}}tulo 8,
+  2009.
+
+\bibitem{Ministeriodeeconomia2017}
+i.~y. competitividad Ministerio~de econom{\'{i}}a, ``{RD 513/2017, de22-05,
+  Reglamento de instalaciones protecci{\'{o}}n contra incendios},'' \emph{Boe
+  19/12/2015}, pp. 119\,723--119\,944, 2017.
+
+\bibitem{PROTECNICSGLOBAL}
+\BIBentryALTinterwordspacing
+{PROTECNICS GLOBAL}, ``{BUSINESS COMBI Offices Technical Data}.'' [Online].
+  Available:
+  \url{http://www.protecnicsglobal.com/portfolio{\_}page/business-combi}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Porcelanosa}
+\BIBentryALTinterwordspacing
+Porcelanosa, ``{Porcelanosa "Portland Caliza" Tile Data}.'' [Online].
+  Available:
+  \url{http://www.porcelanosa.com/finder/Ceramic{\_}Tiles{\_}13/Portland{\_}Caliza{\_}59,6x59,6.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Schindler}
+\BIBentryALTinterwordspacing
+Schindler, ``{Shindler 5500 Technical Data}.'' [Online]. Available:
+  \url{https://www.schindler.com/content/za/internet/en/mobility-solutions/products/elevators/Schindler5500/{\_}jcr{\_}content/rightPar/downloadlist/downloadList/147{\_}1466414332447.download.asset.147{\_}1466414332447/schindler-5500-elevator-product-brochure.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{IATA2004}
+IATA, \emph{{Airport Development Reference Manual 2004}}, 9th~ed., 2004, no.
+  January.
+
+\bibitem{PLADUR}
+\BIBentryALTinterwordspacing
+PLADUR, ``{PLADUR Products Technical Data}.'' [Online]. Available:
+  \url{https://www.pladur.com/es-es/arquitectos/documentacion-tecnica/DocumentosTecnicos/Gama-Pladur3.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{EIROSS.A.}
+\BIBentryALTinterwordspacing
+{EIROS S.A.}, ``{EIROS - Prefabricated concrete provider}.'' [Online].
+  Available: \url{http://www.eiros.es/catalogos/visor.php?id=1}
+\BIBentrySTDinterwordspacing
+
+\bibitem{KNAUF}
+KNAUF, ``{Knauf Acustik Technical Data}.''
+
 \bibitem{THYSSENKRUPP}
 \BIBentryALTinterwordspacing
 THYSSENKRUPP, ``{iWalk Walkway Technical Data}.'' [Online]. Available:
   \url{https://www.thyssenkrupp-elevator.com/en/iwalk/{\#}}
-\BIBentrySTDinterwordspacing
-
-\bibitem{THYSSENKRUPPa}
-\BIBentryALTinterwordspacing
-------, ``{Velino Escalator Technical Data}.'' [Online]. Available:
-  \url{https://www.thyssenkrupp-elevator.com/uk/products/escalators/velino/{\#}902069}
-\BIBentrySTDinterwordspacing
-
-\bibitem{ONDACERS.L.}
-\BIBentryALTinterwordspacing
-{ONDACER S.L.}, ``{Eternity White Tiles Technical Data}.'' [Online]. Available:
-  \url{https://www.ondacer.com/es/1329-eternity-white}
 \BIBentrySTDinterwordspacing
 
 \bibitem{CERAMICASARCIS}
@@ -75,63 +115,10 @@ THYSSENKRUPP, ``{iWalk Walkway Technical Data}.'' [Online]. Available:
   \url{http://www.ceramicasarcis.es/index.php/es/ladrillo-panal-y-perforado}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Schindler}
+\bibitem{Panaria}
 \BIBentryALTinterwordspacing
-Schindler, ``{Shindler 5500 Technical Data}.'' [Online]. Available:
-  \url{https://www.schindler.com/content/za/internet/en/mobility-solutions/products/elevators/Schindler5500/{\_}jcr{\_}content/rightPar/downloadlist/downloadList/147{\_}1466414332447.download.asset.147{\_}1466414332447/schindler-5500-elevator-product-brochure.pdf}
-\BIBentrySTDinterwordspacing
-
-\bibitem{PLADUR}
-\BIBentryALTinterwordspacing
-PLADUR, ``{PLADUR Products Technical Data}.'' [Online]. Available:
-  \url{https://www.pladur.com/es-es/arquitectos/documentacion-tecnica/DocumentosTecnicos/Gama-Pladur3.pdf}
-\BIBentrySTDinterwordspacing
-
-\bibitem{PROTECNICSGLOBAL}
-\BIBentryALTinterwordspacing
-{PROTECNICS GLOBAL}, ``{BUSINESS COMBI Offices Technical Data}.'' [Online].
-  Available:
-  \url{http://www.protecnicsglobal.com/portfolio{\_}page/business-combi}
-\BIBentrySTDinterwordspacing
-
-\bibitem{URSAGLASSWOOL}
-{URSA GLASSWOOL}, ``{URSA GLASSWOOL Technical Sheets}.''
-
-\bibitem{KNAUF}
-KNAUF, ``{Knauf Acustik Technical Data}.''
-
-\bibitem{Morris2010}
-\BIBentryALTinterwordspacing
-C.~H. M.~R. Morris, N.~Central, T.~Council, A.~D. Biehler, P.~Dot, L.~L. Brown,
-  M.~Dot, R.~H. Iwasaki, and C.~Dot, \emph{{Airport Passenger Terminal Planning
-  and Design, Volume 1: Guidebook}}, 2010, vol.~1. [Online]. Available:
-  \url{https://www.nap.edu/catalog/22964}
-\BIBentrySTDinterwordspacing
-
-\bibitem{FAA1988}
-\BIBentryALTinterwordspacing
-FAA, ``{Advisory Circular 150/5360-13:Planning and Design Guidelines for
-  Airport Terminal Facilities},'' pp. 1--148, 1988. [Online]. Available:
-  \url{http://www.faa.gov/regulations{\_}policies/advisory{\_}circulars/index.cfm/go/document.information/documentID/22618}
-\BIBentrySTDinterwordspacing
-
-\bibitem{DORMA}
-\BIBentryALTinterwordspacing
-DORMA, ``{DORMA TV100 - Emergency Doors Data}.'' [Online]. Available:
-  \url{http://www.dorma.com/es/es/productos/seguridad/sistemas{\_}para{\_}salidas{\_}de{\_}emergencia/tv{\_}100{\_}tv{\_}100{\_}dcw{\_}r{\_}en/index-38817-48166-49607.html}
-\BIBentrySTDinterwordspacing
-
-\bibitem{GEZE}
-\BIBentryALTinterwordspacing
-G.~GEZE, ``{GEZE TSA 325 NT - Revolving Door Specs}.'' [Online]. Available:
-  \url{http://www.geze.com/geze/products/automatic-door-systems/revolving-door-systems/fully-automatic-revolving-door.html?L=1}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Stormtite}
-\BIBentryALTinterwordspacing
-Stormtite, ``{Stormtite AP Model 627 - Roll-up door for ABHS (SATE)}.''
-  [Online]. Available:
-  \url{http://www.overheaddoor.com/Documents/stormtite-ap-627-brochure.pdf}
+Panaria, ``{Panaria "Basalike" Tile Data}.'' [Online]. Available:
+  \url{https://www.panaria.it/downloads/2282/66/Catalogo{\_}Panaria{\_}Basalike{\_}LR.pdf}
 \BIBentrySTDinterwordspacing
 
 \bibitem{PTHumeConcrete}
@@ -146,28 +133,11 @@ Stormtite, ``{Stormtite AP Model 627 - Roll-up door for ABHS (SATE)}.''
   columns}.'' [Online]. Available: \url{http://corporate.arcelormittal.com}
 \BIBentrySTDinterwordspacing
 
-\bibitem{SognandoCasa}
+\bibitem{EUROPERFIL}
 \BIBentryALTinterwordspacing
-SognandoCasa, ``{SognandoCasa Tile Provider for Flooring}.'' [Online].
-  Available: \url{http://www.sognandocasa.it}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Panaria}
-\BIBentryALTinterwordspacing
-Panaria, ``{Panaria "Basalike" Tile Data}.'' [Online]. Available:
-  \url{https://www.panaria.it/downloads/2282/66/Catalogo{\_}Panaria{\_}Basalike{\_}LR.pdf}
-\BIBentrySTDinterwordspacing
-
-\bibitem{EIROSS.A.}
-\BIBentryALTinterwordspacing
-{EIROS S.A.}, ``{EIROS - Prefabricated concrete provider}.'' [Online].
-  Available: \url{http://www.eiros.es/catalogos/visor.php?id=1}
-\BIBentrySTDinterwordspacing
-
-\bibitem{SunGuard}
-\BIBentryALTinterwordspacing
-SunGuard, ``{SunGuard SNX60 - Glass data}.'' [Online]. Available:
-  \url{http://www.sunguardglass.es/cs/groups/sunguardeurope/documents/web{\_}content/gi{\_}020540.pdf}
+EUROPERFIL, ``{Europerfil "Eurobase 106 CS" Technical Data}.'' [Online].
+  Available:
+  \url{http://europerfil.com/web/resources/img/productos/ficha/pmcsac106-ft140520-eurobase-106.pdf}
 \BIBentrySTDinterwordspacing
 
 \bibitem{GLASSCON}
@@ -177,11 +147,52 @@ GLASSCON, ``{GLASSCON - Spider System Fittings Provider (Steel Pillars)}.''
   \url{https://www.glasscon.com/products/spider-glass-suspended-glass-fins-cable-system/spider-glass-curtain-walls-bolted-point-fixed-glazing}
 \BIBentrySTDinterwordspacing
 
-\bibitem{EUROPERFIL}
+\bibitem{GEZE}
 \BIBentryALTinterwordspacing
-EUROPERFIL, ``{Europerfil "Eurobase 106 CS" Technical Data}.'' [Online].
-  Available:
-  \url{http://europerfil.com/web/resources/img/productos/ficha/pmcsac106-ft140520-eurobase-106.pdf}
+G.~GEZE, ``{GEZE TSA 325 NT - Revolving Door Specs}.'' [Online]. Available:
+  \url{http://www.geze.com/geze/products/automatic-door-systems/revolving-door-systems/fully-automatic-revolving-door.html?L=1}
+\BIBentrySTDinterwordspacing
+
+\bibitem{THYSSENKRUPPa}
+\BIBentryALTinterwordspacing
+THYSSENKRUPP, ``{Velino Escalator Technical Data}.'' [Online]. Available:
+  \url{https://www.thyssenkrupp-elevator.com/uk/products/escalators/velino/{\#}902069}
+\BIBentrySTDinterwordspacing
+
+\bibitem{IATAtocho}
+\BIBentryALTinterwordspacing
+IATA, ``{Air Passenger Market Analysis},'' pp. 1--6, 2015. [Online]. Available:
+  \url{http://www.iata.org/whatwedo/Documents/economics/passenger-analysis-jun-2017.pdf
+  http://www.iata.org/whatwedo/Documents/economics/passenger-analysis-dec-2015.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{ICAO2006}
+ICAO, \emph{{Doc 9157 - Aerodrome Design Manual Part 5: Electrical Systems}},
+  2006.
+
+\bibitem{DORMA}
+\BIBentryALTinterwordspacing
+DORMA, ``{DORMA TV100 - Emergency Doors Data}.'' [Online]. Available:
+  \url{http://www.dorma.com/es/es/productos/seguridad/sistemas{\_}para{\_}salidas{\_}de{\_}emergencia/tv{\_}100{\_}tv{\_}100{\_}dcw{\_}r{\_}en/index-38817-48166-49607.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Chromtech}
+\BIBentryALTinterwordspacing
+Chromtech, ``{Chromtech 1.0 by Floor Gres Data}.'' [Online]. Available:
+  \url{http://www.stonesource.com/porcelain-selector/floor-gres-chromtech-1-0/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{FAA1988}
+\BIBentryALTinterwordspacing
+FAA, ``{Advisory Circular 150/5360-13:Planning and Design Guidelines for
+  Airport Terminal Facilities},'' pp. 1--148, 1988. [Online]. Available:
+  \url{http://www.faa.gov/regulations{\_}policies/advisory{\_}circulars/index.cfm/go/document.information/documentID/22618}
+\BIBentrySTDinterwordspacing
+
+\bibitem{SunGuard}
+\BIBentryALTinterwordspacing
+SunGuard, ``{SunGuard SNX60 - Glass data}.'' [Online]. Available:
+  \url{http://www.sunguardglass.es/cs/groups/sunguardeurope/documents/web{\_}content/gi{\_}020540.pdf}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Faure2001}
@@ -193,29 +204,34 @@ C.~M. Edwards, M.~A. Menzies, M.~F. Thirlwall, J.~D. Morris, W.~P. Leeman, and
   arcs: The ringgit - beser complex, east java, Indonesia},'' \emph{Journal of
   Petrology}, vol.~35, no.~6, pp. 1557--1595, 1994.
 
-\bibitem{Chromtech}
+\bibitem{URSAGLASSWOOL}
+{URSA GLASSWOOL}, ``{URSA GLASSWOOL Technical Sheets}.''
+
+\bibitem{Morris2010}
 \BIBentryALTinterwordspacing
-Chromtech, ``{Chromtech 1.0 by Floor Gres Data}.'' [Online]. Available:
-  \url{http://www.stonesource.com/porcelain-selector/floor-gres-chromtech-1-0/}
+C.~H. M.~R. Morris, N.~Central, T.~Council, A.~D. Biehler, P.~Dot, L.~L. Brown,
+  M.~Dot, R.~H. Iwasaki, and C.~Dot, \emph{{Airport Passenger Terminal Planning
+  and Design, Volume 1: Guidebook}}, 2010, vol.~1. [Online]. Available:
+  \url{https://www.nap.edu/catalog/22964}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Porcelanosa}
+\bibitem{Stormtite}
 \BIBentryALTinterwordspacing
-Porcelanosa, ``{Porcelanosa "Portland Caliza" Tile Data}.'' [Online].
-  Available:
-  \url{http://www.porcelanosa.com/finder/Ceramic{\_}Tiles{\_}13/Portland{\_}Caliza{\_}59,6x59,6.html}
+Stormtite, ``{Stormtite AP Model 627 - Roll-up door for ABHS (SATE)}.''
+  [Online]. Available:
+  \url{http://www.overheaddoor.com/Documents/stormtite-ap-627-brochure.pdf}
 \BIBentrySTDinterwordspacing
 
-\bibitem{IATA2004}
-IATA, \emph{{Airport Development Reference Manual 2004}}, 9th~ed., 2004, no.
-  January.
-
-\bibitem{IATAtocho}
+\bibitem{SognandoCasa}
 \BIBentryALTinterwordspacing
-------, ``{Air Passenger Market Analysis},'' pp. 1--6, 2015. [Online].
-  Available:
-  \url{http://www.iata.org/whatwedo/Documents/economics/passenger-analysis-jun-2017.pdf
-  http://www.iata.org/whatwedo/Documents/economics/passenger-analysis-dec-2015.pdf}
+SognandoCasa, ``{SognandoCasa Tile Provider for Flooring}.'' [Online].
+  Available: \url{http://www.sognandocasa.it}
+\BIBentrySTDinterwordspacing
+
+\bibitem{ONDACERS.L.}
+\BIBentryALTinterwordspacing
+{ONDACER S.L.}, ``{Eternity White Tiles Technical Data}.'' [Online]. Available:
+  \url{https://www.ondacer.com/es/1329-eternity-white}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}
