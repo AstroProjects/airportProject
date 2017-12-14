@@ -2,54 +2,64 @@
 \contentsline {figure}{\numberline {1.2.1}{\ignorespaces Wind Rose Graph\relax }}{2}{figure.caption.6}
 \contentsline {figure}{\numberline {1.2.2}{\ignorespaces Coefficient of use depending on the orientation\relax }}{3}{figure.caption.8}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.2.1}{\ignorespaces Maximum weights of the B777 depending on its configuration.\relax }}{5}{figure.caption.12}
-\contentsline {figure}{\numberline {2.2.2}{\ignorespaces Relation between the MTOW and the takeoff distance.\relax }}{6}{figure.caption.13}
-\contentsline {figure}{\numberline {2.2.3}{\ignorespaces Maximum A330's weights.\relax }}{6}{figure.caption.14}
-\contentsline {figure}{\numberline {2.2.4}{\ignorespaces Boeing 777-300ER dimensions.\relax }}{7}{figure.caption.15}
-\contentsline {figure}{\numberline {2.2.5}{\ignorespaces Reference code given by the ICAO.\relax }}{8}{figure.caption.16}
-\contentsline {figure}{\numberline {2.2.6}{\ignorespaces Runway width according to ICAO.\relax }}{8}{figure.caption.19}
-\contentsline {figure}{\numberline {2.2.7}{\ignorespaces Declared distances on CAD.\relax }}{9}{figure.caption.22}
-\contentsline {figure}{\numberline {2.2.8}{\ignorespaces Runway End Safety Area for runway 1.\relax }}{10}{figure.caption.23}
-\contentsline {figure}{\numberline {2.2.9}{\ignorespaces CWY placed at the end of runway 1.\relax }}{10}{figure.caption.24}
-\contentsline {figure}{\numberline {2.2.10}{\ignorespaces SWY positioning and dimensions.\relax }}{11}{figure.caption.25}
-\contentsline {figure}{\numberline {2.2.11}{\ignorespaces Flexible pavement layers and load distribution.\relax }}{11}{figure.caption.26}
-\contentsline {figure}{\numberline {2.2.12}{\ignorespaces Maximum weights of the B737 depending on its configuration.\relax }}{13}{figure.caption.28}
-\contentsline {figure}{\numberline {2.2.13}{\ignorespaces Relation between the MTOW and the takeoff distance.\relax }}{14}{figure.caption.29}
-\contentsline {figure}{\numberline {2.2.14}{\ignorespaces Maximum weights of the A320 depending on its configuration.\relax }}{14}{figure.caption.30}
-\contentsline {figure}{\numberline {2.2.15}{\ignorespaces Boeing 737-800 dimensions.\relax }}{16}{figure.caption.31}
-\contentsline {figure}{\numberline {2.2.16}{\ignorespaces Runway width according to OACI.\relax }}{17}{figure.caption.34}
-\contentsline {figure}{\numberline {2.2.17}{\ignorespaces CWY placed at the end of runway 2.\relax }}{18}{figure.caption.37}
+\contentsline {figure}{\numberline {2.2.1}{\ignorespaces Maximum weights of the B777 depending on its configuration.\relax }}{5}{figure.caption.14}
+\contentsline {figure}{\numberline {2.2.2}{\ignorespaces Relation between the MTOW and the takeoff distance.\relax }}{6}{figure.caption.15}
+\contentsline {figure}{\numberline {2.2.3}{\ignorespaces Maximum A330's weights.\relax }}{6}{figure.caption.16}
+\contentsline {figure}{\numberline {2.2.4}{\ignorespaces Boeing 777-300ER dimensions.\relax }}{7}{figure.caption.18}
+\contentsline {figure}{\numberline {2.2.5}{\ignorespaces Reference code given by the ICAO.\relax }}{8}{figure.caption.19}
+\contentsline {figure}{\numberline {2.2.6}{\ignorespaces Runway width according to ICAO.\relax }}{8}{figure.caption.21}
+\contentsline {figure}{\numberline {2.2.7}{\ignorespaces Declared distances on CAD.\relax }}{9}{figure.caption.24}
+\contentsline {figure}{\numberline {2.2.8}{\ignorespaces Runway End Safety Area for runway 1.\relax }}{10}{figure.caption.27}
+\contentsline {figure}{\numberline {2.2.9}{\ignorespaces CWY placed at the end of runway 1.\relax }}{10}{figure.caption.29}
+\contentsline {figure}{\numberline {2.2.10}{\ignorespaces SWY positioning and dimensions.\relax }}{11}{figure.caption.31}
+\contentsline {figure}{\numberline {2.2.11}{\ignorespaces Flexible pavement layers and load distribution.\relax }}{11}{figure.caption.33}
+\contentsline {figure}{\numberline {2.2.12}{\ignorespaces Maximum weights of the B737 depending on its configuration.\relax }}{13}{figure.caption.37}
+\contentsline {figure}{\numberline {2.2.13}{\ignorespaces Relation between the MTOW and the takeoff distance.\relax }}{14}{figure.caption.38}
+\contentsline {figure}{\numberline {2.2.14}{\ignorespaces Maximum weights of the A320 depending on its configuration.\relax }}{14}{figure.caption.39}
+\contentsline {figure}{\numberline {2.2.15}{\ignorespaces Boeing 737-800 dimensions.\relax }}{16}{figure.caption.41}
+\contentsline {figure}{\numberline {2.2.16}{\ignorespaces Runway width according to OACI.\relax }}{17}{figure.caption.43}
+\contentsline {figure}{\numberline {2.2.17}{\ignorespaces CWY placed at the end of runway 2.\relax }}{18}{figure.caption.49}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.2.1}{\ignorespaces Example of the width on the taxiway of runway 1.\relax }}{20}{figure.caption.55}
+\contentsline {figure}{\numberline {3.2.2}{\ignorespaces Example of the width on the taxiway of runway 2.\relax }}{20}{figure.caption.56}
+\contentsline {figure}{\numberline {3.6.1}{\ignorespaces Example of the shoulders distance on the taxiway of runway 1.\relax }}{23}{figure.caption.66}
+\contentsline {figure}{\numberline {3.6.2}{\ignorespaces Example of the shoulders distance on the taxiway of runway 2.\relax }}{23}{figure.caption.67}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1.1}{\ignorespaces Apron simplified general view.\relax }}{25}{figure.caption.70}
+\contentsline {figure}{\numberline {5.2.1}{\ignorespaces Design distances for taxiways according to ICAO.\relax }}{26}{figure.caption.72}
+\contentsline {figure}{\numberline {5.3.1}{\ignorespaces Clearance distances depending on the reference letter.\relax }}{27}{figure.caption.74}
+\contentsline {figure}{\numberline {5.3.2}{\ignorespaces Clearance distances depending on the reference letter.\relax }}{27}{figure.caption.75}
+\contentsline {figure}{\numberline {5.3.3}{\ignorespaces B777 aircraft stand dimensions.\relax }}{29}{figure.caption.78}
+\contentsline {figure}{\numberline {5.3.4}{\ignorespaces B737 aircraft stand dimensions.\relax }}{30}{figure.caption.80}
+\contentsline {figure}{\numberline {5.4.1}{\ignorespaces Sign that informs of an intersection with an aircraft.\relax }}{31}{figure.caption.82}
+\contentsline {figure}{\numberline {5.4.2}{\ignorespaces Sign that informs of Jet Blast.\relax }}{31}{figure.caption.83}
+\contentsline {figure}{\numberline {5.4.3}{\ignorespaces Final desgin of the service way.\relax }}{31}{figure.caption.84}
+\contentsline {figure}{\numberline {5.5.1}{\ignorespaces General view of all the fingers connected to the terminal.\relax }}{32}{figure.caption.86}
+\contentsline {figure}{\numberline {5.5.2}{\ignorespaces Close up view of some Boeing 737 stands with their respective finger connection.\relax }}{33}{figure.caption.87}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1.1}{\ignorespaces Apron simplified general view.\relax }}{25}{figure.caption.53}
-\contentsline {figure}{\numberline {5.2.1}{\ignorespaces Design distances for taxiways according to ICAO.\relax }}{26}{figure.caption.55}
-\contentsline {figure}{\numberline {5.3.1}{\ignorespaces Clearance distances depending on the reference letter.\relax }}{27}{figure.caption.57}
-\contentsline {figure}{\numberline {5.3.2}{\ignorespaces Clearance distances depending on the reference letter.\relax }}{27}{figure.caption.58}
-\contentsline {figure}{\numberline {5.3.3}{\ignorespaces B777 aircraft stand dimensions.\relax }}{29}{figure.caption.61}
-\contentsline {figure}{\numberline {5.3.4}{\ignorespaces B737 aircraft stand dimensions.\relax }}{30}{figure.caption.63}
-\contentsline {figure}{\numberline {5.4.1}{\ignorespaces Sign that informs of an intersection with an aircraft.\relax }}{31}{figure.caption.65}
-\contentsline {figure}{\numberline {5.4.2}{\ignorespaces Sign that informs of Jet Blast.\relax }}{31}{figure.caption.66}
-\contentsline {figure}{\numberline {5.4.3}{\ignorespaces Final desgin of the service way.\relax }}{31}{figure.caption.67}
-\contentsline {figure}{\numberline {5.5.1}{\ignorespaces General view of all the fingers connected to the terminal.\relax }}{32}{figure.caption.69}
-\contentsline {figure}{\numberline {5.5.2}{\ignorespaces Close up view of some Boeing 737 stands with their respective finger connection.\relax }}{33}{figure.caption.70}
+\contentsline {figure}{\numberline {6.2.1}{\ignorespaces Centreline according to ICAO's recommendations.\relax }}{35}{figure.caption.91}
+\contentsline {figure}{\numberline {6.2.2}{\ignorespaces Centre line of the international runway.\relax }}{35}{figure.caption.92}
+\contentsline {figure}{\numberline {6.2.3}{\ignorespaces Example of arrows pointing at the threshold.\relax }}{36}{figure.caption.95}
+\contentsline {figure}{\numberline {6.2.4}{\ignorespaces Table gathering all the aiming point marking parameters.\relax }}{37}{figure.caption.98}
+\contentsline {figure}{\numberline {6.2.5}{\ignorespaces Example of aiming point markings placed in runway 1.\relax }}{37}{figure.caption.99}
+\contentsline {figure}{\numberline {6.3.1}{\ignorespaces Design used in order to define the mandatory instruction markings.\relax }}{38}{figure.caption.102}
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1.1}{\ignorespaces Schematic figure representing the approaching lights.\relax }}{41}{figure.caption.107}
+\contentsline {figure}{\numberline {7.1.2}{\ignorespaces Vertical distance between the PAPI and the runway.\relax }}{43}{figure.caption.109}
+\contentsline {figure}{\numberline {7.1.3}{\ignorespaces Dimensions and slopes of the obstacle protection surface.\relax }}{43}{figure.caption.110}
+\contentsline {figure}{\numberline {7.1.4}{\ignorespaces Protection surface scheme and PAPI positioning.\relax }}{44}{figure.caption.111}
+\contentsline {figure}{\numberline {7.1.5}{\ignorespaces Scheme showing the lights placed on the edge of the runway.\relax }}{46}{figure.caption.116}
+\contentsline {figure}{\numberline {7.1.6}{\ignorespaces Example of rapid exit runway lights.\relax }}{47}{figure.caption.119}
+\contentsline {figure}{\numberline {7.3.1}{\ignorespaces Terminal's fixed projectors and their orientation.\relax }}{49}{figure.caption.120}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1.1}{\ignorespaces Schematic figure representing the approaching lights.\relax }}{37}{figure.caption.73}
-\contentsline {figure}{\numberline {7.1.2}{\ignorespaces Vertical distance between the PAPI and the runway.\relax }}{39}{figure.caption.75}
-\contentsline {figure}{\numberline {7.1.3}{\ignorespaces Dimensions and slopes of the obstacle protection surface.\relax }}{39}{figure.caption.76}
-\contentsline {figure}{\numberline {7.1.4}{\ignorespaces Protection surface scheme and PAPI positioning.\relax }}{40}{figure.caption.77}
-\contentsline {figure}{\numberline {7.1.5}{\ignorespaces Scheme showing the lights placed on the edge of the runway.\relax }}{42}{figure.caption.82}
-\contentsline {figure}{\numberline {7.1.6}{\ignorespaces Example of rapid exit runway lights.\relax }}{43}{figure.caption.85}
-\contentsline {figure}{\numberline {7.3.1}{\ignorespaces Terminal's fixed projectors and their orientation.\relax }}{45}{figure.caption.86}
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1.1}{\ignorespaces Location distances for taxiing guidance signs.\relax }}{47}{figure.caption.88}
-\contentsline {figure}{\numberline {8.2.1}{\ignorespaces No entry sign positioning and example.\relax }}{49}{figure.caption.89}
-\contentsline {figure}{\numberline {8.2.2}{\ignorespaces Holding positioning sign.\relax }}{49}{figure.caption.90}
-\contentsline {figure}{\numberline {8.2.3}{\ignorespaces Examples of the mandatory instruction signs used in the airport.\relax }}{50}{figure.caption.91}
-\contentsline {figure}{\numberline {8.3.1}{\ignorespaces Available length information sign positioning.\relax }}{51}{figure.caption.92}
-\contentsline {figure}{\numberline {8.3.2}{\ignorespaces Exit runway sign distances and positioning.\relax }}{52}{figure.caption.93}
-\contentsline {figure}{\numberline {8.3.3}{\ignorespaces Exit runway sign distances and positioning.\relax }}{52}{figure.caption.94}
+\contentsline {figure}{\numberline {8.1.1}{\ignorespaces Location distances for taxiing guidance signs.\relax }}{51}{figure.caption.122}
+\contentsline {figure}{\numberline {8.2.1}{\ignorespaces No entry sign positioning and example.\relax }}{53}{figure.caption.123}
+\contentsline {figure}{\numberline {8.2.2}{\ignorespaces Holding positioning sign.\relax }}{53}{figure.caption.124}
+\contentsline {figure}{\numberline {8.2.3}{\ignorespaces Examples of the mandatory instruction signs used in the airport.\relax }}{54}{figure.caption.125}
+\contentsline {figure}{\numberline {8.3.1}{\ignorespaces Available length information sign positioning.\relax }}{55}{figure.caption.126}
+\contentsline {figure}{\numberline {8.3.2}{\ignorespaces Exit runway sign distances and positioning.\relax }}{56}{figure.caption.127}
+\contentsline {figure}{\numberline {8.3.3}{\ignorespaces Exit runway sign distances and positioning.\relax }}{56}{figure.caption.128}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
