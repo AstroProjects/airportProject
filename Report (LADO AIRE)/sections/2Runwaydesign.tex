@@ -59,7 +59,7 @@
 			
 			\begin{figure}[H]
 				\centering
-				\includegraphics[clip, trim=0cm 0cm 0cm 0cm, width=1\textwidth]{./images/B777/Dimensions777}
+				\includegraphics[clip, trim=0cm 0cm 0cm 0cm, width=0.55\textwidth]{./images/B777/Dimensions777}
 				\caption{Boeing 777-300ER dimensions.} %nom de la figura
 				\label{} %per denotar una referencia
 			\end{figure}
@@ -124,19 +124,19 @@
 			
 			\begin{figure}[H]
 				\centering
-				\includegraphics[clip, trim=0cm 0cm 0cm 0cm, width=1\textwidth]{./images/declareddistances/RESA}
+				\includegraphics[clip, trim=0cm 0cm 0cm 0cm, width=0.85\textwidth]{./images/declareddistances/RESA}
 				\caption{Runway End Safety Area for runway 1.} %nom de la figura
 				\label{} %per denotar una referencia
 			\end{figure}
 		
-			As it can be seen, the RESA starts at the end of the strip and its final dimensions are 300x150m. 
+			As it can be seen, the RESA starts at the end of the strip and its final dimensions are 360m length rounding up and 150m width. 
 			
 			\subsubsection{Clearway (CWY)}
 			Following the recommendation number 3.6.2 and 3.6.3, the Clearway has its beginning at the end of the maximum takeoff distance available and its maximum length should be half that distance.
 			
 			\begin{figure}[H]
 				\centering
-				\includegraphics[clip, trim=0cm 0cm 0cm 0cm, width=1\textwidth]{./images/declareddistances/CWY}
+				\includegraphics[clip, trim=0cm 0cm 0cm 0cm, width=0.85\textwidth]{./images/declareddistances/CWY}
 				\caption{CWY placed at the end of runway 1.} %nom de la figura
 				\label{} %per denotar una referencia
 			\end{figure}
@@ -148,7 +148,7 @@
 
 			\begin{figure}[H]
 				\centering
-				\includegraphics[clip, trim=0cm 0cm 0cm 0cm, width=1\textwidth]{./images/declareddistances/SWY}
+				\includegraphics[clip, trim=0cm 0cm 0cm 0cm, width=0.85\textwidth]{./images/declareddistances/SWY}
 				\caption{SWY positioning and dimensions.} %nom de la figura
 				\label{} %per denotar una referencia
 			\end{figure}
@@ -156,16 +156,43 @@
 			As it can be seen, the final values for the SWY are 150m width and 341,69m length.
 			
 			\subsubsection{Pavement}
+			The pavement chosen for the runways will be flexible since it can be easily maintained, it can be restored and there is no risk of fuel leaks during the takeoff and landing performance.
 			
+			In order to gain a general idea of how the flexible pavement is and how does it work, an image will be attached:
+			
+			\begin{figure}[H]
+				\centering
+				\includegraphics[clip, trim=0cm 0.1cm 0cm 0cm, width=0.75\textwidth]{./images/pavement/flexiblepavement}
+				\caption{Flexible pavement layers and load distribution.} %nom de la figura
+				\label{} %per denotar una referencia
+			\end{figure}
+			
+			The thickness to be calculated are the wearing surface, the base course and the subbase whilst the subgrade is the natural ground of the area. 
+			
+			Due to the fact that there is a lot of calculations and graph's interpretation needed in order to calculate the pavement thickness, the explanation step by step will be done in the attachments, chapter 2 section 2. Thus, the only information related to the pavement thickness that will be shown in this section will be the final results obtained and gathered in the following table:
+			
+			\begin{table}[htb]
+				\centering
+				\begin{tabular}{ll p{5cm}}
+					\midrule[2pt]
+					First layer's thickness (\(T_1\))& 14 cm\\
+					Second layer's thickness (\(T_2\)) & 25 cm\\
+					Third layer's thickness(\(T_3\))& 65,5 cm \\
+					Total thickness (\(T_t\))& 104,5 cm\\
+					\bottomrule[2pt]
+				\end{tabular}
+				\caption{Final values of total thickness and each layer's thickness.}
+				\label{}
+			\end{table}
 
 		\subsection{Runway 2}
-		In this case, the planes that are going to be evaluated are the Boeing 737-800 and the Airbus 320-200.
+		In this case, since this runway is going to be used for domestic flights, the planes that are going to be evaluated are the Boeing 737-800 and the Airbus 320-200.
 		\subsubsection{Reference Field Length}
 		Searching the values of MTOW and MLW stated on the ACAP of the Boeing 737, the values obtained are 79.000kg for the MTOW and 66.300kg for the MLW.
 		
 		\begin{figure}[H]
 			\centering
-			\includegraphics[clip, trim=0cm 0cm 0cm 0cm, width=1\textwidth]{./images/B737/B737MTOW}
+			\includegraphics[clip, trim=0cm 0cm 0cm 0cm, width=0.85\textwidth]{./images/B737/B737MTOW}
 			\caption{Maximum weights of the B737 depending on its configuration.} %nom de la figura
 			\label{} %per denotar una referencia
 		\end{figure}
@@ -185,7 +212,7 @@
 		
 		\begin{figure}[H]
 			\centering
-			\includegraphics[clip, trim=0cm 0cm 0cm 0cm, width=1\textwidth]{./images/A320/A320MTOW}
+			\includegraphics[clip, trim=0cm 0cm 0cm 0cm, width=0.85\textwidth]{./images/A320/A320MTOW}
 			\caption{Maximum weights of the A320 depending on its configuration.} %nom de la figura
 			\label{} %per denotar una referencia
 		\end{figure}
@@ -204,7 +231,7 @@
 		
 		\begin{figure}[H]
 			\centering
-			\includegraphics[clip, trim=0cm 0cm 0cm 0cm, width=1\textwidth]{./images/B737/737}
+			\includegraphics[clip, trim=0cm 0cm 0cm 0cm, width=0.65\textwidth]{./images/B737/737}
 			\caption{Boeing 737-800 dimensions.} %nom de la figura
 			\label{} %per denotar una referencia
 		\end{figure}
@@ -226,38 +253,56 @@
 		\subsubsection{Declared distances}
 		\paragraph{} As for the runway 1, the calculations done in order to obtain the final value can be seen on the airside’s attachments section 1. 
 	
-	To sum up, the final values obtained are:
+		To sum up, the final values obtained are:
 	
-	\begin{table}[htb]
-		\centering
-		\begin{tabular}{ll p{5cm}}
-			\midrule[2pt]
-			Landing Distance Available & 2.500m\\
-			TakeOff Distance Available (TODA) & 3.120m\\
-			TakeOff Run Available (TORA)& 2.750m\\
-			Accelerate-Stop Distance Available (ASDA)& 2.900m\\
-			\bottomrule[2pt]
-		\end{tabular}
-		\caption{Declared distances of  Runway 2}
-		\label{DeclareddistancesRW2}
-	\end{table}
+		\begin{table}[htb]
+			\centering
+			\begin{tabular}{ll p{5cm}}
+				\midrule[2pt]
+				Landing Distance Available & 2.500m\\
+				TakeOff Distance Available (TODA) & 3.120m\\
+				TakeOff Run Available (TORA)& 2.750m\\
+				Accelerate-Stop Distance Available (ASDA)& 2.900m\\
+				\bottomrule[2pt]
+			\end{tabular}
+			\caption{Declared distances of  Runway 2}
+			\label{DeclareddistancesRW2}
+		\end{table}
 	
 	
-	\subsubsection{Runway strips}
-	As for the runway 1, due to the fact that both runways share the same reference number and the legislation does not make any distinction using the reference letter, the dimensions of the strips of runway 2 are exactly the same as runway 1. 
-	
-	\subsubsection{Runway End Saefty Areas (RESA)}
-	According to ICAO's rule number 3.5.1, the airport with a reference number of 4 has to have a runway end safety area that should extend over a distance of at least 90m. Furthermore, as it is said in the point 3.5.5, the width of a runway end safety area shall be at least twice that of the associated runway. 
-	
-	\subsubsection{Clearway (CWY)}
-	In this case, the clearway dimensions and position is the following:
-	
-	\begin{figure}[H]
-		\centering
-		\includegraphics[clip, trim=0cm 0cm 0cm 0cm, width=1\textwidth]{./images/declareddistances/CWY2}
-		\caption{CWY placed at the end of runway 2.} %nom de la figura
-		\label{} %per denotar una referencia
-	\end{figure}
+		\subsubsection{Runway strips}
+		As for the runway 1, due to the fact that both runways share the same reference number and the legislation does not make any distinction using the reference letter, the dimensions of the strips of runway 2 are exactly the same as runway 1. 
 		
+		\subsubsection{Runway End Saefty Areas (RESA)}
+		According to ICAO's rule number 3.5.1, the airport with a 	reference number of 4 has to have a runway end safety area that should extend over a distance of at least 90m. Furthermore, as it is said in the point 3.5.5, the width of a runway end safety area shall be at least twice that of the associated runway. 
+	
+		\subsubsection{Clearway (CWY)}
+		In this case, the clearway dimensions and position is the following:
+	
+		\begin{figure}[H]
+			\centering
+			\includegraphics[clip, trim=0cm 0cm 0cm 0cm, width=1\textwidth]{./images/declareddistances/CWY2}
+			\caption{CWY placed at the end of runway 2.} %nom de la figura
+			\label{} %per denotar una referencia
+		\end{figure}
+		
+		\subsubsection{Pavement}
+		The pavement chosen for the runway 2 will be flexible since it can be easily maintained, it can be restored and there is no risk of fuel leaks during the takeoff and landing performance.
+
+		As it was said before, the calculations and graph interpretations for the final runway thickness are further explained in the attachments chapter 2 section 2. Thus, the only information that will be shown in this section will be the final results gathered in the following table:
+	
+		\begin{table}[htb]
+			\centering
+			\begin{tabular}{ll p{5cm}}
+				\midrule[2pt]
+				First layer's thickness (\(T_1\))& 143 cm\\
+				Second layer's thickness (\(T_2\)) & 23 cm\\
+				Third layer's thickness(\(T_3\))& 55,5 cm \\
+				Total thickness (\(T_t\))& 91,5 cm\\
+				\bottomrule[2pt]
+			\end{tabular}
+			\caption{Final values of total thickness and each layer's thickness.}
+			\label{}
+		\end{table}
 		
 		
