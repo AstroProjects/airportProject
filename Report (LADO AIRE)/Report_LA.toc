@@ -197,10 +197,11 @@
 \contentsline {paragraph}{}{66}{section*.156}
 \contentsline {section}{\numberline {10.2}Constant current regulators}{67}{section.10.2}
 \contentsline {paragraph}{}{67}{section*.157}
-\contentsline {section}{\numberline {10.3}Wire channeling}{67}{section.10.3}
-\contentsline {chapter}{\numberline {11}Aeronautical limitation surfaces}{68}{chapter.11}
-\contentsline {section}{\numberline {11.1}Physical limitation surfaces}{68}{section.11.1}
-\contentsline {section}{\numberline {11.2}ILS limitation surfaces}{68}{section.11.2}
-\contentsline {section}{\numberline {11.3}Localizer limitation surfaces}{68}{section.11.3}
-\contentsline {section}{\numberline {11.4}Gliding trajectory protection limitation surfaces}{68}{section.11.4}
-\contentsline {chapter}{\numberline {12}Bibliography}{69}{chapter.12}
+\contentsline {section}{\numberline {10.3}Wire channelling}{67}{section.10.3}
+\contentsline {paragraph}{}{67}{section*.158}
+\contentsline {chapter}{\numberline {11}Aeronautical limitation surfaces}{69}{chapter.11}
+\contentsline {section}{\numberline {11.1}Physical limitation surfaces}{69}{section.11.1}
+\contentsline {section}{\numberline {11.2}ILS limitation surfaces}{69}{section.11.2}
+\contentsline {section}{\numberline {11.3}Localizer limitation surfaces}{69}{section.11.3}
+\contentsline {section}{\numberline {11.4}Gliding trajectory protection limitation surfaces}{69}{section.11.4}
+\contentsline {chapter}{\numberline {12}Bibliography}{70}{chapter.12}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.17)  15 DEC 2017 05:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.17)  15 DEC 2017 05:37
 entering extended mode
 **./Report_LA.tex
 (Report_LA.tex
@@ -2259,10 +2259,15 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 37.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 56.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 52.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
-[7] (sections/1Location.tex
+[7]
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 56.
+(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
+ [8] (sections/1Location.tex
 Chapter 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
@@ -2296,7 +2301,7 @@ been already used, duplicate ignored
 l.24 
       [1
 
-] <./images/WIND/ROSE.png, id=832, 245.41687pt x 144.54pt>
+] <./images/WIND/ROSE.png, id=838, 245.41687pt x 144.54pt>
 File: ./images/WIND/ROSE.png Graphic file (type png)
 
 <use ./images/WIND/ROSE.png>
@@ -2313,7 +2318,7 @@ been already used, duplicate ignored
 l.44 		T
         he diagram of frequencies basically creates a rectangular area that ...
 [2 <./images/WIND/ROSE.png>]
-<./images/WIND/GRAPH.png, id=844, 244.915pt x 144.54pt>
+<./images/WIND/GRAPH.png, id=850, 244.915pt x 144.54pt>
 File: ./images/WIND/GRAPH.png Graphic file (type png)
 
 <use ./images/WIND/GRAPH.png>
@@ -2350,14 +2355,14 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 20.
  [4
 
 ]
-<./images/B777/B777MTOW.jpg, id=860, 526.96875pt x 423.38174pt>
+<./images/B777/B777MTOW.jpg, id=866, 526.96875pt x 423.38174pt>
 File: ./images/B777/B777MTOW.jpg Graphic file (type jpg)
 
 <use ./images/B777/B777MTOW.jpg>
 Package pdftex.def Info: ./images/B777/B777MTOW.jpg used on input line 23.
 (pdftex.def)             Requested size: 426.79135pt x 342.91148pt.
 
-<./images/B777/payload-takeoffdistance.jpg, id=862, 469.15276pt x 344.487pt>
+<./images/B777/payload-takeoffdistance.jpg, id=868, 469.15276pt x 344.487pt>
 File: ./images/B777/payload-takeoffdistance.jpg Graphic file (type jpg)
 
 <use ./images/B777/payload-takeoffdistance.jpg>
@@ -2370,7 +2375,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 36.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [5 <./images/B777/B777MTOW.jpg>]
-<./images/A330/A330.jpg, id=870, 442.0515pt x 136.1085pt>
+<./images/A330/A330.jpg, id=876, 442.0515pt x 136.1085pt>
 File: ./images/A330/A330.jpg Graphic file (type jpg)
 
 <use ./images/A330/A330.jpg>
@@ -2381,7 +2386,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 49.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [6 <./images/B777/payload-takeoffdistance.jpg> <./images/A330/A330.jpg>]
-<./images/B777/Dimensions777.jpg, id=878, 297.5115pt x 423.38174pt>
+<./images/B777/Dimensions777.jpg, id=884, 297.5115pt x 423.38174pt>
 File: ./images/B777/Dimensions777.jpg Graphic file (type jpg)
 
 <use ./images/B777/Dimensions777.jpg>
@@ -2389,7 +2394,7 @@ Package pdftex.def Info: ./images/B777/Dimensions777.jpg used on input line 62.
 
 (pdftex.def)             Requested size: 234.73654pt x 334.05444pt.
 
-<./images/Annex14/Referencecode.jpg, id=880, 377.0085pt x 230.0595pt>
+<./images/Annex14/Referencecode.jpg, id=886, 377.0085pt x 230.0595pt>
 File: ./images/Annex14/Referencecode.jpg Graphic file (type jpg)
 
 <use ./images/Annex14/Referencecode.jpg>
@@ -2402,7 +2407,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 73.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
 [7 <./images/B777/Dimensions777.jpg>]
-<./images/Annex14/RunwayWidth.jpg, id=889, 275.22826pt x 86.12175pt>
+<./images/Annex14/RunwayWidth.jpg, id=895, 275.22826pt x 86.12175pt>
 File: ./images/Annex14/RunwayWidth.jpg Graphic file (type jpg)
 
 <use ./images/Annex14/RunwayWidth.jpg>
@@ -2415,7 +2420,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 88.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
 [8 <./images/Annex14/Referencecode.jpg> <./images/Annex14/RunwayWidth.jpg>]
-<./images/declareddistances/pista.png, id=898, 1038.88126pt x 227.34938pt>
+<./images/declareddistances/pista.png, id=904, 1038.88126pt x 227.34938pt>
 File: ./images/declareddistances/pista.png Graphic file (type png)
 
 <use ./images/declareddistances/pista.png>
@@ -2428,7 +2433,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 124.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
 [9 <./images/declareddistances/pista.png>]
-<./images/declareddistances/RESA.jpg, id=907, 792.561pt x 372.79276pt>
+<./images/declareddistances/RESA.jpg, id=914, 792.561pt x 372.79276pt>
 File: ./images/declareddistances/RESA.jpg Graphic file (type jpg)
 
 <use ./images/declareddistances/RESA.jpg>
@@ -2436,7 +2441,7 @@ Package pdftex.def Info: ./images/declareddistances/RESA.jpg used on input line
  127.
 (pdftex.def)             Requested size: 362.77525pt x 170.63918pt.
 
-<./images/declareddistances/CWY.jpg, id=909, 907.59074pt x 287.27325pt>
+<./images/declareddistances/CWY.jpg, id=916, 907.59074pt x 287.27325pt>
 File: ./images/declareddistances/CWY.jpg Graphic file (type jpg)
 
 <use ./images/declareddistances/CWY.jpg>
@@ -2444,7 +2449,7 @@ Package pdftex.def Info: ./images/declareddistances/CWY.jpg used on input line
 139.
 (pdftex.def)             Requested size: 362.77525pt x 114.82835pt.
 
-<./images/declareddistances/SWY.jpg, id=911, 709.4505pt x 245.718pt>
+<./images/declareddistances/SWY.jpg, id=918, 709.4505pt x 245.718pt>
 File: ./images/declareddistances/SWY.jpg Graphic file (type jpg)
 
 <use ./images/declareddistances/SWY.jpg>
@@ -2457,7 +2462,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 154.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
 [10 <./images/declareddistances/RESA.jpg> <./images/declareddistances/CWY.jpg>]
-<./images/pavement/flexiblepavement.jpg, id=922, 289.08pt x 185.493pt>
+<./images/pavement/flexiblepavement.jpg, id=928, 289.08pt x 185.493pt>
 File: ./images/pavement/flexiblepavement.jpg Graphic file (type jpg)
 
 <use ./images/pavement/flexiblepavement.jpg>
@@ -2471,7 +2476,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 171.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [11 <./images/declareddistances/SWY.jpg> <./images/pavement/flexiblepavement.j
 pg>]
-<./images/B737/B737MTOW.jpg, id=932, 261.97874pt x 213.29688pt>
+<./images/B737/B737MTOW.jpg, id=938, 261.97874pt x 213.29688pt>
 File: ./images/B737/B737MTOW.jpg Graphic file (type jpg)
 
 <use ./images/B737/B737MTOW.jpg>
@@ -2482,7 +2487,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 200.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [12]
-<./images/B737/takeoff-weight737.jpg, id=941, 455.301pt x 400.49625pt>
+<./images/B737/takeoff-weight737.jpg, id=947, 455.301pt x 400.49625pt>
 File: ./images/B737/takeoff-weight737.jpg Graphic file (type jpg)
 
 <use ./images/B737/takeoff-weight737.jpg>
@@ -2495,7 +2500,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 209.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
 [13 <./images/B737/B737MTOW.jpg>]
-<./images/A320/A320MTOW.jpg, id=948, 332.74312pt x 119.44624pt>
+<./images/A320/A320MTOW.jpg, id=954, 332.74312pt x 119.44624pt>
 File: ./images/A320/A320MTOW.jpg Graphic file (type jpg)
 
 <use ./images/A320/A320MTOW.jpg>
@@ -2506,7 +2511,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 222.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [14 <./images/B737/takeoff-weight737.jpg> <./images/A320/A320MTOW.jpg>]
-<./images/B737/737.jpg, id=956, 351.714pt x 487.22025pt>
+<./images/B737/737.jpg, id=962, 351.714pt x 487.22025pt>
 File: ./images/B737/737.jpg Graphic file (type jpg)
 
 <use ./images/B737/737.jpg>
@@ -2529,7 +2534,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 251.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
 [16 <./images/B737/737.jpg>]
-<./images/declareddistances/CWY2.jpg, id=971, 552.26324pt x 255.354pt>
+<./images/declareddistances/CWY2.jpg, id=977, 552.26324pt x 255.354pt>
 File: ./images/declareddistances/CWY2.jpg Graphic file (type jpg)
 
 <use ./images/declareddistances/CWY2.jpg>
@@ -2548,7 +2553,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [18 <./images/declareddistances/CWY2.jpg>]
 Chapter 3.
-<./images/taxiway/width1.jpg, id=988, 588.39825pt x 192.72pt>
+<./images/taxiway/width1.jpg, id=994, 588.39825pt x 192.72pt>
 File: ./images/taxiway/width1.jpg Graphic file (type jpg)
 
 <use ./images/taxiway/width1.jpg>
@@ -2578,7 +2583,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 35.
  [19
 
 ]
-<./images/taxiway/width2.jpg, id=996, 512.51476pt x 213.1965pt>
+<./images/taxiway/width2.jpg, id=1002, 512.51476pt x 213.1965pt>
 File: ./images/taxiway/width2.jpg Graphic file (type jpg)
 
 <use ./images/taxiway/width2.jpg>
@@ -2595,7 +2600,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 92.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [21]
-<./images/taxiway/shoulders1.jpg, id=1013, 678.1335pt x 268.6035pt>
+<./images/taxiway/shoulders1.jpg, id=1020, 678.1335pt x 268.6035pt>
 File: ./images/taxiway/shoulders1.jpg Graphic file (type jpg)
 
 <use ./images/taxiway/shoulders1.jpg>
@@ -2607,7 +2612,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 128.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
-[22] <./images/taxiway/shoulders2.jpg, id=1023, 597.432pt x 213.1965pt>
+[22] <./images/taxiway/shoulders2.jpg, id=1029, 597.432pt x 213.1965pt>
 File: ./images/taxiway/shoulders2.jpg Graphic file (type jpg)
 
 <use ./images/taxiway/shoulders2.jpg>
@@ -2647,7 +2652,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 
 ]
 Chapter 5.
-<./images/serviceway/apronview.jpg, id=1036, 190.91325pt x 378.81525pt>
+<./images/serviceway/apronview.jpg, id=1042, 190.91325pt x 378.81525pt>
 File: ./images/serviceway/apronview.jpg Graphic file (type jpg)
 
 <use ./images/serviceway/apronview.jpg>
@@ -2678,7 +2683,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 19.
  [25
 
  <./images/serviceway/apronview.jpg>]
-<./images/Annex14/minimumdistancetaxiways.jpg, id=1044, 403.5075pt x 239.89626p
+<./images/Annex14/minimumdistancetaxiways.jpg, id=1050, 403.5075pt x 239.89626p
 t>
 File: ./images/Annex14/minimumdistancetaxiways.jpg Graphic file (type jpg)
  <use ./images/Annex14/minimumdistancetaxiways.jpg>
@@ -2691,7 +2696,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 37.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [26 <./images/Annex14/minimumdistancetaxiways.jpg>]
-<./images/Annex14/clearancedistances.jpg, id=1052, 103.88812pt x 86.82437pt>
+<./images/Annex14/clearancedistances.jpg, id=1058, 103.88812pt x 86.82437pt>
 File: ./images/Annex14/clearancedistances.jpg Graphic file (type jpg)
 
 <use ./images/Annex14/clearancedistances.jpg>
@@ -2699,7 +2704,7 @@ Package pdftex.def Info: ./images/Annex14/clearancedistances.jpg used on input
 line 40.
 (pdftex.def)             Requested size: 149.37958pt x 124.85873pt.
 
-<./images/Annex14/aircraftstand.jpg, id=1054, 261.97874pt x 267.399pt>
+<./images/Annex14/aircraftstand.jpg, id=1060, 261.97874pt x 267.399pt>
 File: ./images/Annex14/aircraftstand.jpg Graphic file (type jpg)
 
 <use ./images/Annex14/aircraftstand.jpg>
@@ -2712,7 +2717,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 57.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
 [27 <./images/Annex14/clearancedistances.jpg> <./images/Annex14/aircraftstand.j
-pg>] <./images/B777/StandB777.jpg, id=1063, 407.121pt x 397.485pt>
+pg>] <./images/B777/StandB777.jpg, id=1070, 407.121pt x 397.485pt>
 File: ./images/B777/StandB777.jpg Graphic file (type jpg)
 
 <use ./images/B777/StandB777.jpg>
@@ -2723,7 +2728,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 95.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [28]
-<./images/B737/StandB737.jpg, id=1071, 381.22424pt x 393.26926pt>
+<./images/B737/StandB737.jpg, id=1077, 381.22424pt x 393.26926pt>
 File: ./images/B737/StandB737.jpg Graphic file (type jpg)
 
 <use ./images/B737/StandB737.jpg>
@@ -2734,7 +2739,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 123.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [29 <./images/B777/StandB777.jpg>]
-<./images/serviceway/sign1.jpg, id=1078, 211.79124pt x 167.62625pt>
+<./images/serviceway/sign1.jpg, id=1084, 211.79124pt x 167.62625pt>
 File: ./images/serviceway/sign1.jpg Graphic file (type jpg)
 
 <use ./images/serviceway/sign1.jpg>
@@ -2745,14 +2750,14 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 137.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [30 <./images/B737/StandB737.jpg>]
-<./images/serviceway/sign2.jpg, id=1086, 208.78pt x 166.12062pt>
+<./images/serviceway/sign2.jpg, id=1092, 208.78pt x 166.12062pt>
 File: ./images/serviceway/sign2.jpg Graphic file (type jpg)
 
 <use ./images/serviceway/sign2.jpg>
 Package pdftex.def Info: ./images/serviceway/sign2.jpg used on input line 140.
 (pdftex.def)             Requested size: 170.71393pt x 135.83955pt.
 
-<./images/serviceway/serviceway.jpg, id=1088, 113.42375pt x 330.73563pt>
+<./images/serviceway/serviceway.jpg, id=1094, 113.42375pt x 330.73563pt>
 File: ./images/serviceway/serviceway.jpg Graphic file (type jpg)
 
 <use ./images/serviceway/serviceway.jpg>
@@ -2766,7 +2771,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 160.
 
 [31 <./images/serviceway/sign1.jpg> <./images/serviceway/sign2.jpg> <./images/s
 erviceway/serviceway.jpg>]
-<./images/serviceway/fingers.jpg, id=1097, 135.50626pt x 262.9825pt>
+<./images/serviceway/fingers.jpg, id=1103, 135.50626pt x 262.9825pt>
 File: ./images/serviceway/fingers.jpg Graphic file (type jpg)
 
 <use ./images/serviceway/fingers.jpg>
@@ -2774,7 +2779,7 @@ Package pdftex.def Info: ./images/serviceway/fingers.jpg used on input line 166
 .
 (pdftex.def)             Requested size: 135.5059pt x 262.98184pt.
 
-<./images/serviceway/fingercloseup.jpg, id=1099, 253.94875pt x 289.58188pt>
+<./images/serviceway/fingercloseup.jpg, id=1105, 253.94875pt x 289.58188pt>
 File: ./images/serviceway/fingercloseup.jpg Graphic file (type jpg)
 
 <use ./images/serviceway/fingercloseup.jpg>
@@ -2796,7 +2801,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 Chapter 6.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 11.
-<./images/markings/centreline.png, id=1113, 502.12593pt x 338.76563pt>
+<./images/markings/centreline.png, id=1120, 502.12593pt x 338.76563pt>
 File: ./images/markings/centreline.png Graphic file (type png)
 
 <use ./images/markings/centreline.png>
@@ -2827,7 +2832,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 29.
  [34
 
 ]
-<./images/markings/centreexample.jpg, id=1123, 1038.88126pt x 360.1455pt>
+<./images/markings/centreexample.jpg, id=1129, 1038.88126pt x 360.1455pt>
 File: ./images/markings/centreexample.jpg Graphic file (type jpg)
 
 <use ./images/markings/centreexample.jpg>
@@ -2840,14 +2845,14 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 46.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
 [35 <./images/markings/centreline.png> <./images/markings/centreexample.jpg>]
-<./images/markings/arrows.jpg, id=1132, 656.4525pt x 322.20375pt>
+<./images/markings/arrows.jpg, id=1138, 656.4525pt x 322.20375pt>
 File: ./images/markings/arrows.jpg Graphic file (type jpg)
 
 <use ./images/markings/arrows.jpg>
 Package pdftex.def Info: ./images/markings/arrows.jpg used on input line 49.
 (pdftex.def)             Requested size: 388.805pt x 190.83601pt.
 
-<./images/markings/aimpointtable.jpg, id=1134, 390.86024pt x 183.084pt>
+<./images/markings/aimpointtable.jpg, id=1140, 390.86024pt x 183.084pt>
 File: ./images/markings/aimpointtable.jpg Graphic file (type jpg)
 
 <use ./images/markings/aimpointtable.jpg>
@@ -2860,7 +2865,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 67.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
 [36 <./images/markings/arrows.jpg>]
-<./images/markings/aimpoint.jpg, id=1144, 769.6755pt x 341.47575pt>
+<./images/markings/aimpoint.jpg, id=1150, 769.6755pt x 341.47575pt>
 File: ./images/markings/aimpoint.jpg Graphic file (type jpg)
 
 <use ./images/markings/aimpoint.jpg>
@@ -2872,7 +2877,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 84.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
 [37 <./images/markings/aimpointtable.jpg> <./images/markings/aimpoint.jpg>]
-<./images/markings/mandatorymarks.png, id=1153, 417.81094pt x 270.25969pt>
+<./images/markings/mandatorymarks.png, id=1159, 417.81094pt x 270.25969pt>
 File: ./images/markings/mandatorymarks.png Graphic file (type png)
 
 <use ./images/markings/mandatorymarks.png>
@@ -2892,7 +2897,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [39]
 Chapter 7.
-<./images/Annex14/approachlights.jpg, id=1168, 265.99374pt x 391.4625pt>
+<./images/Annex14/approachlights.jpg, id=1175, 265.99374pt x 391.4625pt>
 File: ./images/Annex14/approachlights.jpg Graphic file (type jpg)
 
 <use ./images/Annex14/approachlights.jpg>
@@ -2929,7 +2934,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 37.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
 [41 <./images/Annex14/approachlights.jpg>]
-<./images/Annex14/PAPI.jpg, id=1182, 290.58563pt x 198.24063pt>
+<./images/Annex14/PAPI.jpg, id=1188, 290.58563pt x 198.24063pt>
 File: ./images/Annex14/PAPI.jpg Graphic file (type jpg)
 
 <use ./images/Annex14/PAPI.jpg>
@@ -2940,7 +2945,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 65.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [42]
-<./images/Annex14/SuperficiesPAPI.jpg, id=1188, 636.3775pt x 335.75438pt>
+<./images/Annex14/SuperficiesPAPI.jpg, id=1194, 636.3775pt x 335.75438pt>
 File: ./images/Annex14/SuperficiesPAPI.jpg Graphic file (type jpg)
 
 <use ./images/Annex14/SuperficiesPAPI.jpg>
@@ -2948,7 +2953,7 @@ Package pdftex.def Info: ./images/Annex14/SuperficiesPAPI.jpg used on input lin
 e 70.
 (pdftex.def)             Requested size: 426.79135pt x 225.17456pt.
 
-<./images/Annex14/PAPIScheme.jpg, id=1190, 538.01pt x 398.99063pt>
+<./images/Annex14/PAPIScheme.jpg, id=1196, 538.01pt x 398.99063pt>
 File: ./images/Annex14/PAPIScheme.jpg Graphic file (type jpg)
 
 <use ./images/Annex14/PAPIScheme.jpg>
@@ -2967,7 +2972,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 97.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [44 <./images/Annex14/PAPIScheme.jpg>]
-<./images/Annex14/endlights.jpg, id=1205, 137.51375pt x 101.37875pt>
+<./images/Annex14/endlights.jpg, id=1211, 137.51375pt x 101.37875pt>
 File: ./images/Annex14/endlights.jpg Graphic file (type jpg)
 
 <use ./images/Annex14/endlights.jpg>
@@ -2985,7 +2990,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 148.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [46 <./images/Annex14/endlights.jpg>]
-<./images/Annex14/rapidexittaxiways.jpg, id=1220, 326.21875pt x 152.57pt>
+<./images/Annex14/rapidexittaxiways.jpg, id=1226, 326.21875pt x 152.57pt>
 File: ./images/Annex14/rapidexittaxiways.jpg Graphic file (type jpg)
 
 <use ./images/Annex14/rapidexittaxiways.jpg>
@@ -2998,7 +3003,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 172.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [47 <./images/Annex14/rapidexittaxiways.jpg>] <./images/lights/apronlights.png
-, id=1228, 717.882pt x 233.07076pt>
+, id=1234, 717.882pt x 233.07076pt>
 File: ./images/lights/apronlights.png Graphic file (type png)
 
 <use ./images/lights/apronlights.png>
@@ -3022,7 +3027,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [50]
 Chapter 8.
-<./images/Annex14/signstable.jpg, id=1243, 475.7775pt x 159.59625pt>
+<./images/Annex14/signstable.jpg, id=1249, 475.7775pt x 159.59625pt>
 File: ./images/Annex14/signstable.jpg Graphic file (type jpg)
 
 <use ./images/Annex14/signstable.jpg>
@@ -3052,7 +3057,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 22.
  [51
 
  <./images/Annex14/signstable.jpg>]
-<./images/signsexamples/NOentrysign.jpg, id=1251, 819.06pt x 230.66174pt>
+<./images/signsexamples/NOentrysign.jpg, id=1258, 819.06pt x 230.66174pt>
 File: ./images/signsexamples/NOentrysign.jpg Graphic file (type jpg)
 
 <use ./images/signsexamples/NOentrysign.jpg>
@@ -3065,7 +3070,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 49.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [52]
-<./images/signsexamples/holdingposition.jpg, id=1258, 573.94424pt x 375.804pt>
+<./images/signsexamples/holdingposition.jpg, id=1264, 573.94424pt x 375.804pt>
 File: ./images/signsexamples/holdingposition.jpg Graphic file (type jpg)
 
 <use ./images/signsexamples/holdingposition.jpg>
@@ -3073,7 +3078,7 @@ Package pdftex.def Info: ./images/signsexamples/holdingposition.jpg used on inp
 ut line 54.
 (pdftex.def)             Requested size: 405.45047pt x 265.48088pt.
 
-<./images/signsexamples/examples.jpg, id=1260, 543.2295pt x 271.61475pt>
+<./images/signsexamples/examples.jpg, id=1266, 543.2295pt x 271.61475pt>
 File: ./images/signsexamples/examples.jpg Graphic file (type jpg)
 
 <use ./images/signsexamples/examples.jpg>
@@ -3092,7 +3097,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 82.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [54 <./images/signsexamples/examples.jpg>]
-<./images/signsexamples/TODAsign.jpg, id=1273, 738.3585pt x 378.213pt>
+<./images/signsexamples/TODAsign.jpg, id=1279, 738.3585pt x 378.213pt>
 File: ./images/signsexamples/TODAsign.jpg Graphic file (type jpg)
 
 <use ./images/signsexamples/TODAsign.jpg>
@@ -3100,7 +3105,7 @@ Package pdftex.def Info: ./images/signsexamples/TODAsign.jpg used on input line
  95.
 (pdftex.def)             Requested size: 341.43437pt x 174.8919pt.
 
-<./images/signsexamples/exitexample.jpg, id=1275, 899.7615pt x 392.06474pt>
+<./images/signsexamples/exitexample.jpg, id=1281, 899.7615pt x 392.06474pt>
 File: ./images/signsexamples/exitexample.jpg Graphic file (type jpg)
 
 <use ./images/signsexamples/exitexample.jpg>
@@ -3113,7 +3118,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 108.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [55 <./images/signsexamples/TODAsign.jpg>]
-<./images/signsexamples/exempleinf.jpg, id=1282, 710.655pt x 257.763pt>
+<./images/signsexamples/exempleinf.jpg, id=1288, 710.655pt x 257.763pt>
 File: ./images/signsexamples/exempleinf.jpg Graphic file (type jpg)
 
 <use ./images/signsexamples/exempleinf.jpg>
@@ -3130,7 +3135,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 [56 <./images/signsexamples/exitexample.jpg> <./images/signsexamples/exempleinf
 .jpg>]
 Chapter 9.
-<./images/electric/esquema_electrico.png, id=1294, 847.968pt x 653.44125pt>
+<./images/electric/esquema_electrico.png, id=1300, 847.968pt x 653.44125pt>
 File: ./images/electric/esquema_electrico.png Graphic file (type png)
 
 <use ./images/electric/esquema_electrico.png>
@@ -3165,7 +3170,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 19.
  [57
 
 ]
-<./images/electric/substation.jpg, id=1307, 1067.99pt x 460.72125pt>
+<./images/electric/substation.jpg, id=1314, 1067.99pt x 460.72125pt>
 File: ./images/electric/substation.jpg Graphic file (type jpg)
 
 <use ./images/electric/substation.jpg>
@@ -3178,7 +3183,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 32.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
 [58 <./images/electric/esquema_electrico.png>]
-<./images/electric/powerplant.png, id=1317, 636.57825pt x 401.0985pt>
+<./images/electric/powerplant.png, id=1323, 636.57825pt x 401.0985pt>
 File: ./images/electric/powerplant.png Graphic file (type png)
 
 <use ./images/electric/powerplant.png>
@@ -3191,7 +3196,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 48.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
 [59 <./images/electric/substation.jpg> <./images/electric/powerplant.png>]
-<./images/electric/requirements.png, id=1329, 450.483pt x 436.029pt>
+<./images/electric/requirements.png, id=1335, 450.483pt x 436.029pt>
 File: ./images/electric/requirements.png Graphic file (type png)
 
 <use ./images/electric/requirements.png>
@@ -3204,7 +3209,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 64.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
 
 [60 <./images/electric/requirements.png>]
-<./images/electric/manhole.png, id=1339, 540.8205pt x 404.10976pt>
+<./images/electric/manhole.png, id=1345, 540.8205pt x 404.10976pt>
 File: ./images/electric/manhole.png Graphic file (type png)
 
 <use ./images/electric/manhole.png>
@@ -3222,7 +3227,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--1
 |[]\T1/lmss/bx/n/24.88 Medium volt-age elec-tri-cal
  []
 
-<./images/electric/series.png, id=1349, 423.984pt x 228.855pt>
+<./images/electric/series.png, id=1355, 423.984pt x 228.855pt>
 File: ./images/electric/series.png Graphic file (type png)
 
 <use ./images/electric/series.png>
@@ -3252,7 +3257,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 17.
  [62
 
  <./images/electric/series.png>]
-<./images/electric/interleaved.png, id=1361, 630.55576pt x 369.7815pt>
+<./images/electric/interleaved.png, id=1367, 630.55576pt x 369.7815pt>
 File: ./images/electric/interleaved.png Graphic file (type png)
 
 <use ./images/electric/interleaved.png>
@@ -3260,7 +3265,7 @@ Package pdftex.def Info: ./images/electric/interleaved.png used on input line 2
 0.
 (pdftex.def)             Requested size: 341.43437pt x 200.23198pt.
 
-<./images/electric/spare.png, id=1363, 458.9145pt x 274.626pt>
+<./images/electric/spare.png, id=1369, 458.9145pt x 274.626pt>
 File: ./images/electric/spare.png Graphic file (type png)
 
 <use ./images/electric/spare.png>
@@ -3271,7 +3276,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 35.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
  [63 <./images/electric/interleaved.png> <./images/electric/spare.png>]
-<./images/electric/rnwCentre.png, id=1375, 367.97475pt x 60.225pt>
+<./images/electric/rnwCentre.png, id=1382, 367.97475pt x 60.225pt>
 File: ./images/electric/rnwCentre.png Graphic file (type png)
 
 <use ./images/electric/rnwCentre.png>
@@ -3279,14 +3284,14 @@ Package pdftex.def Info: ./images/electric/rnwCentre.png used on input line 38.
 
 (pdftex.def)             Requested size: 298.75264pt x 48.89592pt.
 
-<./images/electric/spacing.png, id=1378, 517.33275pt x 86.12175pt>
+<./images/electric/spacing.png, id=1385, 517.33275pt x 86.12175pt>
 File: ./images/electric/spacing.png Graphic file (type png)
 
 <use ./images/electric/spacing.png>
 Package pdftex.def Info: ./images/electric/spacing.png used on input line 47.
 (pdftex.def)             Requested size: 298.75264pt x 49.73512pt.
 
-<./images/electric/touchdown.png, id=1381, 288.47775pt x 142.73325pt>
+<./images/electric/touchdown.png, id=1388, 288.47775pt x 142.73325pt>
 File: ./images/electric/touchdown.png Graphic file (type png)
 
 <use ./images/electric/touchdown.png>
@@ -3300,14 +3305,14 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 63.
 
 [64 <./images/electric/rnwCentre.png> <./images/electric/spacing.png> <./images
 /electric/touchdown.png>]
-<./images/electric/inter3.png, id=1396, 534.798pt x 93.34875pt>
+<./images/electric/inter3.png, id=1402, 534.798pt x 93.34875pt>
 File: ./images/electric/inter3.png Graphic file (type png)
 
 <use ./images/electric/inter3.png>
 Package pdftex.def Info: ./images/electric/inter3.png used on input line 68.
 (pdftex.def)             Requested size: 298.75264pt x 52.14816pt.
 
-<./images/electric/pApp.png, id=1399, 420.3705pt x 515.526pt>
+<./images/electric/pApp.png, id=1405, 420.3705pt x 515.526pt>
 File: ./images/electric/pApp.png Graphic file (type png)
 
 <use ./images/electric/pApp.png>
@@ -3322,14 +3327,26 @@ File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 98.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [66 <./images/electric/pApp.png>]) (sections/11Aeronauticallimitationsurfaces.
-tex
+ [66 <./images/electric/pApp.png>]
+<./images/electric/concrete.png, id=1426, 537.80925pt x 360.1455pt>
+File: ./images/electric/concrete.png Graphic file (type png)
+
+<use ./images/electric/concrete.png>
+Package pdftex.def Info: ./images/electric/concrete.png used on input line 116.
+
+(pdftex.def)             Requested size: 426.79135pt x 285.81422pt.
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 120.
+(pdftex.def)             Requested size: 17.56384pt x 25.0pt.
+
+[67]) (sections/11Aeronauticallimitationsurfaces.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [67]
+ [68 <./images/electric/concrete.png>]
 Chapter 11.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
@@ -3357,7 +3374,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 2.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [68
+ [69
 
 ]
 Chapter 12.
@@ -3385,7 +3402,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 91.
 (pdftex.def)             Requested size: 17.56384pt x 25.0pt.
- [69
+ [70
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
@@ -3393,25 +3410,19 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
  (Report_LA.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
+Package rerunfilecheck Info: File `Report_LA.out' has not changed.
+(rerunfilecheck)             Checksum: 0DD596C9E0CBCB4B6C10614BB6E0E83F;9469.
 
-
-Package rerunfilecheck Warning: File `Report_LA.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Report_LA.out':
-(rerunfilecheck)             Before: 4ABD281AFC9963C038F791C65A476966;9460
-(rerunfilecheck)             After:  8B96D603FEE6697F9E4564EBDEB0C6A8;9468.
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 30907 strings out of 493333
- 572859 string characters out of 3139194
- 645599 words of memory out of 3000000
- 33487 multiletter control sequences out of 15000+200000
+ 30917 strings out of 493333
+ 573066 string characters out of 3139194
+ 646665 words of memory out of 3000000
+ 33492 multiletter control sequences out of 15000+200000
  63799 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,16n,77p,10489b,781s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -3427,9 +3438,9 @@ ram Files/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX
 blic/lm/lmssbo10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx1
 0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Report_LA.pdf (78 pages, 3636805 bytes).
+Output written on Report_LA.pdf (80 pages, 3670183 bytes).
 PDF statistics:
- 1551 PDF objects out of 1728 (max. 8388607)
- 361 named destinations out of 1000 (max. 500000)
- 1751 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1568 PDF objects out of 1728 (max. 8388607)
+ 365 named destinations out of 1000 (max. 500000)
+ 1762 words of extra memory for PDF output out of 10000 (max. 10000000)
 
