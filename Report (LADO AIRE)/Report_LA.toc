@@ -73,7 +73,6 @@
 \contentsline {subsection}{\numberline {3.5.4}Transversal slope}{22}{subsection.3.5.4}
 \contentsline {paragraph}{}{22}{section*.64}
 \contentsline {section}{\numberline {3.6}Taxiway's shoulders}{22}{section.3.6}
-<<<<<<< HEAD
 \contentsline {paragraph}{}{22}{section*.65}
 \contentsline {section}{\numberline {3.7}Rapid exit taxiways}{23}{section.3.7}
 \contentsline {paragraph}{}{23}{section*.68}
@@ -168,146 +167,29 @@
 \contentsline {paragraph}{}{57}{section*.129}
 \contentsline {section}{\numberline {9.1}Electrical system general design}{57}{section.9.1}
 \contentsline {paragraph}{}{57}{section*.130}
-\contentsline {section}{\numberline {9.2}Connection sub-stations}{58}{section.9.2}
-\contentsline {section}{\numberline {9.3}Electric powerplant}{58}{section.9.3}
-\contentsline {section}{\numberline {9.4}Electrical transformation center}{58}{section.9.4}
-\contentsline {section}{\numberline {9.5}Channeling and distribution of the electrical system}{58}{section.9.5}
-\contentsline {chapter}{\numberline {10}Medium voltage electrical system}{59}{chapter.10}
-\contentsline {section}{\numberline {10.1}Beacon circuits}{60}{section.10.1}
-\contentsline {subsection}{\numberline {10.1.1}Runway centerline lighting system}{60}{subsection.10.1.1}
-\contentsline {subsection}{\numberline {10.1.2}Taxiway centerline lighting system}{60}{subsection.10.1.2}
-\contentsline {subsection}{\numberline {10.1.3}Runway and taxiway centerlines lighting system}{60}{subsection.10.1.3}
-\contentsline {subsection}{\numberline {10.1.4}Approach lighting system}{60}{subsection.10.1.4}
-\contentsline {subsection}{\numberline {10.1.5}Touchdown zone lighting system}{60}{subsection.10.1.5}
-\contentsline {subsection}{\numberline {10.1.6}Runway header lighting system}{60}{subsection.10.1.6}
-\contentsline {subsection}{\numberline {10.1.7}RETIL electrical circuit}{60}{subsection.10.1.7}
-\contentsline {subsection}{\numberline {10.1.8}PAPI electrical circuit}{60}{subsection.10.1.8}
-\contentsline {subsection}{\numberline {10.1.9}Stop bar electrical circuit}{60}{subsection.10.1.9}
-\contentsline {subsection}{\numberline {10.1.10}Signs electrical circuit}{60}{subsection.10.1.10}
-\contentsline {section}{\numberline {10.2}Regulation chambers}{60}{section.10.2}
-\contentsline {section}{\numberline {10.3}Wire channeling}{60}{section.10.3}
-\contentsline {chapter}{\numberline {11}Aeronautical limitation surfaces}{61}{chapter.11}
-\contentsline {section}{\numberline {11.1}Physical limitation surfaces}{61}{section.11.1}
-\contentsline {section}{\numberline {11.2}ILS limitation surfaces}{61}{section.11.2}
-\contentsline {section}{\numberline {11.3}Localizer limitation surfaces}{61}{section.11.3}
-\contentsline {section}{\numberline {11.4}Gliding trajectory protection limitation surfaces}{61}{section.11.4}
-\contentsline {chapter}{\numberline {12}Bibliography}{62}{chapter.12}
-=======
-\contentsline {paragraph}{}{22}{section*.50}
-\contentsline {section}{\numberline {3.7}Rapid exit taxiways}{22}{section.3.7}
-\contentsline {paragraph}{}{22}{section*.51}
-\contentsline {chapter}{\numberline {4}Holding positions}{23}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{23}{section.4.1}
-\contentsline {section}{\numberline {4.2}Minimum distance between holding position and runway}{23}{section.4.2}
-\contentsline {section}{\numberline {4.3}Interference with critical and ILS sensible areas}{23}{section.4.3}
-\contentsline {section}{\numberline {4.4}Interference with CWY and physical obstacles}{23}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Separation between aircraft (guardas entre aeronaves)}{23}{subsection.4.4.1}
-\contentsline {section}{\numberline {4.5}Final design of holding positions}{23}{section.4.5}
-\contentsline {chapter}{\numberline {5}Apron design}{24}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{24}{section.5.1}
-\contentsline {paragraph}{}{24}{section*.52}
-\contentsline {section}{\numberline {5.2}Apron taxiways}{25}{section.5.2}
-\contentsline {paragraph}{}{25}{section*.54}
-\contentsline {section}{\numberline {5.3}Aircraft stands}{26}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}General dimensions of aircraft stands}{26}{subsection.5.3.1}
-\contentsline {paragraph}{}{26}{section*.56}
-\contentsline {subsection}{\numberline {5.3.2}Dimensions for reference aircraft}{27}{subsection.5.3.2}
-\contentsline {paragraph}{}{27}{section*.59}
-\contentsline {subsubsection}{\numberline {5.3.2.1}B777}{27}{subsubsection.5.3.2.1}
-\contentsline {subsubsection}{\numberline {5.3.2.2}B737}{28}{subsubsection.5.3.2.2}
-\contentsline {section}{\numberline {5.4}Service ways in apron}{29}{section.5.4}
-\contentsline {paragraph}{}{29}{section*.64}
-\contentsline {section}{\numberline {5.5}Terminal connections}{31}{section.5.5}
-\contentsline {paragraph}{}{31}{section*.68}
-\contentsline {section}{\numberline {5.6}Pavement}{32}{section.5.6}
-\contentsline {paragraph}{}{32}{section*.71}
-\contentsline {chapter}{\numberline {6}Markings}{33}{chapter.6}
-\contentsline {section}{\numberline {6.1}Runway markings}{34}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Runway centerline markings}{34}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Runway side strip markings}{34}{subsection.6.1.2}
-\contentsline {subsection}{\numberline {6.1.3}Runway threshold markings}{34}{subsection.6.1.3}
-\contentsline {subsection}{\numberline {6.1.4}Runway ldesignation marking}{34}{subsection.6.1.4}
-\contentsline {subsection}{\numberline {6.1.5}Runway aiming point markings}{34}{subsection.6.1.5}
-\contentsline {subsection}{\numberline {6.1.6}Runway touchdown zone markings}{34}{subsection.6.1.6}
-\contentsline {section}{\numberline {6.2}Taxiway markings}{34}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Taxiway centerline markings}{34}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Taxiway strip markings}{34}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}Taxiway holding position markings}{34}{subsection.6.2.3}
-\contentsline {subsection}{\numberline {6.2.4}Intermediate holding position markings}{34}{subsection.6.2.4}
-\contentsline {subsection}{\numberline {6.2.5}Runway entry holding position markings}{34}{subsection.6.2.5}
-\contentsline {subsection}{\numberline {6.2.6}Mandatory instruction marking}{34}{subsection.6.2.6}
-\contentsline {section}{\numberline {6.3}Apron markings}{34}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Apron lead in line markings}{34}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Apron boundary markings}{34}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}End of aircraft movement area markings}{34}{subsection.6.3.3}
-\contentsline {subsection}{\numberline {6.3.4}Stand lead in line for multiple useable parking stands}{34}{subsection.6.3.4}
-\contentsline {subsection}{\numberline {6.3.5}Equipment parking line markings}{34}{subsection.6.3.5}
-\contentsline {subsection}{\numberline {6.3.6}Stand safety line markings}{34}{subsection.6.3.6}
-\contentsline {subsection}{\numberline {6.3.7}Aircraft stop line markings}{34}{subsection.6.3.7}
-\contentsline {subsection}{\numberline {6.3.8}Aircraft stand markings}{34}{subsection.6.3.8}
-\contentsline {subsection}{\numberline {6.3.9}Service way markings}{34}{subsection.6.3.9}
-\contentsline {chapter}{\numberline {7}Lights}{35}{chapter.7}
-\contentsline {section}{\numberline {7.1}Runway lights}{35}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}Approach lights}{35}{subsection.7.1.1}
-\contentsline {paragraph}{}{35}{section*.72}
-\contentsline {subsection}{\numberline {7.1.2}Approach slope indication systems}{36}{subsection.7.1.2}
-\contentsline {paragraph}{}{36}{section*.74}
-\contentsline {subsection}{\numberline {7.1.3}Runway threshold identification lights}{39}{subsection.7.1.3}
-\contentsline {paragraph}{}{39}{section*.78}
-\contentsline {subsection}{\numberline {7.1.4}Runway edge lights}{39}{subsection.7.1.4}
-\contentsline {paragraph}{}{39}{section*.79}
-\contentsline {subsection}{\numberline {7.1.5}Runway threshold and wing bar lights}{40}{subsection.7.1.5}
-\contentsline {paragraph}{}{40}{section*.80}
-\contentsline {subsection}{\numberline {7.1.6}Runway end lights}{40}{subsection.7.1.6}
-\contentsline {paragraph}{}{40}{section*.81}
-\contentsline {subsection}{\numberline {7.1.7}Runway centre line lights}{41}{subsection.7.1.7}
-\contentsline {paragraph}{}{41}{section*.83}
-\contentsline {subsection}{\numberline {7.1.8}Touchdown zone lights}{41}{subsection.7.1.8}
-\contentsline {subsection}{\numberline {7.1.9}Rapid exit taxiway indicator lights}{42}{subsection.7.1.9}
-\contentsline {paragraph}{}{42}{section*.84}
-\contentsline {section}{\numberline {7.2}Taxiway lights}{43}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Taxiway lights}{43}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Taxiway lights for an exit taxiway}{43}{subsection.7.2.2}
-\contentsline {subsection}{\numberline {7.2.3}Taxiway light for a rapid exit taxiway}{43}{subsection.7.2.3}
-\contentsline {subsection}{\numberline {7.2.4}Taxiway edge lights}{43}{subsection.7.2.4}
-\contentsline {subsection}{\numberline {7.2.5}Stop bar lights}{43}{subsection.7.2.5}
-\contentsline {subsection}{\numberline {7.2.6}Intermediate holding point lights}{43}{subsection.7.2.6}
-\contentsline {section}{\numberline {7.3}Apron lights}{43}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}Centre line and edge apron lights}{43}{subsection.7.3.1}
-\contentsline {subsection}{\numberline {7.3.2}Projector based apron lighting}{43}{subsection.7.3.2}
-\contentsline {subsection}{\numberline {7.3.3}Visual guidance system for parking}{44}{subsection.7.3.3}
-\contentsline {chapter}{\numberline {8}Signs}{46}{chapter.8}
-\contentsline {section}{\numberline {8.1}Introduction}{46}{section.8.1}
-\contentsline {paragraph}{}{46}{section*.87}
-\contentsline {section}{\numberline {8.2}Mandatory instruction signs}{46}{section.8.2}
-\contentsline {section}{\numberline {8.3}Information signs}{49}{section.8.3}
-\contentsline {chapter}{\numberline {9}High-voltage electrical system}{52}{chapter.9}
-\contentsline {paragraph}{}{52}{section*.95}
-\contentsline {section}{\numberline {9.1}Electrical system general design}{52}{section.9.1}
-\contentsline {paragraph}{}{52}{section*.96}
-\contentsline {section}{\numberline {9.2}Connection sub-stations or Service Drop stations}{53}{section.9.2}
-\contentsline {paragraph}{}{53}{section*.98}
-\contentsline {section}{\numberline {9.3}Electric powerplant}{54}{section.9.3}
-\contentsline {section}{\numberline {9.4}Electrical transformation center}{54}{section.9.4}
-\contentsline {section}{\numberline {9.5}Channeling and distribution of the electrical system}{54}{section.9.5}
-\contentsline {chapter}{\numberline {10}Medium voltage electrical system}{55}{chapter.10}
-\contentsline {section}{\numberline {10.1}Beacon circuits}{56}{section.10.1}
-\contentsline {subsection}{\numberline {10.1.1}Runway centerline lighting system}{56}{subsection.10.1.1}
-\contentsline {subsection}{\numberline {10.1.2}Taxiway centerline lighting system}{56}{subsection.10.1.2}
-\contentsline {subsection}{\numberline {10.1.3}Runway and taxiway centerlines lighting system}{56}{subsection.10.1.3}
-\contentsline {subsection}{\numberline {10.1.4}Approach lighting system}{56}{subsection.10.1.4}
-\contentsline {subsection}{\numberline {10.1.5}Touchdown zone lighting system}{56}{subsection.10.1.5}
-\contentsline {subsection}{\numberline {10.1.6}Runway header lighting system}{56}{subsection.10.1.6}
-\contentsline {subsection}{\numberline {10.1.7}RETIL electrical circuit}{56}{subsection.10.1.7}
-\contentsline {subsection}{\numberline {10.1.8}PAPI electrical circuit}{56}{subsection.10.1.8}
-\contentsline {subsection}{\numberline {10.1.9}Stop bar electrical circuit}{56}{subsection.10.1.9}
-\contentsline {subsection}{\numberline {10.1.10}Signs electrical circuit}{56}{subsection.10.1.10}
-\contentsline {section}{\numberline {10.2}Regulation chambers}{56}{section.10.2}
-\contentsline {section}{\numberline {10.3}Wire channeling}{56}{section.10.3}
-\contentsline {chapter}{\numberline {11}Aeronautical limitation surfaces}{57}{chapter.11}
-\contentsline {section}{\numberline {11.1}Physical limitation surfaces}{57}{section.11.1}
-\contentsline {section}{\numberline {11.2}ILS limitation surfaces}{57}{section.11.2}
-\contentsline {section}{\numberline {11.3}Localizer limitation surfaces}{57}{section.11.3}
-\contentsline {section}{\numberline {11.4}Gliding trajectory protection limitation surfaces}{57}{section.11.4}
-\contentsline {chapter}{\numberline {12}Bibliography}{58}{chapter.12}
->>>>>>> 7b40bc7309d967202a4e9732c1f8333c6b070cf6
+\contentsline {section}{\numberline {9.2}Connection sub-stations or Service Drop stations}{58}{section.9.2}
+\contentsline {paragraph}{}{58}{section*.132}
+\contentsline {section}{\numberline {9.3}Electric powerplant}{59}{section.9.3}
+\contentsline {paragraph}{}{59}{section*.134}
+\contentsline {section}{\numberline {9.4}Electrical transformation center}{59}{section.9.4}
+\contentsline {section}{\numberline {9.5}Channeling and distribution of the electrical system}{59}{section.9.5}
+\contentsline {chapter}{\numberline {10}Medium voltage electrical system}{60}{chapter.10}
+\contentsline {section}{\numberline {10.1}Beacon circuits}{61}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}Runway centerline lighting system}{61}{subsection.10.1.1}
+\contentsline {subsection}{\numberline {10.1.2}Taxiway centerline lighting system}{61}{subsection.10.1.2}
+\contentsline {subsection}{\numberline {10.1.3}Runway and taxiway centerlines lighting system}{61}{subsection.10.1.3}
+\contentsline {subsection}{\numberline {10.1.4}Approach lighting system}{61}{subsection.10.1.4}
+\contentsline {subsection}{\numberline {10.1.5}Touchdown zone lighting system}{61}{subsection.10.1.5}
+\contentsline {subsection}{\numberline {10.1.6}Runway header lighting system}{61}{subsection.10.1.6}
+\contentsline {subsection}{\numberline {10.1.7}RETIL electrical circuit}{61}{subsection.10.1.7}
+\contentsline {subsection}{\numberline {10.1.8}PAPI electrical circuit}{61}{subsection.10.1.8}
+\contentsline {subsection}{\numberline {10.1.9}Stop bar electrical circuit}{61}{subsection.10.1.9}
+\contentsline {subsection}{\numberline {10.1.10}Signs electrical circuit}{61}{subsection.10.1.10}
+\contentsline {section}{\numberline {10.2}Regulation chambers}{61}{section.10.2}
+\contentsline {section}{\numberline {10.3}Wire channeling}{61}{section.10.3}
+\contentsline {chapter}{\numberline {11}Aeronautical limitation surfaces}{62}{chapter.11}
+\contentsline {section}{\numberline {11.1}Physical limitation surfaces}{62}{section.11.1}
+\contentsline {section}{\numberline {11.2}ILS limitation surfaces}{62}{section.11.2}
+\contentsline {section}{\numberline {11.3}Localizer limitation surfaces}{62}{section.11.3}
+\contentsline {section}{\numberline {11.4}Gliding trajectory protection limitation surfaces}{62}{section.11.4}
+\contentsline {chapter}{\numberline {12}Bibliography}{63}{chapter.12}
