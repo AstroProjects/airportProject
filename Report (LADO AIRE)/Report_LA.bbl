@@ -21,15 +21,19 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{Standards2016}
+I.~Standards, R.~Practices, I.~C. Aviation, and A.~Design, ``{Aerodromes},''
+  vol.~I, no. July, 2016.
+
+\bibitem{Telecomunicaciones}
+I.~Volumen, ``{Telecomunicaciones aeron{\'{a}}uticas},'' 2006.
+
 \bibitem{ICAO2006}
 ICAO, \emph{{Doc 9157 - Aerodrome Design Manual Part 5: Electrical Systems}},
   2006.
 
 \bibitem{Sanidad2009}
-M.~D.~E. Sanidad and T.~Social, ``{BOE-A-2012-5403},'' 2009.
-
-\bibitem{Standards2016}
-I.~Standards, R.~Practices, I.~C. Aviation, and A.~Design, ``{Aerodromes},''
-  vol.~I, no. July, 2016.
+M.~D.~E. Sanidad and T.~Social, ``{BOE-A-2009-9043},'' p. Cap{\'{i}}tulo 8,
+  2009.
 
 \end{thebibliography}

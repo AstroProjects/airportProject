@@ -5,9 +5,10 @@ Database file #2: PROYECTO_AEROPUERTOS-LADO_AIRE.bib
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in Standards2016
+Warning--empty journal in Telecomunicaciones
 Warning--missing publisher in ICAO2006
 Warning--empty journal in Sanidad2009
-Warning--empty journal in Standards2016
 
 Done.
-(There were 3 warnings)
+(There were 4 warnings)
