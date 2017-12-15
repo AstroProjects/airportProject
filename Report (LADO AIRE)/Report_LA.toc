@@ -86,7 +86,6 @@
 \contentsline {section}{\numberline {4.4}Interference with critical and ILS sensible areas}{26}{section.4.4}
 \contentsline {paragraph}{}{26}{section*.74}
 \contentsline {section}{\numberline {4.5}Interference with CWY and physical obstacles}{26}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}Separation between aircraft }{26}{subsection.4.5.1}
 \contentsline {section}{\numberline {4.6}Final design of holding positions}{26}{section.4.6}
 \contentsline {chapter}{\numberline {5}Apron design}{27}{chapter.5}
 \contentsline {section}{\numberline {5.1}Introduction}{27}{section.5.1}
