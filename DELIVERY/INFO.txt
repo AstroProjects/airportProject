@@ -1,0 +1,16 @@
+Group:
+	2
+
+Project: 
+	BEKASI - EAST JAKARTA AIRPORT
+
+Integrants:
+	Sergi Abiétar Moreno
+	Miguel Delgado Chicote
+	Sergi Fernández Porta
+	Sergi Fernández Sanz
+	Pol Fontanes Molina
+	Xavier Vidal Pedrola
+
+Deleivery date: 
+	15/12/2017
