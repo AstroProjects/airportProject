@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.4)  15 DEC 2017 15:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.4)  15 DEC 2017 18:48
 entering extended mode
 **./Annex_LA.tex
 (Annex_LA.tex
@@ -2100,14 +2100,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 31.
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (doc_config/cover.tex
-<./doc_config/images/logo.png, id=179, 348.70274pt x 496.254pt>
+<./doc_config/images/logo.png, id=71, 348.70274pt x 496.254pt>
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 11. o
 n input line 11.
 Package pdftex.def Info: Requested size: 85.35696pt x 121.4735pt on input line 
 11.
-<./doc_config/images/UPC_ESEIAAT.jpg, id=180, 728.7225pt x 176.66pt>
+<./doc_config/images/UPC_ESEIAAT.jpg, id=72, 728.7225pt x 176.66pt>
 File: ./doc_config/images/UPC_ESEIAAT.jpg Graphic file (type jpg)
 <use ./doc_config/images/UPC_ESEIAAT.jpg>
 Package pdftex.def Info: ./doc_config/images/UPC_ESEIAAT.jpg  used on input lin
@@ -2131,38 +2131,33 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!{C:/Users/Xavier/AppData/Local/MiKTeX/2.9/pdftex/config
 /pdftex.map} <./doc_config/images/logo.png> <./doc_config/images/UPC_ESEIAAT.jp
-g>] [2] (Annex_LA.toc
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 36.
-
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 36.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 36.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 36.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 36. o
-n input line 36.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 36.
-[1])
+g>] [2] (Annex_LA.toc)
 \tf@toc=\write4
 \openout4 = `Annex_LA.toc'.
+
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 43.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 43.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 43.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 43.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 43. o
 n input line 43.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 43.
- [2] (Annex_LA.lot)
+[1] (Annex_LA.lot)
 \tf@lot=\write5
 \openout5 = `Annex_LA.lot'.
 
@@ -2188,7 +2183,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 48. o
 n input line 48.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 48.
-[3] (Annex_LA.lof)
+[2] (Annex_LA.lof)
 \tf@lof=\write6
 \openout6 = `Annex_LA.lof'.
 
@@ -2214,7 +2209,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 56. o
 n input line 56.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 56.
-[4] (sections/1Location.tex
+[3] (sections/1Location.tex
 Chapter 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
@@ -2252,7 +2247,7 @@ l.1 \chapter
 
 ]
 Chapter 2.
-<./images/B777/landingdistance777.jpg, id=305, 463.13025pt x 343.88475pt>
+<./images/B777/landingdistance777.jpg, id=165, 463.13025pt x 343.88475pt>
 File: ./images/B777/landingdistance777.jpg Graphic file (type jpg)
 <use ./images/B777/landingdistance777.jpg>
 Package pdftex.def Info: ./images/B777/landingdistance777.jpg  used on input li
@@ -2288,7 +2283,7 @@ l.15
         [2
 
  <./images/B777/landingdistance777.jpg>]
-<./images/B737/landingdistance737.jpg, id=313, 367.97475pt x 415.5525pt>
+<./images/B737/landingdistance737.jpg, id=174, 367.97475pt x 415.5525pt>
 File: ./images/B737/landingdistance737.jpg Graphic file (type jpg)
 <use ./images/B737/landingdistance737.jpg>
 Package pdftex.def Info: ./images/B737/landingdistance737.jpg  used on input li
@@ -2307,7 +2302,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 43. o
 n input line 43.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 43.
  [4 <./images/B737/landingdistance737.jpg>]
-<./images/pavement/B777/thickness.png, id=325, 481.19775pt x 568.524pt>
+<./images/pavement/B777/thickness.png, id=186, 481.19775pt x 568.524pt>
 File: ./images/pavement/B777/thickness.png Graphic file (type png)
 <use ./images/pavement/B777/thickness.png>
 Package pdftex.def Info: ./images/pavement/B777/thickness.png  used on input li
@@ -2320,7 +2315,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 66. o
 n input line 66.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 66.
  [5]
-<./images/pavement/B777/thickness2.png, id=332, 481.19775pt x 568.524pt>
+<./images/pavement/B777/thickness2.png, id=193, 481.19775pt x 568.524pt>
 File: ./images/pavement/B777/thickness2.png Graphic file (type png)
 <use ./images/pavement/B777/thickness2.png>
 Package pdftex.def Info: ./images/pavement/B777/thickness2.png  used on input l
@@ -2333,7 +2328,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 77. o
 n input line 77.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 77.
  [6 <./images/pavement/B777/thickness.png>]
-<./images/pavement/B777/thicknes2min.png, id=339, 349.90726pt x 486.618pt>
+<./images/pavement/B777/thicknes2min.png, id=200, 349.90726pt x 486.618pt>
 File: ./images/pavement/B777/thicknes2min.png Graphic file (type png)
 <use ./images/pavement/B777/thicknes2min.png>
 Package pdftex.def Info: ./images/pavement/B777/thicknes2min.png  used on input
@@ -2346,7 +2341,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 86. o
 n input line 86.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 86.
  [7 <./images/pavement/B777/thickness2.png>]
-<./images/pavement/cemento.png, id=348, 398.08725pt x 149.358pt>
+<./images/pavement/cemento.png, id=208, 398.08725pt x 149.358pt>
 File: ./images/pavement/cemento.png Graphic file (type png)
 <use ./images/pavement/cemento.png>
 Package pdftex.def Info: ./images/pavement/cemento.png  used on input line 97. 
@@ -2360,7 +2355,7 @@ on input line 101.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 101.
 
  [8 <./images/pavement/B777/thicknes2min.png>]
-<./images/pavement/firmes.png, id=357, 389.0535pt x 149.358pt>
+<./images/pavement/firmes.png, id=218, 389.0535pt x 149.358pt>
 File: ./images/pavement/firmes.png Graphic file (type png)
 <use ./images/pavement/firmes.png>
 Package pdftex.def Info: ./images/pavement/firmes.png  used on input line 104. 
@@ -2375,7 +2370,7 @@ Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 134.
 
 
 [9 <./images/pavement/cemento.png> <./images/pavement/firmes.png>]
-<./images/pavement/B737/thickness.png, id=365, 356.532pt x 439.04025pt>
+<./images/pavement/B737/thickness.png, id=226, 356.532pt x 439.04025pt>
 File: ./images/pavement/B737/thickness.png Graphic file (type png)
 <use ./images/pavement/B737/thickness.png>
 Package pdftex.def Info: ./images/pavement/B737/thickness.png  used on input li
@@ -2389,7 +2384,7 @@ on input line 163.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 163.
 
  [10]
-<./images/pavement/B737/thickness2.png, id=372, 356.532pt x 439.04025pt>
+<./images/pavement/B737/thickness2.png, id=233, 356.532pt x 439.04025pt>
 File: ./images/pavement/B737/thickness2.png Graphic file (type png)
 <use ./images/pavement/B737/thickness2.png>
 Package pdftex.def Info: ./images/pavement/B737/thickness2.png  used on input l
@@ -2404,7 +2399,7 @@ Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 174.
 
 
 [11 <./images/pavement/B737/thickness.png>]
-<./images/pavement/B737/thickness2min.png, id=379, 356.532pt x 486.618pt>
+<./images/pavement/B737/thickness2min.png, id=240, 356.532pt x 486.618pt>
 File: ./images/pavement/B737/thickness2min.png Graphic file (type png)
 <use ./images/pavement/B737/thickness2min.png>
 Package pdftex.def Info: ./images/pavement/B737/thickness2min.png  used on inpu
@@ -2444,7 +2439,7 @@ on input line 230.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 230.
 
  [14])
-(sections/4Holdingpositions.tex
+(sections/5Aprondesign.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
@@ -2452,33 +2447,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
  [15]
 Chapter 3.
-) (sections/5Aprondesign.tex
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 1.
-
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 1.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 1.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 1.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
- input line 1.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[16
-
-]
-Chapter 4.
-<./images/pavement/apron/thickness1.png, id=409, 565.51276pt x 370.986pt>
+<./images/pavement/apron/thickness1.png, id=266, 565.51276pt x 370.986pt>
 File: ./images/pavement/apron/thickness1.png Graphic file (type png)
 <use ./images/pavement/apron/thickness1.png>
 Package pdftex.def Info: ./images/pavement/apron/thickness1.png  used on input 
@@ -2506,83 +2475,17 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 23. o
 n input line 23.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 23.
-[17
+[16
 
-]) (sections/9Highvoltageelectricalsystem.tex
+]) (sections/11Aeronauticallimitationsurfaces.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
  input line 1.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
- [18 <./images/pavement/apron/thickness1.png>]
-Chapter 5.
-) (sections/10Medvoltageelectricalsystem.tex
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 1.
-
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 1.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 1.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 1.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
- input line 1.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[19
-
-]
-Chapter 6.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--1
-|[]\T1/lmss/bx/n/24.88 Medium volt-age elec-tri-cal
- []
-
-) (sections/11Aeronauticallimitationsurfaces.tex
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 1.
-
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 1.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 1.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 1.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
- input line 1.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-[20
-
-]
-Overfull \vbox (17.87752pt too high) has occurred while \output is active []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 1. on
- input line 1.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 1.
-
-[21]
-Chapter 7.
-<./images/servidumbres/servidumbres.jpg, id=435, 321.6015pt x 358.941pt>
+ [17 <./images/pavement/apron/thickness1.png>]
+Chapter 4.
+<./images/servidumbres/servidumbres.jpg, id=279, 321.6015pt x 358.941pt>
 File: ./images/servidumbres/servidumbres.jpg Graphic file (type jpg)
 <use ./images/servidumbres/servidumbres.jpg>
 Package pdftex.def Info: ./images/servidumbres/servidumbres.jpg  used on input 
@@ -2610,17 +2513,17 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 13. o
 n input line 13.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 13.
-[22
+[18
 
  <./images/servidumbres/servidumbres.jpg>]
-<./images/servidumbres/servidumbres2.jpg, id=444, 333.04425pt x 265.59225pt>
+<./images/servidumbres/servidumbres2.jpg, id=288, 333.04425pt x 265.59225pt>
 File: ./images/servidumbres/servidumbres2.jpg Graphic file (type jpg)
 <use ./images/servidumbres/servidumbres2.jpg>
 Package pdftex.def Info: ./images/servidumbres/servidumbres2.jpg  used on input
  line 16. on input line 16.
 Package pdftex.def Info: Requested size: 298.75264pt x 238.2527pt on input line
  16.
-<./images/servidumbres/taula.jpg, id=446, 504.08325pt x 506.49225pt>
+<./images/servidumbres/taula.jpg, id=290, 504.08325pt x 506.49225pt>
 File: ./images/servidumbres/taula.jpg Graphic file (type jpg)
 <use ./images/servidumbres/taula.jpg>
 Package pdftex.def Info: ./images/servidumbres/taula.jpg  used on input line 25
@@ -2632,8 +2535,8 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 29. o
 n input line 29.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 29.
- [23 <./images/servidumbres/servidumbres2.jpg>]
-<./images/servidumbres/taulatakeoff.jpg, id=453, 466.74374pt x 286.671pt>
+ [19 <./images/servidumbres/servidumbres2.jpg>]
+<./images/servidumbres/taulatakeoff.jpg, id=297, 466.74374pt x 286.671pt>
 File: ./images/servidumbres/taulatakeoff.jpg Graphic file (type jpg)
 <use ./images/servidumbres/taulatakeoff.jpg>
 Package pdftex.def Info: ./images/servidumbres/taulatakeoff.jpg  used on input 
@@ -2645,14 +2548,14 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 38. o
 n input line 38.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 38.
- [24 <./images/servidumbres/taula.jpg>]) (Annex_LA.bbl
+ [20 <./images/servidumbres/taula.jpg>]) (Annex_LA.bbl
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 2. on
  input line 2.
 Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 2.
- [25 <./images/servidumbres/taulatakeoff.jpg>]
-Chapter 8.
+ [21 <./images/servidumbres/taulatakeoff.jpg>]
+Chapter 5.
 
 Underfull \hbox (badness 3861) in paragraph at lines 29--31
 []\T1/lmss/m/n/10.95 ``Boeing 777 AIR-CRAFT CHAR-AC-TER-IS-TICS AIR-PORT AND MA
@@ -2663,49 +2566,49 @@ IN-TE-NANCE
 AED: lastpage setting LastPage
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 89.
+less on input line 86.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 89.
+less on input line 86.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 89.
+less on input line 86.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 89.
+less on input line 86.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 89. o
-n input line 89.
-Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 89.
-[26
+Package pdftex.def Info: ./doc_config/images/logo.png  used on input line 86. o
+n input line 86.
+Package pdftex.def Info: Requested size: 17.56384pt x 25.0pt on input line 86.
+[22
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 86.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 86.
  (Annex_LA.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 86.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 86.
 Package rerunfilecheck Info: File `Annex_LA.out' has not changed.
-(rerunfilecheck)             Checksum: 52F48AABCA0E611ADE4228C6FBFAEE71;3184.
+(rerunfilecheck)             Checksum: 6E05EB439B397FBF9EDBA925EFBE21A5;1018.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 86.
  ) 
 Here is how much of TeX's memory you used:
- 30383 strings out of 493312
- 572029 string characters out of 3129392
- 640966 words of memory out of 3000000
- 33316 multiletter control sequences out of 15000+200000
+ 30315 strings out of 493312
+ 570691 string characters out of 3129392
+ 639966 words of memory out of 3000000
+ 33289 multiletter control sequences out of 15000+200000
  584824 words of font info for 63 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,16n,77p,10488b,770s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,16n,77p,10488b,747s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-math
 sy.enc}{C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm
 -rm.enc}{C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/l
@@ -2720,9 +2623,9 @@ ts/type1/public/lm/lmr10.pfb><C:/Users/Xavier/AppData/Local/Programs/MiKTeX 2.9
 KTeX 2.9/fonts/type1/public/lm/lmss9.pfb><C:/Users/Xavier/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Xavier/AppData/Local/
 Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Annex_LA.pdf (32 pages, 3347084 bytes).
+Output written on Annex_LA.pdf (27 pages, 3324065 bytes).
 PDF statistics:
- 533 PDF objects out of 1000 (max. 8388607)
- 110 named destinations out of 1000 (max. 500000)
- 540 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 370 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
+ 324 words of extra memory for PDF output out of 10000 (max. 10000000)
 

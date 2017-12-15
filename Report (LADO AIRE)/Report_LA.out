@@ -84,6 +84,7 @@
 \BOOKMARK [2][-]{subsection.7.1.7}{Runway centre line lights}{section.7.1}% 84
 \BOOKMARK [2][-]{subsection.7.1.8}{Touchdown zone lights}{section.7.1}% 85
 \BOOKMARK [2][-]{subsection.7.1.9}{Rapid exit taxiway indicator lights}{section.7.1}% 86
+<<<<<<< HEAD
 \BOOKMARK [1][-]{section.7.2}{Taxiway lights}{chapter.7}% 87
 \BOOKMARK [2][-]{subsection.7.2.1}{Taxiway lights}{section.7.2}% 88
 \BOOKMARK [2][-]{subsection.7.2.2}{Taxiway lights for an exit taxiway}{section.7.2}% 89
@@ -91,6 +92,15 @@
 \BOOKMARK [2][-]{subsection.7.2.4}{Taxiway edge lights}{section.7.2}% 91
 \BOOKMARK [2][-]{subsection.7.2.5}{Stop bar lights}{section.7.2}% 92
 \BOOKMARK [2][-]{subsection.7.2.6}{Intermediate holding point lights}{section.7.2}% 93
+=======
+\BOOKMARK [1][-]{section.7.2}{Taxiway's lights}{chapter.7}% 87
+\BOOKMARK [2][-]{subsection.7.2.1}{Taxiway's centreline lights}{section.7.2}% 88
+\BOOKMARK [2][-]{subsection.7.2.2}{Taxiway's lights for an exit taxiway}{section.7.2}% 89
+\BOOKMARK [2][-]{subsection.7.2.3}{Taxiway's light for a rapid exit taxiway}{section.7.2}% 90
+\BOOKMARK [2][-]{subsection.7.2.4}{Taxiway's edge lights}{section.7.2}% 91
+\BOOKMARK [2][-]{subsection.7.2.5}{Stop bar's lights}{section.7.2}% 92
+\BOOKMARK [2][-]{subsection.7.2.6}{Intermediate holding position's lights}{section.7.2}% 93
+>>>>>>> d65348995ea16848b189a91465812b00c42c83c5
 \BOOKMARK [1][-]{section.7.3}{Apron lights}{chapter.7}% 94
 \BOOKMARK [2][-]{subsection.7.3.1}{Centre line and edge apron lights}{section.7.3}% 95
 \BOOKMARK [2][-]{subsection.7.3.2}{Projector based apron lighting}{section.7.3}% 96
