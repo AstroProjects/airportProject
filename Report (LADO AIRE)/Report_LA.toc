@@ -207,6 +207,4 @@
 \contentsline {section}{\numberline {11.1}Physical limitation surfaces}{71}{section.11.1}
 \contentsline {paragraph}{}{71}{section*.165}
 \contentsline {section}{\numberline {11.2}ILS limitation surfaces}{74}{section.11.2}
-\contentsline {section}{\numberline {11.3}Localizer limitation surfaces}{74}{section.11.3}
-\contentsline {section}{\numberline {11.4}Gliding trajectory protection limitation surfaces}{74}{section.11.4}
 \contentsline {chapter}{\numberline {12}Bibliography}{75}{chapter.12}

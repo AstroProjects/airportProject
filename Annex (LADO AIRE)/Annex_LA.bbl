@@ -21,6 +21,10 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{Standards2016}
+I.~Standards, R.~Practices, I.~C. Aviation, and A.~Design, ``{Aerodromes},''
+  vol.~I, no. July, 2016.
+
 \bibitem{777}
 ``{Boeing 777 AIRCRAFT CHARACTERISTICS AIRPORT AND MAINTENANCE PLANNING},''
   2013.
@@ -31,10 +35,6 @@ D.~Y. Contrucci{\'{o}}n and D.~Aeropuertos, ``{Octubre 2017 C{\'{A}}LCULO DE
 
 \bibitem{A330}
 ``{@AIRBUS A330 AIRCRAFT CHARACTERISTICS AIRPORT AND MAINTENANCE PLANNING}.''
-
-\bibitem{Standards2016}
-I.~Standards, R.~Practices, I.~C. Aviation, and A.~Design, ``{Aerodromes},''
-  vol.~I, no. July, 2016.
 
 \bibitem{777200}
 S.~{Software Service}, ``{777-200LR / -300ER / -Freighter Airplane
