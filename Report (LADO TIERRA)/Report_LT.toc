@@ -74,8 +74,8 @@
 \contentsline {section}{\numberline {8.1}Fire prevention regulations }{62}{section.8.1}
 \contentsline {subsection}{\numberline {8.1.1}Terminal protection}{62}{subsection.8.1.1}
 \contentsline {paragraph}{}{62}{section*.90}
-\contentsline {subsection}{\numberline {8.1.2}Level of protection}{62}{subsection.8.1.2}
-\contentsline {paragraph}{}{62}{section*.91}
+\contentsline {subsection}{\numberline {8.1.2}Level of protection}{63}{subsection.8.1.2}
+\contentsline {paragraph}{}{63}{section*.91}
 \contentsline {subsection}{\numberline {8.1.3}Extinguishing agents}{63}{subsection.8.1.3}
 \contentsline {paragraph}{}{63}{section*.93}
 \contentsline {subsection}{\numberline {8.1.4}Rescue equipment}{64}{subsection.8.1.4}
@@ -83,10 +83,8 @@
 \contentsline {subsection}{\numberline {8.1.6}Emergency access roads}{65}{subsection.8.1.6}
 \contentsline {paragraph}{}{65}{section*.96}
 \contentsline {subsection}{\numberline {8.1.7}Fire stations}{65}{subsection.8.1.7}
-\contentsline {subsection}{\numberline {8.1.8}Number of rescue and firefighting vehicles}{65}{subsection.8.1.8}
+\contentsline {subsection}{\numberline {8.1.8}Number of rescue and firefighting vehicles}{66}{subsection.8.1.8}
 \contentsline {subsection}{\numberline {8.1.9}Personnel}{66}{subsection.8.1.9}
 \contentsline {paragraph}{}{66}{section*.98}
-\contentsline {section}{\numberline {8.2}Chosen materials}{66}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Building elements}{67}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Materials}{67}{subsection.8.2.2}
+\contentsline {section}{\numberline {8.2}Chosen materials}{67}{section.8.2}
 \contentsline {chapter}{\numberline {9}Bibliography}{68}{chapter.9}
